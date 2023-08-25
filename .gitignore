@@ -1,0 +1,10 @@
+# Ignore Node.js build artifacts
+node_modules/
+
+# Ignore client build artifacts
+client/node_modules/
+client/.next/
+
+# Ignore backend build artifacts
+backend/node_modules/
+
