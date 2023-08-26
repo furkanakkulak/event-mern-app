@@ -1,27 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,800;1,900&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
-}
+@layer components {
+  html,
+  body,
+  #__next {
+    @apply h-full w-full font-poppins;
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
+    nav {
+      @apply bg-light-bg dark:bg-dark-bg w-full flex h-[80px] items-center justify-between px-4 sm:px-8 fixed top-0 z-50 shadow-md;
+
+      .logo {
+        @apply text-2xl md:text-3xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent select-none;
+      }
+      .menu {
+        @apply flex items-center justify-center space-x-2 md:space-x-8 text-lg;
+
+        .nav-links {
+          @apply flex items-center space-x-8 text-light-txt dark:text-dark-txt;
+
+          a {
+            @apply font-medium hover:text-secondary hidden md:flex;
+            &.active {
+              @apply text-primary;
+            }
+          }
+        }
+
+        button.dark-light-btn {
+          svg {
+            @apply h-10 w-10 p-2 text-3xl rounded-full cursor-pointer flex items-center justify-center bg-primary hover:bg-secondary text-light-txt dark:text-dark-txt;
+          }
+        }
+
+        button.mobile-menu-btn {
+          @apply md:hidden;
+
+          svg {
+            @apply h-10 w-10 flex text-light-txt dark:text-dark-txt;
+          }
+        }
+
+        .mobile-links {
+          @apply absolute top-[75px] left-0 right-0 !mx-auto w-full h-screen bg-light-bg dark:bg-dark-bg flex flex-col items-center justify-center gap-y-10 md:hidden text-2xl text-light-txt dark:text-dark-txt;
+
+          a {
+            @apply hover:text-secondary;
+          }
+          a.active {
+            @apply text-primary;
+          }
+        }
+      }
+    }
+    main {
+      @apply pt-[80px] h-full w-full overflow-y-auto bg-light-bg dark:bg-dark-bg px-4 sm:px-8;
+
+      &.home {
+        @apply flex items-center justify-center;
+
+        .content {
+          @apply w-full mx-auto flex flex-col gap-y-4 md:gap-y-6 lg:gap-y-8 xl:gap-y-10 bg-[#f4f4f4] dark:bg-[#222222] px-2.5 py-5 md:px-5 md:py-10 lg:px-10 lg:py-20 xl:px-20 xl:py-40 rounded-xl;
+
+          .head {
+            @apply flex flex-col gap-y-2 md:gap-y-4 lg:gap-y-6 xl:gap-y-8 select-none;
+            .title {
+              @apply text-2xl md:text-4xl lg:text-6xl xl:text-8xl font-extrabold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent hover:from-secondary hover:to-primary;
+            }
+            .sub-title {
+              @apply text-lg md:text-2xl lg:text-4xl xl:text-6xl italic font-medium text-light-txt dark:text-dark-txt;
+            }
+          }
+
+          .search {
+            @apply w-full relative;
+            input {
+              @apply shadow-md italic text-base md:text-lg lg:text-2xl xl:text-4xl text-light-txt dark:text-dark-txt border border-light-bg dark:border-dark-bg focus:outline-light-txt rounded-full w-full px-2 md:px-4 lg:px-6 xl:px-8 py-2 md:py-4 lg:py-6 xl:py-8 pr-9 md:pr-12 lg:pr-16 xl:pr-20 font-medium bg-light-bg dark:bg-dark-bg;
+            }
+            svg {
+              @apply absolute top-0 bottom-0 my-auto right-2.5 h-2/3 w-auto text-light-txt dark:text-dark-txt flex;
+            }
+          }
+        }
+      }
+
+      .header {
+        @apply flex items-center justify-between w-full py-8;
+      }
+    }
   }
-}
-
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
 }

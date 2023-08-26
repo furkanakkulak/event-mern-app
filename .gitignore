@@ -8,3 +8,6 @@ client/.next/
 # Ignore backend build artifacts
 backend/node_modules/
 
+backend/pnpm-lock.yaml
+
+#backend/public/images/*
