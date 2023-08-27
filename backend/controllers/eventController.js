@@ -16,7 +16,23 @@ exports.getAllEvents = async (req, res) => {
       events = await Event.find();
     }
 
-    res.status(200).json(events);
+    if (events.length === 0) {
+      return res.status(404).json({ error: 'No events found.' });
+    }
+
+    const updatedEvents = events.map((event) => {
+      const now = new Date();
+      const eventStartDate = new Date(event.startDate);
+
+      const type = now < eventStartDate ? 'future' : 'past';
+
+      return {
+        ...event.toObject(),
+        type,
+      };
+    });
+
+    res.status(200).json(updatedEvents);
   } catch (error) {
     res.status(500).json({ error: 'An error occurred while fetching events.' });
   }

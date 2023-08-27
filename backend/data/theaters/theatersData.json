@@ -1,0 +1,2102 @@
+[
+  {
+    "name": "Masal Fabrikası",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Tiyatro Marşı Sahnesi. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Tiyatro Marşı Sahnesi. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-07T10:03:30.158Z",
+    "endDate": "2023-08-07T13:03:30.158Z",
+    "city": "Diyarbakır",
+    "address": "Bağlar, Ziya Gökalp Mahallesi, Tugay Yolu Cad., 21120 Bağlar",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3083.8504095617567!2d40.1970973155462!3d37.89507597960763!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x401f42b3145e5b6d%3A0xd0ccf160a57f2b2c!2sTiyatro%20Mar%C5%9F%C4%B1%20Sahnesi!5e0!3m2!1str!2str!4v1693129243089!5m2!1str!2str",
+    "location": "Tiyatro Marşı Sahnesi",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 70
+      },
+      {
+        "category": "VIP",
+        "price": 399
+      }
+    ]
+  },
+  {
+    "name": "Hayal Makinesi",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Harbiye Cemil Topuzlu Açık Hava Tiyatrosu. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Harbiye Cemil Topuzlu Açık Hava Tiyatrosu. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-10T11:52:53.680Z",
+    "endDate": "2023-09-10T13:52:53.680Z",
+    "city": "İstanbul",
+    "address": "Harbiye, Taşkışla Cd. No:8, 34367 Şişli",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3009.0486483794148!2d28.987455176570634!3d41.046065217096476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab77253099bb5%3A0xa73a3d0b8b295da9!2sHarbiye%20Cemil%20Topuzlu%20A%C3%A7%C4%B1k%20Hava%20Tiyatrosu!5e0!3m2!1str!2str!4v1693128750294!5m2!1str!2str",
+    "location": "Harbiye Cemil Topuzlu Açık Hava Tiyatrosu",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 175
+      },
+      {
+        "category": "VIP",
+        "price": 472
+      }
+    ]
+  },
+  {
+    "name": "Kaos Teorisi",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Balıkesir Kültür Merkezi. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Balıkesir Kültür Merkezi. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-13T04:35:02.078Z",
+    "endDate": "2023-08-13T07:35:02.078Z",
+    "city": "Balıkesir",
+    "address": "Altıeylül, Çarşı Mahallesi, Belediye Cd. No:23, 10100 Altıeylül",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3074.559365437667!2d27.93657211554652!3d39.64861612285609!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x402e515dd5b13b4f%3A0x9e3156bf59c7f21a!2sBal%C4%B1kesir%20K%C3%BClt%C3%BCr%20Merkezi!5e0!3m2!1str!2str!4v1693129466906!5m2!1str!2str",
+    "location": "Balıkesir Kültür Merkezi",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 133
+      },
+      {
+        "category": "VIP",
+        "price": 284
+      }
+    ]
+  },
+  {
+    "name": "Hayal Makinesi",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Bülent Ecevit Kültür Merkezi. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Bülent Ecevit Kültür Merkezi. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-15T13:51:08.140Z",
+    "endDate": "2023-09-15T15:51:08.140Z",
+    "city": "Elazığ",
+    "address": "Merkez, Yeşil Yurt Mahallesi, İzzetpaşa Cd., 23100 Merkez",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3070.287336086073!2d39.22327911554825!3d38.66719187690122!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40693803e5c40c3f%3A0xa406fc56b6b5b8cc!2sB%C3%BClent%20Ecevit%20K%C3%BClt%C3%BCr%20Merkezi!5e0!3m2!1str!2str!4v1693129632156!5m2!1str!2str",
+    "location": "Bülent Ecevit Kültür Merkezi",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 80
+      },
+      {
+        "category": "VIP",
+        "price": 497
+      }
+    ]
+  },
+  {
+    "name": "Son Perde",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Samsun Yeni Sahne. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Samsun Yeni Sahne. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-15T01:30:58.397Z",
+    "endDate": "2023-08-15T04:30:58.397Z",
+    "city": "Samsun",
+    "address": "Atakum, 19 Mayıs Mahallesi, 55200 Atakum",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3060.9249119508713!2d36.32324391555175!3d41.25938058372206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40274c0006ad4c11%3A0x97b65f4295f5ec21!2sSamsun%20Yeni%20Sahne!5e0!3m2!1str!2str!4v1693129428913!5m2!1str!2str",
+    "location": "Samsun Yeni Sahne",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 89
+      },
+      {
+        "category": "VIP",
+        "price": 292
+      }
+    ]
+  },
+  {
+    "name": "Kelimelerin Dansı",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Balıkesir Kültür Merkezi. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Balıkesir Kültür Merkezi. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-12T21:25:57.368Z",
+    "endDate": "2023-08-13T00:25:57.368Z",
+    "city": "Balıkesir",
+    "address": "Altıeylül, Çarşı Mahallesi, Belediye Cd. No:23, 10100 Altıeylül",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3074.559365437667!2d27.93657211554652!3d39.64861612285609!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x402e515dd5b13b4f%3A0x9e3156bf59c7f21a!2sBal%C4%B1kesir%20K%C3%BClt%C3%BCr%20Merkezi!5e0!3m2!1str!2str!4v1693129466906!5m2!1str!2str",
+    "location": "Balıkesir Kültür Merkezi",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 117
+      },
+      {
+        "category": "VIP",
+        "price": 235
+      }
+    ]
+  },
+  {
+    "name": "Güneşin Battığı Yer",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at IF Performance Hall. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of IF Performance Hall. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-15T06:40:59.018Z",
+    "endDate": "2023-09-15T08:40:59.018Z",
+    "city": "Eskişehir",
+    "address": "Hoşnudiye, Cassaba Modern AVM, 748. Sok No: 3/A, 26130 Tepebaşı",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12264.035804623225!2d30.4998206!3d39.7843545!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cc15893eb11419%3A0x14401ed9e3f51355!2sIF%20Performance%20Hall!5e0!3m2!1str!2str!4v1693128594939!5m2!1str!2str",
+    "location": "IF Performance Hall",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 64
+      },
+      {
+        "category": "VIP",
+        "price": 226
+      }
+    ]
+  },
+  {
+    "name": "Rüya Avcıları",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Kültürpark Açık Hava Tiyatrosu. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Kültürpark Açık Hava Tiyatrosu. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-10T22:25:34.373Z",
+    "endDate": "2023-08-11T00:25:34.373Z",
+    "city": "Konya",
+    "address": "Selçuklu, Alaaddin Bulvarı, 42030 Selçuklu",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3045.617063208618!2d32.49187461542863!3d37.87771857415985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4013ea3c9dd657f5%3A0x727b1815d3a7ab3e!2zS8O8bHRyw61yIExpbGzDvG1lcmsgQ8WjaWUgSGF2YSBUaXlhdG9yc29mdXN1!5e0!3m2!1str!2str!4v1693129187693!5m2!1str!2str",
+    "location": "Kültürpark Açık Hava Tiyatrosu",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 74
+      },
+      {
+        "category": "VIP",
+        "price": 456
+      }
+    ]
+  },
+  {
+    "name": "Buzlar Çözülmeden",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Isparta Kongre ve Sergi Sarayı. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Isparta Kongre ve Sergi Sarayı. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-22T21:01:05.194Z",
+    "endDate": "2023-09-22T23:01:05.194Z",
+    "city": "Isparta",
+    "address": "Merkez, Bahçelievler Mahallesi, Atatürk Bulvarı No:91, 32040 Merkez",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3069.176579499471!2d30.541828615559743!3d37.77079137909062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14be8e020b4b8285%3A0x7a5a8ad770b949a2!2sIsparta%20Kongre%20ve%20Sergi%20Saray%C4%B1!5e0!3m2!1str!2str!4v1693130051665!5m2!1str!2str",
+    "location": "Isparta Kongre ve Sergi Sarayı",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 63
+      },
+      {
+        "category": "VIP",
+        "price": 398
+      }
+    ]
+  },
+  {
+    "name": "Güneşin Battığı Yer",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at IF Performance Hall. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of IF Performance Hall. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-19T03:20:13.862Z",
+    "endDate": "2023-08-19T04:20:13.862Z",
+    "city": "Eskişehir",
+    "address": "Hoşnudiye, Cassaba Modern AVM, 748. Sok No: 3/A, 26130 Tepebaşı",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12264.035804623225!2d30.4998206!3d39.7843545!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cc15893eb11419%3A0x14401ed9e3f51355!2sIF%20Performance%20Hall!5e0!3m2!1str!2str!4v1693128594939!5m2!1str!2str",
+    "location": "IF Performance Hall",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 51
+      },
+      {
+        "category": "VIP",
+        "price": 378
+      }
+    ]
+  },
+  {
+    "name": "Rastgele Rol",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Pamukkale Üniversitesi Kınıklı Kampüsü Amfi Tiyatro. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Pamukkale Üniversitesi Kınıklı Kampüsü Amfi Tiyatro. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-27T20:25:13.706Z",
+    "endDate": "2023-08-27T21:25:13.706Z",
+    "city": "Denizli",
+    "address": "Pamukkale, Kınıklı Mahallesi, Kampüs Cd., 20100 Pamukkale",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3055.116232867047!2d29.688362915564065!3d37.805600779753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cfa5efccde418f%3A0x9a6d9e9d1848d792!2sPamukkale%20%C3%9Cniversitesi%20K%C4%B1n%C4%B1kl%C4%B1%20Kamp%C3%BCs%C3%BC%20Amfi%20Tiyatro!5e0!3m2!1str!2str!4v1693129712496!5m2!1str!2str",
+    "location": "Pamukkale Üniversitesi Kınıklı Kampüsü Amfi Tiyatro",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 124
+      },
+      {
+        "category": "VIP",
+        "price": 392
+      }
+    ]
+  },
+  {
+    "name": "Sessiz Gemi",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Van Gölü Açık Hava Tiyatrosu. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Van Gölü Açık Hava Tiyatrosu. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-25T05:24:43.572Z",
+    "endDate": "2023-08-25T07:24:43.572Z",
+    "city": "Van",
+    "address": "İpekyolu, Tuşba Belediyesi, 65000 İpekyolu",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3084.663799035867!2d43.366077315545034!3d38.4906313771987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4046bb1097275c4f%3A0xf4a0fb47eb8ed8df!2sVan%20G%C3%B6l%C3%BC%20A%C3%A7%C4%B1k%20Hava%20Tiyatrosu!5e0!3m2!1str!2str!4v1693129672594!5m2!1str!2str",
+    "location": "Van Gölü Açık Hava Tiyatrosu",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 81
+      },
+      {
+        "category": "VIP",
+        "price": 461
+      }
+    ]
+  },
+  {
+    "name": "Masal Fabrikası",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at SAÜ Kültür ve Kongre Merkezi. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of SAÜ Kültür ve Kongre Merkezi. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-27T13:10:31.874Z",
+    "endDate": "2023-09-27T16:10:31.874Z",
+    "city": "Adapazarı",
+    "address": "Serdivan, Sakarya Üniversitesi Kampüsü, 54100 Serdivan",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3052.259175002075!2d30.36130631553059!3d40.77914448441208!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14b34f76d1727c0f%3A0x9b74114ac3944e29!2sSA%C3%9C%20K%C3%BClt%C3%BCr%20ve%20Kongre%20Merkezi!5e0!3m2!1str!2str!4v1693129508048!5m2!1str!2str",
+    "location": "SAÜ Kültür ve Kongre Merkezi",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 92
+      },
+      {
+        "category": "VIP",
+        "price": 216
+      }
+    ]
+  },
+  {
+    "name": "Rastgele Rol",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at IF Performance Hall. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of IF Performance Hall. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-15T23:49:13.909Z",
+    "endDate": "2023-09-16T00:49:13.909Z",
+    "city": "Eskişehir",
+    "address": "Hoşnudiye, Cassaba Modern AVM, 748. Sok No: 3/A, 26130 Tepebaşı",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12264.035804623225!2d30.4998206!3d39.7843545!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cc15893eb11419%3A0x14401ed9e3f51355!2sIF%20Performance%20Hall!5e0!3m2!1str!2str!4v1693128594939!5m2!1str!2str",
+    "location": "IF Performance Hall",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 134
+      },
+      {
+        "category": "VIP",
+        "price": 309
+      }
+    ]
+  },
+  {
+    "name": "Yıldız Tozu",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Antalya Kültür Merkezi. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Antalya Kültür Merkezi. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-13T09:57:00.719Z",
+    "endDate": "2023-09-13T11:57:00.719Z",
+    "city": "Antalya",
+    "address": "Konyaaltı, Konyaaltı Cad. No:30, 07050 Konyaaltı",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3084.5651953314056!2d30.7013456155452!3d36.86119287874573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ba869c860e8083%3A0xa23f8fe2b3b97ee!2sAntalya%20K%C3%BClt%C3%BCr%20Merkezi!5e0!3m2!1str!2str!4v1693129033569!5m2!1str!2str",
+    "location": "Antalya Kültür Merkezi",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 57
+      },
+      {
+        "category": "VIP",
+        "price": 323
+      }
+    ]
+  },
+  {
+    "name": "Kelimelerin Dansı",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at IF Performance Hall. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of IF Performance Hall. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-14T23:20:17.111Z",
+    "endDate": "2023-09-15T02:20:17.111Z",
+    "city": "Eskişehir",
+    "address": "Hoşnudiye, Cassaba Modern AVM, 748. Sok No: 3/A, 26130 Tepebaşı",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12264.035804623225!2d30.4998206!3d39.7843545!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cc15893eb11419%3A0x14401ed9e3f51355!2sIF%20Performance%20Hall!5e0!3m2!1str!2str!4v1693128594939!5m2!1str!2str",
+    "location": "IF Performance Hall",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 70
+      },
+      {
+        "category": "VIP",
+        "price": 381
+      }
+    ]
+  },
+  {
+    "name": "Gece Yürüyüşü",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Tiyatro Marşı Sahnesi. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Tiyatro Marşı Sahnesi. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-14T23:24:51.065Z",
+    "endDate": "2023-09-15T00:24:51.065Z",
+    "city": "Diyarbakır",
+    "address": "Bağlar, Ziya Gökalp Mahallesi, Tugay Yolu Cad., 21120 Bağlar",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3083.8504095617567!2d40.1970973155462!3d37.89507597960763!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x401f42b3145e5b6d%3A0xd0ccf160a57f2b2c!2sTiyatro%20Mar%C5%9F%C4%B1%20Sahnesi!5e0!3m2!1str!2str!4v1693129243089!5m2!1str!2str",
+    "location": "Tiyatro Marşı Sahnesi",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 71
+      },
+      {
+        "category": "VIP",
+        "price": 429
+      }
+    ]
+  },
+  {
+    "name": "Buzlar Çözülmeden",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Van Gölü Açık Hava Tiyatrosu. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Van Gölü Açık Hava Tiyatrosu. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-14T03:32:37.296Z",
+    "endDate": "2023-09-14T06:32:37.296Z",
+    "city": "Van",
+    "address": "İpekyolu, Tuşba Belediyesi, 65000 İpekyolu",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3084.663799035867!2d43.366077315545034!3d38.4906313771987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4046bb1097275c4f%3A0xf4a0fb47eb8ed8df!2sVan%20G%C3%B6l%C3%BC%20A%C3%A7%C4%B1k%20Hava%20Tiyatrosu!5e0!3m2!1str!2str!4v1693129672594!5m2!1str!2str",
+    "location": "Van Gölü Açık Hava Tiyatrosu",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 82
+      },
+      {
+        "category": "VIP",
+        "price": 363
+      }
+    ]
+  },
+  {
+    "name": "Hayal Makinesi",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Merkez Park Konser Alanı. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Merkez Park Konser Alanı. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-22T18:16:55.361Z",
+    "endDate": "2023-09-22T20:16:55.361Z",
+    "city": "Adana",
+    "address": "Seyhan, Üniversite Cd. No:1, 01100 Seyhan",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3085.330174856742!2d35.31671661550422!3d37.00033712284606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14bdd80fb9c5c5eb%3A0x84e8ed692d7b6e29!2sMerkez%20Park!5e0!3m2!1str!2str!4v1693129078927!5m2!1str!2str",
+    "location": "Merkez Park Konser Alanı",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 98
+      },
+      {
+        "category": "VIP",
+        "price": 361
+      }
+    ]
+  },
+  {
+    "name": "Kırık Dökük Aşklar",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Alsancak Sahne. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Alsancak Sahne. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-06T19:56:17.359Z",
+    "endDate": "2023-09-06T20:56:17.359Z",
+    "city": "İzmir",
+    "address": "Alsancak, 1442. Sokak No:6, 35220 Konak",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3135.191048789663!2d27.145765415543027!3d38.43989257963396!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14baba2c3bfb3821%3A0xadd69d00f58e988e!2sAlsancak%20Sahne!5e0!3m2!1str!2str!4v1693128885207!5m2!1str!2str",
+    "location": "Alsancak Sahne",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 90
+      },
+      {
+        "category": "VIP",
+        "price": 211
+      }
+    ]
+  },
+  {
+    "name": "Sonsuz Öyküler",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Antalya Kültür Merkezi. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Antalya Kültür Merkezi. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-01T14:35:14.750Z",
+    "endDate": "2023-08-01T17:35:14.750Z",
+    "city": "Antalya",
+    "address": "Konyaaltı, Konyaaltı Cad. No:30, 07050 Konyaaltı",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3084.5651953314056!2d30.7013456155452!3d36.86119287874573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ba869c860e8083%3A0xa23f8fe2b3b97ee!2sAntalya%20K%C3%BClt%C3%BCr%20Merkezi!5e0!3m2!1str!2str!4v1693129033569!5m2!1str!2str",
+    "location": "Antalya Kültür Merkezi",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 65
+      },
+      {
+        "category": "VIP",
+        "price": 397
+      }
+    ]
+  },
+  {
+    "name": "Son Perde",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Isparta Kongre ve Sergi Sarayı. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Isparta Kongre ve Sergi Sarayı. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-12T01:12:43.272Z",
+    "endDate": "2023-09-12T04:12:43.272Z",
+    "city": "Isparta",
+    "address": "Merkez, Bahçelievler Mahallesi, Atatürk Bulvarı No:91, 32040 Merkez",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3069.176579499471!2d30.541828615559743!3d37.77079137909062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14be8e020b4b8285%3A0x7a5a8ad770b949a2!2sIsparta%20Kongre%20ve%20Sergi%20Saray%C4%B1!5e0!3m2!1str!2str!4v1693130051665!5m2!1str!2str",
+    "location": "Isparta Kongre ve Sergi Sarayı",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 51
+      },
+      {
+        "category": "VIP",
+        "price": 478
+      }
+    ]
+  },
+  {
+    "name": "Kırık Dökük Aşklar",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Malatya Kültür Merkezi. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Malatya Kültür Merkezi. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-18T10:49:03.134Z",
+    "endDate": "2023-09-18T11:49:03.134Z",
+    "city": "Malatya",
+    "address": "Yeşilyurt, İnönü Cd. No:138, 44340 Yeşilyurt",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3070.280376131958!2d38.28969891554824!3d38.31722967528954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4044dbf1749f8f2f%3A0x76fc6fbb3fc0d3c9!2sMalatya%20K%C3%BClt%C3%BCr%20Merkezi!5e0!3m2!1str!2str!4v1693129549726!5m2!1str!2str",
+    "location": "Malatya Kültür Merkezi",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 86
+      },
+      {
+        "category": "VIP",
+        "price": 179
+      }
+    ]
+  },
+  {
+    "name": "Kırık Dökük Aşklar",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Van Gölü Açık Hava Tiyatrosu. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Van Gölü Açık Hava Tiyatrosu. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-10T16:28:07.426Z",
+    "endDate": "2023-09-10T19:28:07.426Z",
+    "city": "Van",
+    "address": "İpekyolu, Tuşba Belediyesi, 65000 İpekyolu",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3084.663799035867!2d43.366077315545034!3d38.4906313771987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4046bb1097275c4f%3A0xf4a0fb47eb8ed8df!2sVan%20G%C3%B6l%C3%BC%20A%C3%A7%C4%B1k%20Hava%20Tiyatrosu!5e0!3m2!1str!2str!4v1693129672594!5m2!1str!2str",
+    "location": "Van Gölü Açık Hava Tiyatrosu",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 72
+      },
+      {
+        "category": "VIP",
+        "price": 156
+      }
+    ]
+  },
+  {
+    "name": "Masal Fabrikası",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Şehir Stadyumu. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Şehir Stadyumu. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-01T00:30:11.939Z",
+    "endDate": "2023-08-01T03:30:11.939Z",
+    "city": "Karaman",
+    "address": "Merkez, 70100 Merkez",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3077.5394119757334!2d33.428682915544466!3d37.56365747778004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14b2f0adfc4be6c1%3A0x4575c77cf625f924!2s%C5%9Eehir%20Stadyumu!5e0!3m2!1str!2str!4v1693130011830!5m2!1str!2str",
+    "location": "Şehir Stadyumu",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 55
+      },
+      {
+        "category": "VIP",
+        "price": 424
+      }
+    ]
+  },
+  {
+    "name": "Kırık Dökük Aşklar",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Balıkesir Kültür Merkezi. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Balıkesir Kültür Merkezi. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-03T23:56:55.040Z",
+    "endDate": "2023-08-04T01:56:55.040Z",
+    "city": "Balıkesir",
+    "address": "Altıeylül, Çarşı Mahallesi, Belediye Cd. No:23, 10100 Altıeylül",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3074.559365437667!2d27.93657211554652!3d39.64861612285609!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x402e515dd5b13b4f%3A0x9e3156bf59c7f21a!2sBal%C4%B1kesir%20K%C3%BClt%C3%BCr%20Merkezi!5e0!3m2!1str!2str!4v1693129466906!5m2!1str!2str",
+    "location": "Balıkesir Kültür Merkezi",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 60
+      },
+      {
+        "category": "VIP",
+        "price": 367
+      }
+    ]
+  },
+  {
+    "name": "Yolun Sonu",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Harbiye Cemil Topuzlu Açık Hava Tiyatrosu. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Harbiye Cemil Topuzlu Açık Hava Tiyatrosu. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-12T13:05:53.371Z",
+    "endDate": "2023-08-12T15:05:53.371Z",
+    "city": "İstanbul",
+    "address": "Harbiye, Taşkışla Cd. No:8, 34367 Şişli",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3009.0486483794148!2d28.987455176570634!3d41.046065217096476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab77253099bb5%3A0xa73a3d0b8b295da9!2sHarbiye%20Cemil%20Topuzlu%20A%C3%A7%C4%B1k%20Hava%20Tiyatrosu!5e0!3m2!1str!2str!4v1693128750294!5m2!1str!2str",
+    "location": "Harbiye Cemil Topuzlu Açık Hava Tiyatrosu",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 147
+      },
+      {
+        "category": "VIP",
+        "price": 485
+      }
+    ]
+  },
+  {
+    "name": "Görünmez Oyuncu",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Samsun Yeni Sahne. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Samsun Yeni Sahne. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-14T20:51:04.766Z",
+    "endDate": "2023-08-14T21:51:04.766Z",
+    "city": "Samsun",
+    "address": "Atakum, 19 Mayıs Mahallesi, 55200 Atakum",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3060.9249119508713!2d36.32324391555175!3d41.25938058372206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40274c0006ad4c11%3A0x97b65f4295f5ec21!2sSamsun%20Yeni%20Sahne!5e0!3m2!1str!2str!4v1693129428913!5m2!1str!2str",
+    "location": "Samsun Yeni Sahne",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 183
+      },
+      {
+        "category": "VIP",
+        "price": 163
+      }
+    ]
+  },
+  {
+    "name": "Hayal Makinesi",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Merkez Park Konser Alanı. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Merkez Park Konser Alanı. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-17T23:02:01.500Z",
+    "endDate": "2023-08-18T00:02:01.500Z",
+    "city": "Adana",
+    "address": "Seyhan, Üniversite Cd. No:1, 01100 Seyhan",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3085.330174856742!2d35.31671661550422!3d37.00033712284606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14bdd80fb9c5c5eb%3A0x84e8ed692d7b6e29!2sMerkez%20Park!5e0!3m2!1str!2str!4v1693129078927!5m2!1str!2str",
+    "location": "Merkez Park Konser Alanı",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 181
+      },
+      {
+        "category": "VIP",
+        "price": 286
+      }
+    ]
+  },
+  {
+    "name": "Gece Yürüyüşü",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Afyon Kocatepe Üniversitesi Kampüsü Amfi Tiyatro. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Afyon Kocatepe Üniversitesi Kampüsü Amfi Tiyatro. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-23T22:58:37.460Z",
+    "endDate": "2023-08-24T00:58:37.460Z",
+    "city": "Afyonkarahisar",
+    "address": "Merkez, Dinar Yolu Üzeri, 03200 Merkez",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3055.561443593812!2d30.558940715563487!3d38.737878879600065!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40f35ad9e3a00d3f%3A0xc9a4d43d5fb977f5!2sAfyon%20Kocatepe%20%C3%9Cniversitesi%20Kamp%C3%BCs%C3%BC%20Amfi%20Tiyatro!5e0!3m2!1str!2str!4v1693129951877!5m2!1str!2str",
+    "location": "Afyon Kocatepe Üniversitesi Kampüsü Amfi Tiyatro",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 171
+      },
+      {
+        "category": "VIP",
+        "price": 314
+      }
+    ]
+  },
+  {
+    "name": "Biletin Sonu",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Merkez Kültür Merkezi. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Merkez Kültür Merkezi. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-25T13:25:18.997Z",
+    "endDate": "2023-09-25T15:25:18.997Z",
+    "city": "Aksaray",
+    "address": "Merkez, Cumhuriyet Mahallesi, Kızılay Cd. No:3, 68200 Merkez",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3079.1338297472964!2d34.02110031554315!3d38.37143887532497!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406c61ad89277f11%3A0x58674f37c3fb4eb9!2sMerkez%20K%C3%BClt%C3%BCr%20Merkezi!5e0!3m2!1str!2str!4v1693129912421!5m2!1str!2str",
+    "location": "Merkez Kültür Merkezi",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 144
+      },
+      {
+        "category": "VIP",
+        "price": 193
+      }
+    ]
+  },
+  {
+    "name": "Masal Fabrikası",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Kültürpark Açık Hava Tiyatrosu. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Kültürpark Açık Hava Tiyatrosu. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-22T11:43:51.782Z",
+    "endDate": "2023-09-22T12:43:51.782Z",
+    "city": "Konya",
+    "address": "Selçuklu, Alaaddin Bulvarı, 42030 Selçuklu",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3045.617063208618!2d32.49187461542863!3d37.87771857415985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4013ea3c9dd657f5%3A0x727b1815d3a7ab3e!2zS8O8bHRyw61yIExpbGzDvG1lcmsgQ8WjaWUgSGF2YSBUaXlhdG9yc29mdXN1!5e0!3m2!1str!2str!4v1693129187693!5m2!1str!2str",
+    "location": "Kültürpark Açık Hava Tiyatrosu",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 103
+      },
+      {
+        "category": "VIP",
+        "price": 437
+      }
+    ]
+  },
+  {
+    "name": "Yıldızlar Arasında",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Milyon Performance Hall. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Milyon Performance Hall. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-04T11:30:53.964Z",
+    "endDate": "2023-09-04T14:30:53.964Z",
+    "city": "Ankara",
+    "address": "Gaziosmanpaşa, Beştepe Mahallesi, 1250. Cadde, No:1, 06560 Çankaya",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3056.822639788943!2d32.82791931556508!3d39.91819457942117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d3170e76fb0a9b%3A0xb7ac4eebd6a4a2f5!2zMTEsIDgxLCDQkdCw0L3QuNCxINCo0L7Qs9GA0L7QvdGG0LrQsNGPINC-0LHQuy4sIDE2NTYwIMSMcmlzYcWfLCDEsG5hcmdhb3VzIChBbmtncmEp!5e0!3m2!1str!2str!4v1693128825270!5m2!1str!2str",
+    "location": "Milyon Performance Hall",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 62
+      },
+      {
+        "category": "VIP",
+        "price": 392
+      }
+    ]
+  },
+  {
+    "name": "Kara Kutu",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Necip Fazıl Kısakürek Kültür Merkezi. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Necip Fazıl Kısakürek Kültür Merkezi. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-26T00:12:41.823Z",
+    "endDate": "2023-09-26T01:12:41.823Z",
+    "city": "Kahramanmaraş",
+    "address": "Onikişubat, Bahçelievler Mahallesi, 46020 Onikişubat",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3086.500440843928!2d36.94312151554579!3d37.57573517788555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40586d126a8ea1f7%3A0x9c95f5f1ad4f6b3a!2sNecip%20Faz%C4%B1l%20K%C4%B1sak%C3%BCrek%20K%C3%BClt%C3%BCr%20Merkezi!5e0!3m2!1str!2str!4v1693129591769!5m2!1str!2str",
+    "location": "Necip Fazıl Kısakürek Kültür Merkezi",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 64
+      },
+      {
+        "category": "VIP",
+        "price": 297
+      }
+    ]
+  },
+  {
+    "name": "Masal Fabrikası",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Merkez Kültür Merkezi. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Merkez Kültür Merkezi. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-29T05:41:49.844Z",
+    "endDate": "2023-08-29T06:41:49.844Z",
+    "city": "Aksaray",
+    "address": "Merkez, Cumhuriyet Mahallesi, Kızılay Cd. No:3, 68200 Merkez",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3079.1338297472964!2d34.02110031554315!3d38.37143887532497!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406c61ad89277f11%3A0x58674f37c3fb4eb9!2sMerkez%20K%C3%BClt%C3%BCr%20Merkezi!5e0!3m2!1str!2str!4v1693129912421!5m2!1str!2str",
+    "location": "Merkez Kültür Merkezi",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 195
+      },
+      {
+        "category": "VIP",
+        "price": 395
+      }
+    ]
+  },
+  {
+    "name": "Biletin Sonu",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Atatürk Kültür Merkezi. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Atatürk Kültür Merkezi. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-06T13:22:08.695Z",
+    "endDate": "2023-09-06T16:22:08.695Z",
+    "city": "Kayseri",
+    "address": "Kocasinan, Atatürk Bulvarı, 38010 Kocasinan",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3069.2979700916787!2d35.4962972155596!3d38.73135238922878!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4018e39e1d55c175%3A0x8f313a885e6c1395!2sAtat%C3%BCrk%20K%C3%BClt%C3%BCr%20Merkezi!5e0!3m2!1str!2str!4v1693129302719!5m2!1str!2str",
+    "location": "Atatürk Kültür Merkezi",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 197
+      },
+      {
+        "category": "VIP",
+        "price": 317
+      }
+    ]
+  },
+  {
+    "name": "Yıldızlar Arasında",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Nilüfer Sahne. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Nilüfer Sahne. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-07-29T23:37:10.727Z",
+    "endDate": "2023-07-30T00:37:10.727Z",
+    "city": "Bursa",
+    "address": "Nilüfer, Atatürk Cad. No:1, 16140 Nilüfer",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3051.7830519617483!2d29.08617121422694!3d40.993585279304726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14caa254b444b315%3A0x4a4e8ec7545bb13!2sNil%C3%BCfer%20Belediyesi%20Sahne%20Sanat%20Merkezi!5e0!3m2!1str!2str!4v1693128948645!5m2!1str!2str",
+    "location": "Nilüfer Sahne",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 174
+      },
+      {
+        "category": "VIP",
+        "price": 157
+      }
+    ]
+  },
+  {
+    "name": "Gizli Bahçe",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Mersin Kongre ve Sergi Sarayı. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Mersin Kongre ve Sergi Sarayı. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-15T18:08:32.992Z",
+    "endDate": "2023-08-15T20:08:32.992Z",
+    "city": "Mersin",
+    "address": "Yenişehir, Atatürk Cad. No:135, 33140 Yenişehir",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3072.0825741376493!2d34.64167441554765!3d36.80260617431434!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4013711d7c3493a3%3A0x2b3e82548702d56e!2sMersin%20Kongre%20ve%20Sergi%20Saray%C4%B1!5e0!3m2!1str!2str!4v1693129387267!5m2!1str!2str",
+    "location": "Mersin Kongre ve Sergi Sarayı",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 179
+      },
+      {
+        "category": "VIP",
+        "price": 308
+      }
+    ]
+  },
+  {
+    "name": "Güneşin Battığı Yer",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Harbiye Cemil Topuzlu Açık Hava Tiyatrosu. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Harbiye Cemil Topuzlu Açık Hava Tiyatrosu. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-02T12:23:36.684Z",
+    "endDate": "2023-09-02T14:23:36.684Z",
+    "city": "İstanbul",
+    "address": "Harbiye, Taşkışla Cd. No:8, 34367 Şişli",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3009.0486483794148!2d28.987455176570634!3d41.046065217096476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab77253099bb5%3A0xa73a3d0b8b295da9!2sHarbiye%20Cemil%20Topuzlu%20A%C3%A7%C4%B1k%20Hava%20Tiyatrosu!5e0!3m2!1str!2str!4v1693128750294!5m2!1str!2str",
+    "location": "Harbiye Cemil Topuzlu Açık Hava Tiyatrosu",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 99
+      },
+      {
+        "category": "VIP",
+        "price": 226
+      }
+    ]
+  },
+  {
+    "name": "Kelimeler Sahnesi",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Merkez Park Konser Alanı. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Merkez Park Konser Alanı. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-03T07:13:07.400Z",
+    "endDate": "2023-09-03T08:13:07.400Z",
+    "city": "Adana",
+    "address": "Seyhan, Üniversite Cd. No:1, 01100 Seyhan",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3085.330174856742!2d35.31671661550422!3d37.00033712284606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14bdd80fb9c5c5eb%3A0x84e8ed692d7b6e29!2sMerkez%20Park!5e0!3m2!1str!2str!4v1693129078927!5m2!1str!2str",
+    "location": "Merkez Park Konser Alanı",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 185
+      },
+      {
+        "category": "VIP",
+        "price": 192
+      }
+    ]
+  },
+  {
+    "name": "Sonsuz Öyküler",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Şehir Stadyumu. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Şehir Stadyumu. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-03T13:19:03.501Z",
+    "endDate": "2023-08-03T16:19:03.501Z",
+    "city": "Karaman",
+    "address": "Merkez, 70100 Merkez",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3077.5394119757334!2d33.428682915544466!3d37.56365747778004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14b2f0adfc4be6c1%3A0x4575c77cf625f924!2s%C5%9Eehir%20Stadyumu!5e0!3m2!1str!2str!4v1693130011830!5m2!1str!2str",
+    "location": "Şehir Stadyumu",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 108
+      },
+      {
+        "category": "VIP",
+        "price": 242
+      }
+    ]
+  },
+  {
+    "name": "Gece Yürüyüşü",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Mersin Kongre ve Sergi Sarayı. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Mersin Kongre ve Sergi Sarayı. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-07T22:05:00.735Z",
+    "endDate": "2023-09-08T01:05:00.735Z",
+    "city": "Mersin",
+    "address": "Yenişehir, Atatürk Cad. No:135, 33140 Yenişehir",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3072.0825741376493!2d34.64167441554765!3d36.80260617431434!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4013711d7c3493a3%3A0x2b3e82548702d56e!2sMersin%20Kongre%20ve%20Sergi%20Saray%C4%B1!5e0!3m2!1str!2str!4v1693129387267!5m2!1str!2str",
+    "location": "Mersin Kongre ve Sergi Sarayı",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 145
+      },
+      {
+        "category": "VIP",
+        "price": 272
+      }
+    ]
+  },
+  {
+    "name": "Masal Fabrikası",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Kültürpark Açık Hava Tiyatrosu. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Kültürpark Açık Hava Tiyatrosu. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-13T00:51:43.716Z",
+    "endDate": "2023-09-13T02:51:43.716Z",
+    "city": "Konya",
+    "address": "Selçuklu, Alaaddin Bulvarı, 42030 Selçuklu",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3045.617063208618!2d32.49187461542863!3d37.87771857415985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4013ea3c9dd657f5%3A0x727b1815d3a7ab3e!2zS8O8bHRyw61yIExpbGzDvG1lcmsgQ8WjaWUgSGF2YSBUaXlhdG9yc29mdXN1!5e0!3m2!1str!2str!4v1693129187693!5m2!1str!2str",
+    "location": "Kültürpark Açık Hava Tiyatrosu",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 186
+      },
+      {
+        "category": "VIP",
+        "price": 407
+      }
+    ]
+  },
+  {
+    "name": "Ses Perdesi",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Balıkesir Kültür Merkezi. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Balıkesir Kültür Merkezi. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-11T01:58:52.190Z",
+    "endDate": "2023-08-11T04:58:52.190Z",
+    "city": "Balıkesir",
+    "address": "Altıeylül, Çarşı Mahallesi, Belediye Cd. No:23, 10100 Altıeylül",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3074.559365437667!2d27.93657211554652!3d39.64861612285609!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x402e515dd5b13b4f%3A0x9e3156bf59c7f21a!2sBal%C4%B1kesir%20K%C3%BClt%C3%BCr%20Merkezi!5e0!3m2!1str!2str!4v1693129466906!5m2!1str!2str",
+    "location": "Balıkesir Kültür Merkezi",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 97
+      },
+      {
+        "category": "VIP",
+        "price": 265
+      }
+    ]
+  },
+  {
+    "name": "Masal Fabrikası",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at IF Performance Hall. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of IF Performance Hall. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-21T23:46:58.115Z",
+    "endDate": "2023-08-22T01:46:58.115Z",
+    "city": "Eskişehir",
+    "address": "Hoşnudiye, Cassaba Modern AVM, 748. Sok No: 3/A, 26130 Tepebaşı",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12264.035804623225!2d30.4998206!3d39.7843545!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cc15893eb11419%3A0x14401ed9e3f51355!2sIF%20Performance%20Hall!5e0!3m2!1str!2str!4v1693128594939!5m2!1str!2str",
+    "location": "IF Performance Hall",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 181
+      },
+      {
+        "category": "VIP",
+        "price": 216
+      }
+    ]
+  },
+  {
+    "name": "Kırık Dökük Aşklar",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Kültürpark Açık Hava Tiyatrosu. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Kültürpark Açık Hava Tiyatrosu. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-08T03:22:49.180Z",
+    "endDate": "2023-09-08T04:22:49.180Z",
+    "city": "Konya",
+    "address": "Selçuklu, Alaaddin Bulvarı, 42030 Selçuklu",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3045.617063208618!2d32.49187461542863!3d37.87771857415985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4013ea3c9dd657f5%3A0x727b1815d3a7ab3e!2zS8O8bHRyw61yIExpbGzDvG1lcmsgQ8WjaWUgSGF2YSBUaXlhdG9yc29mdXN1!5e0!3m2!1str!2str!4v1693129187693!5m2!1str!2str",
+    "location": "Kültürpark Açık Hava Tiyatrosu",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 105
+      },
+      {
+        "category": "VIP",
+        "price": 264
+      }
+    ]
+  },
+  {
+    "name": "Görünmez Oyuncu",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Isparta Kongre ve Sergi Sarayı. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Isparta Kongre ve Sergi Sarayı. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-22T21:22:48.362Z",
+    "endDate": "2023-09-22T23:22:48.362Z",
+    "city": "Isparta",
+    "address": "Merkez, Bahçelievler Mahallesi, Atatürk Bulvarı No:91, 32040 Merkez",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3069.176579499471!2d30.541828615559743!3d37.77079137909062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14be8e020b4b8285%3A0x7a5a8ad770b949a2!2sIsparta%20Kongre%20ve%20Sergi%20Saray%C4%B1!5e0!3m2!1str!2str!4v1693130051665!5m2!1str!2str",
+    "location": "Isparta Kongre ve Sergi Sarayı",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 90
+      },
+      {
+        "category": "VIP",
+        "price": 319
+      }
+    ]
+  },
+  {
+    "name": "Buzlar Çözülmeden",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at IF Performance Hall. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of IF Performance Hall. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-13T17:07:27.223Z",
+    "endDate": "2023-09-13T19:07:27.223Z",
+    "city": "Eskişehir",
+    "address": "Hoşnudiye, Cassaba Modern AVM, 748. Sok No: 3/A, 26130 Tepebaşı",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12264.035804623225!2d30.4998206!3d39.7843545!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cc15893eb11419%3A0x14401ed9e3f51355!2sIF%20Performance%20Hall!5e0!3m2!1str!2str!4v1693128594939!5m2!1str!2str",
+    "location": "IF Performance Hall",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 168
+      },
+      {
+        "category": "VIP",
+        "price": 387
+      }
+    ]
+  },
+  {
+    "name": "Sessiz Gemi",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Atatürk Üniversitesi Dadaş Stadyumu. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Atatürk Üniversitesi Dadaş Stadyumu. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-06T13:17:46.359Z",
+    "endDate": "2023-09-06T16:17:46.359Z",
+    "city": "Erzurum",
+    "address": "Yakutiye, 25240 Yakutiye",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3079.348001869156!2d41.619129315543086!3d39.90880647628521!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40426a62ab8b4b8f%3A0x53059731559a8e4b!2sAtat%C3%BCrk%20%C3%9Cniversitesi%20Dada%C5%9F%20Stadyumu!5e0!3m2!1str!2str!4v1693129792821!5m2!1str!2str",
+    "location": "Atatürk Üniversitesi Dadaş Stadyumu",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 137
+      },
+      {
+        "category": "VIP",
+        "price": 360
+      }
+    ]
+  },
+  {
+    "name": "Kaos Teorisi",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at SAÜ Kültür ve Kongre Merkezi. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of SAÜ Kültür ve Kongre Merkezi. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-04T07:09:26.311Z",
+    "endDate": "2023-09-04T10:09:26.311Z",
+    "city": "Adapazarı",
+    "address": "Serdivan, Sakarya Üniversitesi Kampüsü, 54100 Serdivan",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3052.259175002075!2d30.36130631553059!3d40.77914448441208!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14b34f76d1727c0f%3A0x9b74114ac3944e29!2sSA%C3%9C%20K%C3%BClt%C3%BCr%20ve%20Kongre%20Merkezi!5e0!3m2!1str!2str!4v1693129508048!5m2!1str!2str",
+    "location": "SAÜ Kültür ve Kongre Merkezi",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 167
+      },
+      {
+        "category": "VIP",
+        "price": 369
+      }
+    ]
+  },
+  {
+    "name": "Gizli Bahçe",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Atatürk Üniversitesi Dadaş Stadyumu. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Atatürk Üniversitesi Dadaş Stadyumu. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-07-31T11:40:44.628Z",
+    "endDate": "2023-07-31T12:40:44.628Z",
+    "city": "Erzurum",
+    "address": "Yakutiye, 25240 Yakutiye",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3079.348001869156!2d41.619129315543086!3d39.90880647628521!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40426a62ab8b4b8f%3A0x53059731559a8e4b!2sAtat%C3%BCrk%20%C3%9Cniversitesi%20Dada%C5%9F%20Stadyumu!5e0!3m2!1str!2str!4v1693129792821!5m2!1str!2str",
+    "location": "Atatürk Üniversitesi Dadaş Stadyumu",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 62
+      },
+      {
+        "category": "VIP",
+        "price": 171
+      }
+    ]
+  },
+  {
+    "name": "Sahne Işıkları",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at IF Performance Hall. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of IF Performance Hall. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-26T00:58:33.671Z",
+    "endDate": "2023-09-26T02:58:33.671Z",
+    "city": "Eskişehir",
+    "address": "Hoşnudiye, Cassaba Modern AVM, 748. Sok No: 3/A, 26130 Tepebaşı",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12264.035804623225!2d30.4998206!3d39.7843545!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cc15893eb11419%3A0x14401ed9e3f51355!2sIF%20Performance%20Hall!5e0!3m2!1str!2str!4v1693128594939!5m2!1str!2str",
+    "location": "IF Performance Hall",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 60
+      },
+      {
+        "category": "VIP",
+        "price": 363
+      }
+    ]
+  },
+  {
+    "name": "Yolun Sonu",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Şehitkamil Kültür ve Kongre Merkezi. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Şehitkamil Kültür ve Kongre Merkezi. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-08T03:15:17.062Z",
+    "endDate": "2023-09-08T06:15:17.062Z",
+    "city": "Gaziantep",
+    "address": "Şehitkamil, Doğanbey Mahallesi, Ali İhsan Sabis Bulvarı, 27100 Şehitkamil",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3065.869464107862!2d37.397741415562945!3d37.08481159433179!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x401d19945e56f715%3A0xd6f4df7c1e6eb30b!2s%C5%9Eehitkamil%20K%C3%BClt%C3%BCr%20ve%20Kongre%20Merkezi!5e0!3m2!1str!2str!4v1693129345114!5m2!1str!2str",
+    "location": "Şehitkamil Kültür ve Kongre Merkezi",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 105
+      },
+      {
+        "category": "VIP",
+        "price": 326
+      }
+    ]
+  },
+  {
+    "name": "Biletin Sonu",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at IF Performance Hall. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of IF Performance Hall. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-14T05:44:49.024Z",
+    "endDate": "2023-08-14T06:44:49.024Z",
+    "city": "Eskişehir",
+    "address": "Hoşnudiye, Cassaba Modern AVM, 748. Sok No: 3/A, 26130 Tepebaşı",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12264.035804623225!2d30.4998206!3d39.7843545!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cc15893eb11419%3A0x14401ed9e3f51355!2sIF%20Performance%20Hall!5e0!3m2!1str!2str!4v1693128594939!5m2!1str!2str",
+    "location": "IF Performance Hall",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 90
+      },
+      {
+        "category": "VIP",
+        "price": 479
+      }
+    ]
+  },
+  {
+    "name": "Umutsuz Komedi",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Atatürk Parkı Açık Hava Tiyatrosu. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Atatürk Parkı Açık Hava Tiyatrosu. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-03T16:55:05.220Z",
+    "endDate": "2023-08-03T18:55:05.220Z",
+    "city": "Ordu",
+    "address": "Altınordu, Yeni Mahallesi, 52200 Altınordu",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3077.123664462637!2d37.908789815544045!3d40.98663397491997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x404e0f94d3338c3b%3A0xb49bce165d9b480e!2sAtat%C3%BCrk%20Park%C4%B1%20A%C3%A7%C4%B1k%20Hava%20Tiyatrosu!5e0!3m2!1str!2str!4v1693129832589!5m2!1str!2str",
+    "location": "Atatürk Parkı Açık Hava Tiyatrosu",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 187
+      },
+      {
+        "category": "VIP",
+        "price": 433
+      }
+    ]
+  },
+  {
+    "name": "Masal Fabrikası",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Antalya Kültür Merkezi. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Antalya Kültür Merkezi. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-20T23:11:52.441Z",
+    "endDate": "2023-08-21T01:11:52.441Z",
+    "city": "Antalya",
+    "address": "Konyaaltı, Konyaaltı Cad. No:30, 07050 Konyaaltı",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3084.5651953314056!2d30.7013456155452!3d36.86119287874573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ba869c860e8083%3A0xa23f8fe2b3b97ee!2sAntalya%20K%C3%BClt%C3%BCr%20Merkezi!5e0!3m2!1str!2str!4v1693129033569!5m2!1str!2str",
+    "location": "Antalya Kültür Merkezi",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 170
+      },
+      {
+        "category": "VIP",
+        "price": 302
+      }
+    ]
+  },
+  {
+    "name": "Kırık Dökük Aşklar",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Harbiye Cemil Topuzlu Açık Hava Tiyatrosu. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Harbiye Cemil Topuzlu Açık Hava Tiyatrosu. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-24T02:14:52.764Z",
+    "endDate": "2023-08-24T05:14:52.764Z",
+    "city": "İstanbul",
+    "address": "Harbiye, Taşkışla Cd. No:8, 34367 Şişli",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3009.0486483794148!2d28.987455176570634!3d41.046065217096476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab77253099bb5%3A0xa73a3d0b8b295da9!2sHarbiye%20Cemil%20Topuzlu%20A%C3%A7%C4%B1k%20Hava%20Tiyatrosu!5e0!3m2!1str!2str!4v1693128750294!5m2!1str!2str",
+    "location": "Harbiye Cemil Topuzlu Açık Hava Tiyatrosu",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 199
+      },
+      {
+        "category": "VIP",
+        "price": 170
+      }
+    ]
+  },
+  {
+    "name": "Sahne Işıkları",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Atatürk Parkı Açık Hava Tiyatrosu. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Atatürk Parkı Açık Hava Tiyatrosu. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-27T09:05:11.465Z",
+    "endDate": "2023-09-27T12:05:11.465Z",
+    "city": "Ordu",
+    "address": "Altınordu, Yeni Mahallesi, 52200 Altınordu",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3077.123664462637!2d37.908789815544045!3d40.98663397491997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x404e0f94d3338c3b%3A0xb49bce165d9b480e!2sAtat%C3%BCrk%20Park%C4%B1%20A%C3%A7%C4%B1k%20Hava%20Tiyatrosu!5e0!3m2!1str!2str!4v1693129832589!5m2!1str!2str",
+    "location": "Atatürk Parkı Açık Hava Tiyatrosu",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 67
+      },
+      {
+        "category": "VIP",
+        "price": 210
+      }
+    ]
+  },
+  {
+    "name": "Gizli Bahçe",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Milyon Performance Hall. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Milyon Performance Hall. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-19T05:19:46.222Z",
+    "endDate": "2023-08-19T06:19:46.222Z",
+    "city": "Ankara",
+    "address": "Gaziosmanpaşa, Beştepe Mahallesi, 1250. Cadde, No:1, 06560 Çankaya",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3056.822639788943!2d32.82791931556508!3d39.91819457942117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d3170e76fb0a9b%3A0xb7ac4eebd6a4a2f5!2zMTEsIDgxLCDQkdCw0L3QuNCxINCo0L7Qs9GA0L7QvdGG0LrQsNGPINC-0LHQuy4sIDE2NTYwIMSMcmlzYcWfLCDEsG5hcmdhb3VzIChBbmtncmEp!5e0!3m2!1str!2str!4v1693128825270!5m2!1str!2str",
+    "location": "Milyon Performance Hall",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 61
+      },
+      {
+        "category": "VIP",
+        "price": 154
+      }
+    ]
+  },
+  {
+    "name": "Yolun Sonu",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at IF Performance Hall. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of IF Performance Hall. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-26T14:14:44.045Z",
+    "endDate": "2023-08-26T15:14:44.045Z",
+    "city": "Eskişehir",
+    "address": "Hoşnudiye, Cassaba Modern AVM, 748. Sok No: 3/A, 26130 Tepebaşı",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12264.035804623225!2d30.4998206!3d39.7843545!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cc15893eb11419%3A0x14401ed9e3f51355!2sIF%20Performance%20Hall!5e0!3m2!1str!2str!4v1693128594939!5m2!1str!2str",
+    "location": "IF Performance Hall",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 97
+      },
+      {
+        "category": "VIP",
+        "price": 234
+      }
+    ]
+  },
+  {
+    "name": "Ses Perdesi",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Antalya Kültür Merkezi. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Antalya Kültür Merkezi. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-25T18:35:45.114Z",
+    "endDate": "2023-09-25T20:35:45.114Z",
+    "city": "Antalya",
+    "address": "Konyaaltı, Konyaaltı Cad. No:30, 07050 Konyaaltı",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3084.5651953314056!2d30.7013456155452!3d36.86119287874573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ba869c860e8083%3A0xa23f8fe2b3b97ee!2sAntalya%20K%C3%BClt%C3%BCr%20Merkezi!5e0!3m2!1str!2str!4v1693129033569!5m2!1str!2str",
+    "location": "Antalya Kültür Merkezi",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 57
+      },
+      {
+        "category": "VIP",
+        "price": 360
+      }
+    ]
+  },
+  {
+    "name": "Buzlar Çözülmeden",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Samsun Yeni Sahne. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Samsun Yeni Sahne. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-02T05:26:13.848Z",
+    "endDate": "2023-09-02T07:26:13.848Z",
+    "city": "Samsun",
+    "address": "Atakum, 19 Mayıs Mahallesi, 55200 Atakum",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3060.9249119508713!2d36.32324391555175!3d41.25938058372206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40274c0006ad4c11%3A0x97b65f4295f5ec21!2sSamsun%20Yeni%20Sahne!5e0!3m2!1str!2str!4v1693129428913!5m2!1str!2str",
+    "location": "Samsun Yeni Sahne",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 139
+      },
+      {
+        "category": "VIP",
+        "price": 401
+      }
+    ]
+  },
+  {
+    "name": "Görünmez Oyuncu",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Batman Üniversitesi Yerleşkesi Amfi Tiyatro. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Batman Üniversitesi Yerleşkesi Amfi Tiyatro. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-06T21:34:40.338Z",
+    "endDate": "2023-08-07T00:34:40.338Z",
+    "city": "Batman",
+    "address": "Merkez, Gültepe Mahallesi, İsmail Hakkı Erendor Cad., 72060 Merkez",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3074.9531019842157!2d41.14155911554579!3d37.881095676937586!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x400c41e40c2b90b7%3A0x3f4ab145a7b06e8c!2sBatman%20%C3%9Cniversitesi%20Yerle%C5%9Fkesi%20Amfi%20Tiyatro!5e0!3m2!1str!2str!4v1693129872683!5m2!1str!2str",
+    "location": "Batman Üniversitesi Yerleşkesi Amfi Tiyatro",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 172
+      },
+      {
+        "category": "VIP",
+        "price": 415
+      }
+    ]
+  },
+  {
+    "name": "Biletin Sonu",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Merkez Kültür Merkezi. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Merkez Kültür Merkezi. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-26T18:40:11.600Z",
+    "endDate": "2023-09-26T19:40:11.600Z",
+    "city": "Aksaray",
+    "address": "Merkez, Cumhuriyet Mahallesi, Kızılay Cd. No:3, 68200 Merkez",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3079.1338297472964!2d34.02110031554315!3d38.37143887532497!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406c61ad89277f11%3A0x58674f37c3fb4eb9!2sMerkez%20K%C3%BClt%C3%BCr%20Merkezi!5e0!3m2!1str!2str!4v1693129912421!5m2!1str!2str",
+    "location": "Merkez Kültür Merkezi",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 151
+      },
+      {
+        "category": "VIP",
+        "price": 175
+      }
+    ]
+  },
+  {
+    "name": "Görünmez Oyuncu",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Harbiye Cemil Topuzlu Açık Hava Tiyatrosu. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Harbiye Cemil Topuzlu Açık Hava Tiyatrosu. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-01T11:23:43.671Z",
+    "endDate": "2023-09-01T12:23:43.671Z",
+    "city": "İstanbul",
+    "address": "Harbiye, Taşkışla Cd. No:8, 34367 Şişli",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3009.0486483794148!2d28.987455176570634!3d41.046065217096476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab77253099bb5%3A0xa73a3d0b8b295da9!2sHarbiye%20Cemil%20Topuzlu%20A%C3%A7%C4%B1k%20Hava%20Tiyatrosu!5e0!3m2!1str!2str!4v1693128750294!5m2!1str!2str",
+    "location": "Harbiye Cemil Topuzlu Açık Hava Tiyatrosu",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 131
+      },
+      {
+        "category": "VIP",
+        "price": 284
+      }
+    ]
+  },
+  {
+    "name": "Yıldızlar Arasında",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Afyon Kocatepe Üniversitesi Kampüsü Amfi Tiyatro. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Afyon Kocatepe Üniversitesi Kampüsü Amfi Tiyatro. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-10T19:52:47.597Z",
+    "endDate": "2023-09-10T22:52:47.597Z",
+    "city": "Afyonkarahisar",
+    "address": "Merkez, Dinar Yolu Üzeri, 03200 Merkez",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3055.561443593812!2d30.558940715563487!3d38.737878879600065!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40f35ad9e3a00d3f%3A0xc9a4d43d5fb977f5!2sAfyon%20Kocatepe%20%C3%9Cniversitesi%20Kamp%C3%BCs%C3%BC%20Amfi%20Tiyatro!5e0!3m2!1str!2str!4v1693129951877!5m2!1str!2str",
+    "location": "Afyon Kocatepe Üniversitesi Kampüsü Amfi Tiyatro",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 62
+      },
+      {
+        "category": "VIP",
+        "price": 341
+      }
+    ]
+  },
+  {
+    "name": "Son Perde",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Nilüfer Sahne. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Nilüfer Sahne. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-05T10:27:09.315Z",
+    "endDate": "2023-09-05T12:27:09.315Z",
+    "city": "Bursa",
+    "address": "Nilüfer, Atatürk Cad. No:1, 16140 Nilüfer",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3051.7830519617483!2d29.08617121422694!3d40.993585279304726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14caa254b444b315%3A0x4a4e8ec7545bb13!2sNil%C3%BCfer%20Belediyesi%20Sahne%20Sanat%20Merkezi!5e0!3m2!1str!2str!4v1693128948645!5m2!1str!2str",
+    "location": "Nilüfer Sahne",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 70
+      },
+      {
+        "category": "VIP",
+        "price": 173
+      }
+    ]
+  },
+  {
+    "name": "Güneşin Battığı Yer",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Isparta Kongre ve Sergi Sarayı. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Isparta Kongre ve Sergi Sarayı. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-15T11:25:43.542Z",
+    "endDate": "2023-09-15T12:25:43.542Z",
+    "city": "Isparta",
+    "address": "Merkez, Bahçelievler Mahallesi, Atatürk Bulvarı No:91, 32040 Merkez",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3069.176579499471!2d30.541828615559743!3d37.77079137909062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14be8e020b4b8285%3A0x7a5a8ad770b949a2!2sIsparta%20Kongre%20ve%20Sergi%20Saray%C4%B1!5e0!3m2!1str!2str!4v1693130051665!5m2!1str!2str",
+    "location": "Isparta Kongre ve Sergi Sarayı",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 77
+      },
+      {
+        "category": "VIP",
+        "price": 492
+      }
+    ]
+  },
+  {
+    "name": "Sessiz Gemi",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Mersin Kongre ve Sergi Sarayı. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Mersin Kongre ve Sergi Sarayı. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-21T08:55:28.009Z",
+    "endDate": "2023-09-21T11:55:28.009Z",
+    "city": "Mersin",
+    "address": "Yenişehir, Atatürk Cad. No:135, 33140 Yenişehir",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3072.0825741376493!2d34.64167441554765!3d36.80260617431434!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4013711d7c3493a3%3A0x2b3e82548702d56e!2sMersin%20Kongre%20ve%20Sergi%20Saray%C4%B1!5e0!3m2!1str!2str!4v1693129387267!5m2!1str!2str",
+    "location": "Mersin Kongre ve Sergi Sarayı",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 142
+      },
+      {
+        "category": "VIP",
+        "price": 334
+      }
+    ]
+  },
+  {
+    "name": "Yıldız Tozu",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at IF Performance Hall. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of IF Performance Hall. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-22T14:06:28.145Z",
+    "endDate": "2023-08-22T15:06:28.145Z",
+    "city": "Eskişehir",
+    "address": "Hoşnudiye, Cassaba Modern AVM, 748. Sok No: 3/A, 26130 Tepebaşı",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12264.035804623225!2d30.4998206!3d39.7843545!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cc15893eb11419%3A0x14401ed9e3f51355!2sIF%20Performance%20Hall!5e0!3m2!1str!2str!4v1693128594939!5m2!1str!2str",
+    "location": "IF Performance Hall",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 85
+      },
+      {
+        "category": "VIP",
+        "price": 400
+      }
+    ]
+  },
+  {
+    "name": "Sonsuz Öyküler",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Alsancak Sahne. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Alsancak Sahne. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-21T14:42:22.930Z",
+    "endDate": "2023-09-21T15:42:22.930Z",
+    "city": "İzmir",
+    "address": "Alsancak, 1442. Sokak No:6, 35220 Konak",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3135.191048789663!2d27.145765415543027!3d38.43989257963396!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14baba2c3bfb3821%3A0xadd69d00f58e988e!2sAlsancak%20Sahne!5e0!3m2!1str!2str!4v1693128885207!5m2!1str!2str",
+    "location": "Alsancak Sahne",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 95
+      },
+      {
+        "category": "VIP",
+        "price": 175
+      }
+    ]
+  },
+  {
+    "name": "Sonsuz Öyküler",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Batman Üniversitesi Yerleşkesi Amfi Tiyatro. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Batman Üniversitesi Yerleşkesi Amfi Tiyatro. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-09T23:26:35.805Z",
+    "endDate": "2023-08-10T02:26:35.805Z",
+    "city": "Batman",
+    "address": "Merkez, Gültepe Mahallesi, İsmail Hakkı Erendor Cad., 72060 Merkez",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3074.9531019842157!2d41.14155911554579!3d37.881095676937586!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x400c41e40c2b90b7%3A0x3f4ab145a7b06e8c!2sBatman%20%C3%9Cniversitesi%20Yerle%C5%9Fkesi%20Amfi%20Tiyatro!5e0!3m2!1str!2str!4v1693129872683!5m2!1str!2str",
+    "location": "Batman Üniversitesi Yerleşkesi Amfi Tiyatro",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 185
+      },
+      {
+        "category": "VIP",
+        "price": 221
+      }
+    ]
+  },
+  {
+    "name": "Rastgele Rol",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at SAÜ Kültür ve Kongre Merkezi. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of SAÜ Kültür ve Kongre Merkezi. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-16T10:47:24.019Z",
+    "endDate": "2023-08-16T11:47:24.019Z",
+    "city": "Adapazarı",
+    "address": "Serdivan, Sakarya Üniversitesi Kampüsü, 54100 Serdivan",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3052.259175002075!2d30.36130631553059!3d40.77914448441208!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14b34f76d1727c0f%3A0x9b74114ac3944e29!2sSA%C3%9C%20K%C3%BClt%C3%BCr%20ve%20Kongre%20Merkezi!5e0!3m2!1str!2str!4v1693129508048!5m2!1str!2str",
+    "location": "SAÜ Kültür ve Kongre Merkezi",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 182
+      },
+      {
+        "category": "VIP",
+        "price": 295
+      }
+    ]
+  },
+  {
+    "name": "Buzlar Çözülmeden",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Nilüfer Sahne. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Nilüfer Sahne. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-13T23:49:57.950Z",
+    "endDate": "2023-09-14T00:49:57.950Z",
+    "city": "Bursa",
+    "address": "Nilüfer, Atatürk Cad. No:1, 16140 Nilüfer",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3051.7830519617483!2d29.08617121422694!3d40.993585279304726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14caa254b444b315%3A0x4a4e8ec7545bb13!2sNil%C3%BCfer%20Belediyesi%20Sahne%20Sanat%20Merkezi!5e0!3m2!1str!2str!4v1693128948645!5m2!1str!2str",
+    "location": "Nilüfer Sahne",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 60
+      },
+      {
+        "category": "VIP",
+        "price": 428
+      }
+    ]
+  },
+  {
+    "name": "Rastgele Rol",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at SAÜ Kültür ve Kongre Merkezi. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of SAÜ Kültür ve Kongre Merkezi. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-04T07:19:57.765Z",
+    "endDate": "2023-09-04T09:19:57.765Z",
+    "city": "Adapazarı",
+    "address": "Serdivan, Sakarya Üniversitesi Kampüsü, 54100 Serdivan",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3052.259175002075!2d30.36130631553059!3d40.77914448441208!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14b34f76d1727c0f%3A0x9b74114ac3944e29!2sSA%C3%9C%20K%C3%BClt%C3%BCr%20ve%20Kongre%20Merkezi!5e0!3m2!1str!2str!4v1693129508048!5m2!1str!2str",
+    "location": "SAÜ Kültür ve Kongre Merkezi",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 133
+      },
+      {
+        "category": "VIP",
+        "price": 291
+      }
+    ]
+  },
+  {
+    "name": "Sahne Işıkları",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Samsun Yeni Sahne. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Samsun Yeni Sahne. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-25T17:16:32.089Z",
+    "endDate": "2023-08-25T18:16:32.089Z",
+    "city": "Samsun",
+    "address": "Atakum, 19 Mayıs Mahallesi, 55200 Atakum",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3060.9249119508713!2d36.32324391555175!3d41.25938058372206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40274c0006ad4c11%3A0x97b65f4295f5ec21!2sSamsun%20Yeni%20Sahne!5e0!3m2!1str!2str!4v1693129428913!5m2!1str!2str",
+    "location": "Samsun Yeni Sahne",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 65
+      },
+      {
+        "category": "VIP",
+        "price": 231
+      }
+    ]
+  },
+  {
+    "name": "Kırık Dökük Aşklar",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Merkez Kültür Merkezi. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Merkez Kültür Merkezi. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-10T09:19:07.102Z",
+    "endDate": "2023-08-10T11:19:07.102Z",
+    "city": "Aksaray",
+    "address": "Merkez, Cumhuriyet Mahallesi, Kızılay Cd. No:3, 68200 Merkez",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3079.1338297472964!2d34.02110031554315!3d38.37143887532497!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406c61ad89277f11%3A0x58674f37c3fb4eb9!2sMerkez%20K%C3%BClt%C3%BCr%20Merkezi!5e0!3m2!1str!2str!4v1693129912421!5m2!1str!2str",
+    "location": "Merkez Kültür Merkezi",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 96
+      },
+      {
+        "category": "VIP",
+        "price": 294
+      }
+    ]
+  },
+  {
+    "name": "Kara Kutu",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Van Gölü Açık Hava Tiyatrosu. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Van Gölü Açık Hava Tiyatrosu. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-16T10:05:03.160Z",
+    "endDate": "2023-09-16T13:05:03.160Z",
+    "city": "Van",
+    "address": "İpekyolu, Tuşba Belediyesi, 65000 İpekyolu",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3084.663799035867!2d43.366077315545034!3d38.4906313771987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4046bb1097275c4f%3A0xf4a0fb47eb8ed8df!2sVan%20G%C3%B6l%C3%BC%20A%C3%A7%C4%B1k%20Hava%20Tiyatrosu!5e0!3m2!1str!2str!4v1693129672594!5m2!1str!2str",
+    "location": "Van Gölü Açık Hava Tiyatrosu",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 56
+      },
+      {
+        "category": "VIP",
+        "price": 396
+      }
+    ]
+  },
+  {
+    "name": "Görünmez Oyuncu",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Antalya Kültür Merkezi. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Antalya Kültür Merkezi. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-29T12:03:49.849Z",
+    "endDate": "2023-08-29T14:03:49.849Z",
+    "city": "Antalya",
+    "address": "Konyaaltı, Konyaaltı Cad. No:30, 07050 Konyaaltı",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3084.5651953314056!2d30.7013456155452!3d36.86119287874573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ba869c860e8083%3A0xa23f8fe2b3b97ee!2sAntalya%20K%C3%BClt%C3%BCr%20Merkezi!5e0!3m2!1str!2str!4v1693129033569!5m2!1str!2str",
+    "location": "Antalya Kültür Merkezi",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 58
+      },
+      {
+        "category": "VIP",
+        "price": 383
+      }
+    ]
+  },
+  {
+    "name": "Masal Fabrikası",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Nilüfer Sahne. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Nilüfer Sahne. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-01T08:06:20.431Z",
+    "endDate": "2023-08-01T10:06:20.431Z",
+    "city": "Bursa",
+    "address": "Nilüfer, Atatürk Cad. No:1, 16140 Nilüfer",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3051.7830519617483!2d29.08617121422694!3d40.993585279304726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14caa254b444b315%3A0x4a4e8ec7545bb13!2sNil%C3%BCfer%20Belediyesi%20Sahne%20Sanat%20Merkezi!5e0!3m2!1str!2str!4v1693128948645!5m2!1str!2str",
+    "location": "Nilüfer Sahne",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 121
+      },
+      {
+        "category": "VIP",
+        "price": 189
+      }
+    ]
+  },
+  {
+    "name": "Sessiz Gemi",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Bülent Ecevit Kültür Merkezi. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Bülent Ecevit Kültür Merkezi. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-31T11:19:41.529Z",
+    "endDate": "2023-08-31T13:19:41.529Z",
+    "city": "Elazığ",
+    "address": "Merkez, Yeşil Yurt Mahallesi, İzzetpaşa Cd., 23100 Merkez",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3070.287336086073!2d39.22327911554825!3d38.66719187690122!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40693803e5c40c3f%3A0xa406fc56b6b5b8cc!2sB%C3%BClent%20Ecevit%20K%C3%BClt%C3%BCr%20Merkezi!5e0!3m2!1str!2str!4v1693129632156!5m2!1str!2str",
+    "location": "Bülent Ecevit Kültür Merkezi",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 96
+      },
+      {
+        "category": "VIP",
+        "price": 321
+      }
+    ]
+  },
+  {
+    "name": "Masal Fabrikası",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Balıkesir Kültür Merkezi. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Balıkesir Kültür Merkezi. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-27T22:39:18.317Z",
+    "endDate": "2023-08-27T23:39:18.317Z",
+    "city": "Balıkesir",
+    "address": "Altıeylül, Çarşı Mahallesi, Belediye Cd. No:23, 10100 Altıeylül",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3074.559365437667!2d27.93657211554652!3d39.64861612285609!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x402e515dd5b13b4f%3A0x9e3156bf59c7f21a!2sBal%C4%B1kesir%20K%C3%BClt%C3%BCr%20Merkezi!5e0!3m2!1str!2str!4v1693129466906!5m2!1str!2str",
+    "location": "Balıkesir Kültür Merkezi",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 184
+      },
+      {
+        "category": "VIP",
+        "price": 282
+      }
+    ]
+  },
+  {
+    "name": "Biletin Sonu",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Isparta Kongre ve Sergi Sarayı. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Isparta Kongre ve Sergi Sarayı. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-20T06:10:48.100Z",
+    "endDate": "2023-09-20T09:10:48.100Z",
+    "city": "Isparta",
+    "address": "Merkez, Bahçelievler Mahallesi, Atatürk Bulvarı No:91, 32040 Merkez",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3069.176579499471!2d30.541828615559743!3d37.77079137909062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14be8e020b4b8285%3A0x7a5a8ad770b949a2!2sIsparta%20Kongre%20ve%20Sergi%20Saray%C4%B1!5e0!3m2!1str!2str!4v1693130051665!5m2!1str!2str",
+    "location": "Isparta Kongre ve Sergi Sarayı",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 136
+      },
+      {
+        "category": "VIP",
+        "price": 218
+      }
+    ]
+  },
+  {
+    "name": "Kelimeler Sahnesi",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Milyon Performance Hall. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Milyon Performance Hall. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-27T01:29:21.474Z",
+    "endDate": "2023-09-27T02:29:21.474Z",
+    "city": "Ankara",
+    "address": "Gaziosmanpaşa, Beştepe Mahallesi, 1250. Cadde, No:1, 06560 Çankaya",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3056.822639788943!2d32.82791931556508!3d39.91819457942117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d3170e76fb0a9b%3A0xb7ac4eebd6a4a2f5!2zMTEsIDgxLCDQkdCw0L3QuNCxINCo0L7Qs9GA0L7QvdGG0LrQsNGPINC-0LHQuy4sIDE2NTYwIMSMcmlzYcWfLCDEsG5hcmdhb3VzIChBbmtncmEp!5e0!3m2!1str!2str!4v1693128825270!5m2!1str!2str",
+    "location": "Milyon Performance Hall",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 107
+      },
+      {
+        "category": "VIP",
+        "price": 234
+      }
+    ]
+  },
+  {
+    "name": "Buzlar Çözülmeden",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Atatürk Üniversitesi Dadaş Stadyumu. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Atatürk Üniversitesi Dadaş Stadyumu. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-01T14:47:23.587Z",
+    "endDate": "2023-08-01T16:47:23.587Z",
+    "city": "Erzurum",
+    "address": "Yakutiye, 25240 Yakutiye",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3079.348001869156!2d41.619129315543086!3d39.90880647628521!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40426a62ab8b4b8f%3A0x53059731559a8e4b!2sAtat%C3%BCrk%20%C3%9Cniversitesi%20Dada%C5%9F%20Stadyumu!5e0!3m2!1str!2str!4v1693129792821!5m2!1str!2str",
+    "location": "Atatürk Üniversitesi Dadaş Stadyumu",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 94
+      },
+      {
+        "category": "VIP",
+        "price": 303
+      }
+    ]
+  },
+  {
+    "name": "Kelimeler Sahnesi",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Balıkesir Kültür Merkezi. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Balıkesir Kültür Merkezi. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-07-29T11:36:12.372Z",
+    "endDate": "2023-07-29T14:36:12.372Z",
+    "city": "Balıkesir",
+    "address": "Altıeylül, Çarşı Mahallesi, Belediye Cd. No:23, 10100 Altıeylül",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3074.559365437667!2d27.93657211554652!3d39.64861612285609!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x402e515dd5b13b4f%3A0x9e3156bf59c7f21a!2sBal%C4%B1kesir%20K%C3%BClt%C3%BCr%20Merkezi!5e0!3m2!1str!2str!4v1693129466906!5m2!1str!2str",
+    "location": "Balıkesir Kültür Merkezi",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 99
+      },
+      {
+        "category": "VIP",
+        "price": 419
+      }
+    ]
+  },
+  {
+    "name": "Son Perde",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Balıkesir Kültür Merkezi. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Balıkesir Kültür Merkezi. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-13T03:46:40.274Z",
+    "endDate": "2023-09-13T05:46:40.274Z",
+    "city": "Balıkesir",
+    "address": "Altıeylül, Çarşı Mahallesi, Belediye Cd. No:23, 10100 Altıeylül",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3074.559365437667!2d27.93657211554652!3d39.64861612285609!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x402e515dd5b13b4f%3A0x9e3156bf59c7f21a!2sBal%C4%B1kesir%20K%C3%BClt%C3%BCr%20Merkezi!5e0!3m2!1str!2str!4v1693129466906!5m2!1str!2str",
+    "location": "Balıkesir Kültür Merkezi",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 152
+      },
+      {
+        "category": "VIP",
+        "price": 468
+      }
+    ]
+  },
+  {
+    "name": "Ses Perdesi",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Milyon Performance Hall. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Milyon Performance Hall. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-10T20:35:29.444Z",
+    "endDate": "2023-09-10T22:35:29.444Z",
+    "city": "Ankara",
+    "address": "Gaziosmanpaşa, Beştepe Mahallesi, 1250. Cadde, No:1, 06560 Çankaya",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3056.822639788943!2d32.82791931556508!3d39.91819457942117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d3170e76fb0a9b%3A0xb7ac4eebd6a4a2f5!2zMTEsIDgxLCDQkdCw0L3QuNCxINCo0L7Qs9GA0L7QvdGG0LrQsNGPINC-0LHQuy4sIDE2NTYwIMSMcmlzYcWfLCDEsG5hcmdhb3VzIChBbmtncmEp!5e0!3m2!1str!2str!4v1693128825270!5m2!1str!2str",
+    "location": "Milyon Performance Hall",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 87
+      },
+      {
+        "category": "VIP",
+        "price": 181
+      }
+    ]
+  },
+  {
+    "name": "Görünmez Oyuncu",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Milyon Performance Hall. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Milyon Performance Hall. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-04T08:43:35.404Z",
+    "endDate": "2023-09-04T11:43:35.404Z",
+    "city": "Ankara",
+    "address": "Gaziosmanpaşa, Beştepe Mahallesi, 1250. Cadde, No:1, 06560 Çankaya",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3056.822639788943!2d32.82791931556508!3d39.91819457942117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d3170e76fb0a9b%3A0xb7ac4eebd6a4a2f5!2zMTEsIDgxLCDQkdCw0L3QuNCxINCo0L7Qs9GA0L7QvdGG0LrQsNGPINC-0LHQuy4sIDE2NTYwIMSMcmlzYcWfLCDEsG5hcmdhb3VzIChBbmtncmEp!5e0!3m2!1str!2str!4v1693128825270!5m2!1str!2str",
+    "location": "Milyon Performance Hall",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 155
+      },
+      {
+        "category": "VIP",
+        "price": 242
+      }
+    ]
+  },
+  {
+    "name": "Yıldızlar Arasında",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Antalya Kültür Merkezi. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Antalya Kültür Merkezi. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-26T21:46:30.249Z",
+    "endDate": "2023-09-27T00:46:30.249Z",
+    "city": "Antalya",
+    "address": "Konyaaltı, Konyaaltı Cad. No:30, 07050 Konyaaltı",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3084.5651953314056!2d30.7013456155452!3d36.86119287874573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ba869c860e8083%3A0xa23f8fe2b3b97ee!2sAntalya%20K%C3%BClt%C3%BCr%20Merkezi!5e0!3m2!1str!2str!4v1693129033569!5m2!1str!2str",
+    "location": "Antalya Kültür Merkezi",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 112
+      },
+      {
+        "category": "VIP",
+        "price": 410
+      }
+    ]
+  },
+  {
+    "name": "Yıldızlar Arasında",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Harbiye Cemil Topuzlu Açık Hava Tiyatrosu. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Harbiye Cemil Topuzlu Açık Hava Tiyatrosu. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-08T11:21:39.516Z",
+    "endDate": "2023-08-08T13:21:39.516Z",
+    "city": "İstanbul",
+    "address": "Harbiye, Taşkışla Cd. No:8, 34367 Şişli",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3009.0486483794148!2d28.987455176570634!3d41.046065217096476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab77253099bb5%3A0xa73a3d0b8b295da9!2sHarbiye%20Cemil%20Topuzlu%20A%C3%A7%C4%B1k%20Hava%20Tiyatrosu!5e0!3m2!1str!2str!4v1693128750294!5m2!1str!2str",
+    "location": "Harbiye Cemil Topuzlu Açık Hava Tiyatrosu",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 101
+      },
+      {
+        "category": "VIP",
+        "price": 150
+      }
+    ]
+  },
+  {
+    "name": "Sahne Işıkları",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Milyon Performance Hall. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Milyon Performance Hall. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-13T22:02:27.482Z",
+    "endDate": "2023-09-13T23:02:27.482Z",
+    "city": "Ankara",
+    "address": "Gaziosmanpaşa, Beştepe Mahallesi, 1250. Cadde, No:1, 06560 Çankaya",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3056.822639788943!2d32.82791931556508!3d39.91819457942117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d3170e76fb0a9b%3A0xb7ac4eebd6a4a2f5!2zMTEsIDgxLCDQkdCw0L3QuNCxINCo0L7Qs9GA0L7QvdGG0LrQsNGPINC-0LHQuy4sIDE2NTYwIMSMcmlzYcWfLCDEsG5hcmdhb3VzIChBbmtncmEp!5e0!3m2!1str!2str!4v1693128825270!5m2!1str!2str",
+    "location": "Milyon Performance Hall",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 177
+      },
+      {
+        "category": "VIP",
+        "price": 310
+      }
+    ]
+  },
+  {
+    "name": "Son Perde",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Şehir Stadyumu. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Şehir Stadyumu. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-17T02:52:36.489Z",
+    "endDate": "2023-08-17T04:52:36.489Z",
+    "city": "Karaman",
+    "address": "Merkez, 70100 Merkez",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3077.5394119757334!2d33.428682915544466!3d37.56365747778004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14b2f0adfc4be6c1%3A0x4575c77cf625f924!2s%C5%9Eehir%20Stadyumu!5e0!3m2!1str!2str!4v1693130011830!5m2!1str!2str",
+    "location": "Şehir Stadyumu",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 102
+      },
+      {
+        "category": "VIP",
+        "price": 235
+      }
+    ]
+  },
+  {
+    "name": "Gizli Bahçe",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Merkez Kültür Merkezi. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Merkez Kültür Merkezi. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-08-31T04:23:51.571Z",
+    "endDate": "2023-08-31T05:23:51.571Z",
+    "city": "Aksaray",
+    "address": "Merkez, Cumhuriyet Mahallesi, Kızılay Cd. No:3, 68200 Merkez",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3079.1338297472964!2d34.02110031554315!3d38.37143887532497!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406c61ad89277f11%3A0x58674f37c3fb4eb9!2sMerkez%20K%C3%BClt%C3%BCr%20Merkezi!5e0!3m2!1str!2str!4v1693129912421!5m2!1str!2str",
+    "location": "Merkez Kültür Merkezi",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 108
+      },
+      {
+        "category": "VIP",
+        "price": 337
+      }
+    ]
+  },
+  {
+    "name": "Buzlar Çözülmeden",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Atatürk Kültür Merkezi. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Atatürk Kültür Merkezi. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-03T21:01:05.417Z",
+    "endDate": "2023-09-03T23:01:05.417Z",
+    "city": "Kayseri",
+    "address": "Kocasinan, Atatürk Bulvarı, 38010 Kocasinan",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3069.2979700916787!2d35.4962972155596!3d38.73135238922878!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4018e39e1d55c175%3A0x8f313a885e6c1395!2sAtat%C3%BCrk%20K%C3%BClt%C3%BCr%20Merkezi!5e0!3m2!1str!2str!4v1693129302719!5m2!1str!2str",
+    "location": "Atatürk Kültür Merkezi",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 53
+      },
+      {
+        "category": "VIP",
+        "price": 372
+      }
+    ]
+  },
+  {
+    "name": "Kırık Dökük Aşklar",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Isparta Kongre ve Sergi Sarayı. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Isparta Kongre ve Sergi Sarayı. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-07-31T05:00:03.961Z",
+    "endDate": "2023-07-31T07:00:03.961Z",
+    "city": "Isparta",
+    "address": "Merkez, Bahçelievler Mahallesi, Atatürk Bulvarı No:91, 32040 Merkez",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3069.176579499471!2d30.541828615559743!3d37.77079137909062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14be8e020b4b8285%3A0x7a5a8ad770b949a2!2sIsparta%20Kongre%20ve%20Sergi%20Saray%C4%B1!5e0!3m2!1str!2str!4v1693130051665!5m2!1str!2str",
+    "location": "Isparta Kongre ve Sergi Sarayı",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 130
+      },
+      {
+        "category": "VIP",
+        "price": 165
+      }
+    ]
+  },
+  {
+    "name": "Buzlar Çözülmeden",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Şehitkamil Kültür ve Kongre Merkezi. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Şehitkamil Kültür ve Kongre Merkezi. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-24T17:25:24.873Z",
+    "endDate": "2023-09-24T19:25:24.873Z",
+    "city": "Gaziantep",
+    "address": "Şehitkamil, Doğanbey Mahallesi, Ali İhsan Sabis Bulvarı, 27100 Şehitkamil",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3065.869464107862!2d37.397741415562945!3d37.08481159433179!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x401d19945e56f715%3A0xd6f4df7c1e6eb30b!2s%C5%9Eehitkamil%20K%C3%BClt%C3%BCr%20ve%20Kongre%20Merkezi!5e0!3m2!1str!2str!4v1693129345114!5m2!1str!2str",
+    "location": "Şehitkamil Kültür ve Kongre Merkezi",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 173
+      },
+      {
+        "category": "VIP",
+        "price": 440
+      }
+    ]
+  },
+  {
+    "name": "Kara Kutu",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Afyon Kocatepe Üniversitesi Kampüsü Amfi Tiyatro. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Afyon Kocatepe Üniversitesi Kampüsü Amfi Tiyatro. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-10T13:58:41.351Z",
+    "endDate": "2023-09-10T14:58:41.351Z",
+    "city": "Afyonkarahisar",
+    "address": "Merkez, Dinar Yolu Üzeri, 03200 Merkez",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3055.561443593812!2d30.558940715563487!3d38.737878879600065!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40f35ad9e3a00d3f%3A0xc9a4d43d5fb977f5!2sAfyon%20Kocatepe%20%C3%9Cniversitesi%20Kamp%C3%BCs%C3%BC%20Amfi%20Tiyatro!5e0!3m2!1str!2str!4v1693129951877!5m2!1str!2str",
+    "location": "Afyon Kocatepe Üniversitesi Kampüsü Amfi Tiyatro",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 117
+      },
+      {
+        "category": "VIP",
+        "price": 155
+      }
+    ]
+  },
+  {
+    "name": "Son Perde",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Mersin Kongre ve Sergi Sarayı. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Mersin Kongre ve Sergi Sarayı. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-09-27T16:03:44.968Z",
+    "endDate": "2023-09-27T18:03:44.968Z",
+    "city": "Mersin",
+    "address": "Yenişehir, Atatürk Cad. No:135, 33140 Yenişehir",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3072.0825741376493!2d34.64167441554765!3d36.80260617431434!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4013711d7c3493a3%3A0x2b3e82548702d56e!2sMersin%20Kongre%20ve%20Sergi%20Saray%C4%B1!5e0!3m2!1str!2str!4v1693129387267!5m2!1str!2str",
+    "location": "Mersin Kongre ve Sergi Sarayı",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 166
+      },
+      {
+        "category": "VIP",
+        "price": 327
+      }
+    ]
+  },
+  {
+    "name": "Güneşin Battığı Yer",
+    "description": "Get ready for a dose of culture and the performing arts! We're thrilled to invite you to a captivating theatrical experience at Bülent Ecevit Kültür Merkezi. The stage will come alive with incredible stories, talented actors, and the unique atmosphere of Bülent Ecevit Kültür Merkezi. Don't miss this opportunity to be a part of something truly magical!",
+    "startDate": "2023-07-28T10:47:36.555Z",
+    "endDate": "2023-07-28T11:47:36.555Z",
+    "city": "Elazığ",
+    "address": "Merkez, Yeşil Yurt Mahallesi, İzzetpaşa Cd., 23100 Merkez",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3070.287336086073!2d39.22327911554825!3d38.66719187690122!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40693803e5c40c3f%3A0xa406fc56b6b5b8cc!2sB%C3%BClent%20Ecevit%20K%C3%BClt%C3%BCr%20Merkezi!5e0!3m2!1str!2str!4v1693129632156!5m2!1str!2str",
+    "location": "Bülent Ecevit Kültür Merkezi",
+    "category": "theaters",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 56
+      },
+      {
+        "category": "VIP",
+        "price": 421
+      }
+    ]
+  }
+]

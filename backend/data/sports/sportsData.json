@@ -1,0 +1,2102 @@
+[
+  {
+    "name": "Real Madrid - Barcelona",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Kayseri Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Kayseri Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-02T03:43:17.178Z",
+    "endDate": "2023-08-02T06:43:17.178Z",
+    "city": "Kayseri",
+    "address": "Melikgazi, 38100 Kayseri",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11997.43368168524!2d35.5044063!3d38.7701096!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cf5152357bf163%3A0x4e6f2ad8a16c9155!2sKayseri%20Stadyumu!5e0!3m2!1str!2str!4v1693140558634!5m2!1str!2str",
+    "location": "Kayseri Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 84
+      },
+      {
+        "category": "VIP",
+        "price": 231
+      }
+    ]
+  },
+  {
+    "name": "Barcelona - Sevilla",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Van Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Van Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-29T13:02:43.657Z",
+    "endDate": "2023-08-29T15:02:43.657Z",
+    "city": "Van",
+    "address": "İpekyolu, 65000 Van",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12015.645443919315!2d43.3750052!3d38.5255886!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x409d3b5a7c46b5c9%3A0x3cb98883e8569dc3!2sVan%20Stadyumu!5e0!3m2!1str!2str!4v1693140892134!5m2!1str!2str",
+    "location": "Van Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 151
+      },
+      {
+        "category": "VIP",
+        "price": 151
+      }
+    ]
+  },
+  {
+    "name": "Sevilla - Real Betis",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Gaziantep Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Gaziantep Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-26T13:52:51.618Z",
+    "endDate": "2023-08-26T15:52:51.618Z",
+    "city": "Gaziantep",
+    "address": "Şahinbey, 27070 Gaziantep",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11970.755860243544!2d37.4175861!3d37.0468337!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14bfab8a49b8b3eb%3A0x4eaf1681b61ef0ee!2sGaziantep%20Stadyumu!5e0!3m2!1str!2str!4v1693140312940!5m2!1str!2str",
+    "location": "Gaziantep Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 96
+      },
+      {
+        "category": "VIP",
+        "price": 439
+      }
+    ]
+  },
+  {
+    "name": "Paris Saint-Germain - Olympique Marseille",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Konya Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Konya Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-07-29T19:48:54.242Z",
+    "endDate": "2023-07-29T20:48:54.242Z",
+    "city": "Konya",
+    "address": "Selçuklu, 42030 Konya",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11976.646005680875!2d32.4668587!3d37.9117656!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14bb9ad6f07077d1%3A0x454b050ed595b9c6!2sKonya%20Stadyumu!5e0!3m2!1str!2str!4v1693140353059!5m2!1str!2str",
+    "location": "Konya Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 184
+      },
+      {
+        "category": "VIP",
+        "price": 426
+      }
+    ]
+  },
+  {
+    "name": "Palmeiras - São Paulo",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Bursa Büyükşehir Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Bursa Büyükşehir Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-10T15:44:38.253Z",
+    "endDate": "2023-08-10T16:44:38.253Z",
+    "city": "Bursa",
+    "address": "Nilüfer, 16010 Bursa",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11986.97946490378!2d29.0581655!3d40.2207375!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14caba4e066ba333%3A0xbba75a7b8945cd53!2zQnVyc2EgQsOxbsSxaGlyaCBTdGFkeXVt!5e0!3m2!1str!2str!4v1693140174501!5m2!1str!2str",
+    "location": "Bursa Büyükşehir Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 132
+      },
+      {
+        "category": "VIP",
+        "price": 188
+      }
+    ]
+  },
+  {
+    "name": "Atletico Madrid - Real Madrid",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Van Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Van Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-19T03:29:49.473Z",
+    "endDate": "2023-09-19T05:29:49.473Z",
+    "city": "Van",
+    "address": "İpekyolu, 65000 Van",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12015.645443919315!2d43.3750052!3d38.5255886!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x409d3b5a7c46b5c9%3A0x3cb98883e8569dc3!2sVan%20Stadyumu!5e0!3m2!1str!2str!4v1693140892134!5m2!1str!2str",
+    "location": "Van Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 110
+      },
+      {
+        "category": "VIP",
+        "price": 390
+      }
+    ]
+  },
+  {
+    "name": "Santos - Corinthians",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Konya Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Konya Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-23T19:39:56.385Z",
+    "endDate": "2023-09-23T21:39:56.385Z",
+    "city": "Konya",
+    "address": "Selçuklu, 42030 Konya",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11976.646005680875!2d32.4668587!3d37.9117656!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14bb9ad6f07077d1%3A0x454b050ed595b9c6!2sKonya%20Stadyumu!5e0!3m2!1str!2str!4v1693140353059!5m2!1str!2str",
+    "location": "Konya Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 116
+      },
+      {
+        "category": "VIP",
+        "price": 213
+      }
+    ]
+  },
+  {
+    "name": "Lazio - Roma",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Antalya Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Antalya Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-20T09:53:33.199Z",
+    "endDate": "2023-08-20T10:53:33.199Z",
+    "city": "Antalya",
+    "address": "Muratpaşa, 07070 Antalya",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12015.343365852517!2d30.6997026!3d36.8620357!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ba829a001ce065%3A0x67096e7e978a7c38!2sAntalya%20Stadyumu!5e0!3m2!1str!2str!4v1693140221158!5m2!1str!2str",
+    "location": "Antalya Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 145
+      },
+      {
+        "category": "VIP",
+        "price": 338
+      }
+    ]
+  },
+  {
+    "name": "Palmeiras - São Paulo",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Bursa Büyükşehir Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Bursa Büyükşehir Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-18T06:33:10.754Z",
+    "endDate": "2023-08-18T07:33:10.754Z",
+    "city": "Bursa",
+    "address": "Nilüfer, 16010 Bursa",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11986.97946490378!2d29.0581655!3d40.2207375!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14caba4e066ba333%3A0xbba75a7b8945cd53!2zQnVyc2EgQsOxbsSxaGlyaCBTdGFkeXVt!5e0!3m2!1str!2str!4v1693140174501!5m2!1str!2str",
+    "location": "Bursa Büyükşehir Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 87
+      },
+      {
+        "category": "VIP",
+        "price": 492
+      }
+    ]
+  },
+  {
+    "name": "Roma - Napoli",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Şanlıurfa Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Şanlıurfa Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-07T22:55:53.069Z",
+    "endDate": "2023-09-07T23:55:53.069Z",
+    "city": "Şanlıurfa",
+    "address": "Haliliye, 63000 Şanlıurfa",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12032.38322872252!2d38.9328387!3d37.1113136!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4064b7ca66c85565%3A0x9a96b30d4b39b3c7!2s%C5%9Eanl%C4%B1urfa%20Stadyumu!5e0!3m2!1str!2str!4v1693140800457!5m2!1str!2str",
+    "location": "Şanlıurfa Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 198
+      },
+      {
+        "category": "VIP",
+        "price": 489
+      }
+    ]
+  },
+  {
+    "name": "Chelsea - Manchester City",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Mersin Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Mersin Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-20T14:58:23.818Z",
+    "endDate": "2023-09-20T15:58:23.818Z",
+    "city": "Mersin",
+    "address": "Yenişehir, 33150 Mersin",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12007.19952214522!2d34.6280189!3d36.7749377!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cbe4d08bce1815%3A0x4bc0e3f33d8e35c2!2sMersin%20Stadyumu!5e0!3m2!1str!2str!4v1693140602926!5m2!1str!2str",
+    "location": "Mersin Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 50
+      },
+      {
+        "category": "VIP",
+        "price": 356
+      }
+    ]
+  },
+  {
+    "name": "Chelsea - Arsenal",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Adana Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Adana Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-07-29T04:33:34.734Z",
+    "endDate": "2023-07-29T07:33:34.734Z",
+    "city": "Adana",
+    "address": "Seyhan, 01170 Adana",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11970.641595433174!2d35.313878!3d37.0012157!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d69e3ff4a021dd%3A0xe500d7dd498c40fc!2sAdana%20Stadyumu!5e0!3m2!1str!2str!4v1693140266971!5m2!1str!2str",
+    "location": "Adana Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 179
+      },
+      {
+        "category": "VIP",
+        "price": 360
+      }
+    ]
+  },
+  {
+    "name": "Barcelona - Real Madrid",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Diyarbakır Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Diyarbakır Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-12T14:06:11.766Z",
+    "endDate": "2023-08-12T17:06:11.766Z",
+    "city": "Diyarbakır",
+    "address": "Bağlar, 21120 Diyarbakır",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12020.534664394016!2d40.1808673!3d37.9009632!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4030c3cd6be43ce9%3A0x5549a7ed81087bfc!2sDiyarbak%C4%B1r%20Stadyumu!5e0!3m2!1str!2str!4v1693140721284!5m2!1str!2str",
+    "location": "Diyarbakır Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 173
+      },
+      {
+        "category": "VIP",
+        "price": 203
+      }
+    ]
+  },
+  {
+    "name": "Hertha BSC - Union Berlin",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Atatürk Olimpiyat Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Atatürk Olimpiyat Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-11T08:54:30.008Z",
+    "endDate": "2023-09-11T10:54:30.008Z",
+    "city": "İstanbul",
+    "address": "İkitelli, 34490 Başakşehir/İstanbul",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12058.331336431295!2d28.8166338!3d41.0607067!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x855b3e4acab60da4!2sAtat%C3%BCrk%20Olimpiyat%20Stadyumu!5e0!3m2!1str!2str!4v1693140032013!5m2!1str!2str",
+    "location": "Atatürk Olimpiyat Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 74
+      },
+      {
+        "category": "VIP",
+        "price": 392
+      }
+    ]
+  },
+  {
+    "name": "Roma - Napoli",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Kayseri Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Kayseri Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-28T04:48:31.717Z",
+    "endDate": "2023-08-28T05:48:31.717Z",
+    "city": "Kayseri",
+    "address": "Melikgazi, 38100 Kayseri",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11997.43368168524!2d35.5044063!3d38.7701096!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cf5152357bf163%3A0x4e6f2ad8a16c9155!2sKayseri%20Stadyumu!5e0!3m2!1str!2str!4v1693140558634!5m2!1str!2str",
+    "location": "Kayseri Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 60
+      },
+      {
+        "category": "VIP",
+        "price": 426
+      }
+    ]
+  },
+  {
+    "name": "Atlético Mineiro - Cruzeiro",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Konya Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Konya Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-04T19:58:38.294Z",
+    "endDate": "2023-08-04T21:58:38.294Z",
+    "city": "Konya",
+    "address": "Selçuklu, 42030 Konya",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11976.646005680875!2d32.4668587!3d37.9117656!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14bb9ad6f07077d1%3A0x454b050ed595b9c6!2sKonya%20Stadyumu!5e0!3m2!1str!2str!4v1693140353059!5m2!1str!2str",
+    "location": "Konya Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 135
+      },
+      {
+        "category": "VIP",
+        "price": 256
+      }
+    ]
+  },
+  {
+    "name": "Atlético Mineiro - Cruzeiro",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Antalya Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Antalya Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-23T02:33:29.560Z",
+    "endDate": "2023-08-23T05:33:29.560Z",
+    "city": "Antalya",
+    "address": "Muratpaşa, 07070 Antalya",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12015.343365852517!2d30.6997026!3d36.8620357!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ba829a001ce065%3A0x67096e7e978a7c38!2sAntalya%20Stadyumu!5e0!3m2!1str!2str!4v1693140221158!5m2!1str!2str",
+    "location": "Antalya Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 100
+      },
+      {
+        "category": "VIP",
+        "price": 365
+      }
+    ]
+  },
+  {
+    "name": "Benfica - Porto",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Van Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Van Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-07-29T23:30:58.074Z",
+    "endDate": "2023-07-30T01:30:58.074Z",
+    "city": "Van",
+    "address": "İpekyolu, 65000 Van",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12015.645443919315!2d43.3750052!3d38.5255886!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x409d3b5a7c46b5c9%3A0x3cb98883e8569dc3!2sVan%20Stadyumu!5e0!3m2!1str!2str!4v1693140892134!5m2!1str!2str",
+    "location": "Van Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 119
+      },
+      {
+        "category": "VIP",
+        "price": 485
+      }
+    ]
+  },
+  {
+    "name": "Manchester City - Manchester United",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Bursa Büyükşehir Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Bursa Büyükşehir Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-28T09:05:41.041Z",
+    "endDate": "2023-08-28T11:05:41.041Z",
+    "city": "Bursa",
+    "address": "Nilüfer, 16010 Bursa",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11986.97946490378!2d29.0581655!3d40.2207375!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14caba4e066ba333%3A0xbba75a7b8945cd53!2zQnVyc2EgQsOxbsSxaGlyaCBTdGFkeXVt!5e0!3m2!1str!2str!4v1693140174501!5m2!1str!2str",
+    "location": "Bursa Büyükşehir Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 87
+      },
+      {
+        "category": "VIP",
+        "price": 342
+      }
+    ]
+  },
+  {
+    "name": "Anderlecht - Club Brugge",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Malatya Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Malatya Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-26T11:26:49.168Z",
+    "endDate": "2023-08-26T14:26:49.168Z",
+    "city": "Malatya",
+    "address": "Battalgazi, 44100 Malatya",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12022.715324793077!2d38.2530693!3d38.3617473!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ce694f9b16185d%3A0x2bce5a92f9db9b11!2sMalatya%20Stadyumu!5e0!3m2!1str!2str!4v1693140674331!5m2!1str!2str",
+    "location": "Malatya Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 67
+      },
+      {
+        "category": "VIP",
+        "price": 299
+      }
+    ]
+  },
+  {
+    "name": "Ajax - PSV Eindhoven",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Adana Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Adana Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-08T05:07:12.067Z",
+    "endDate": "2023-08-08T07:07:12.067Z",
+    "city": "Adana",
+    "address": "Seyhan, 01170 Adana",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11970.641595433174!2d35.313878!3d37.0012157!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d69e3ff4a021dd%3A0xe500d7dd498c40fc!2sAdana%20Stadyumu!5e0!3m2!1str!2str!4v1693140266971!5m2!1str!2str",
+    "location": "Adana Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 197
+      },
+      {
+        "category": "VIP",
+        "price": 165
+      }
+    ]
+  },
+  {
+    "name": "Arsenal - Tottenham Hotspur",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Antalya Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Antalya Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-31T02:32:40.377Z",
+    "endDate": "2023-08-31T04:32:40.377Z",
+    "city": "Antalya",
+    "address": "Muratpaşa, 07070 Antalya",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12015.343365852517!2d30.6997026!3d36.8620357!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ba829a001ce065%3A0x67096e7e978a7c38!2sAntalya%20Stadyumu!5e0!3m2!1str!2str!4v1693140221158!5m2!1str!2str",
+    "location": "Antalya Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 159
+      },
+      {
+        "category": "VIP",
+        "price": 346
+      }
+    ]
+  },
+  {
+    "name": "Ajax - Feyenoord",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Bursa Büyükşehir Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Bursa Büyükşehir Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-19T09:15:42.066Z",
+    "endDate": "2023-08-19T10:15:42.066Z",
+    "city": "Bursa",
+    "address": "Nilüfer, 16010 Bursa",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11986.97946490378!2d29.0581655!3d40.2207375!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14caba4e066ba333%3A0xbba75a7b8945cd53!2zQnVyc2EgQsOxbsSxaGlyaCBTdGFkeXVt!5e0!3m2!1str!2str!4v1693140174501!5m2!1str!2str",
+    "location": "Bursa Büyükşehir Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 199
+      },
+      {
+        "category": "VIP",
+        "price": 239
+      }
+    ]
+  },
+  {
+    "name": "Santos - Corinthians",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Kayseri Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Kayseri Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-28T10:28:29.524Z",
+    "endDate": "2023-08-28T12:28:29.524Z",
+    "city": "Kayseri",
+    "address": "Melikgazi, 38100 Kayseri",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11997.43368168524!2d35.5044063!3d38.7701096!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cf5152357bf163%3A0x4e6f2ad8a16c9155!2sKayseri%20Stadyumu!5e0!3m2!1str!2str!4v1693140558634!5m2!1str!2str",
+    "location": "Kayseri Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 141
+      },
+      {
+        "category": "VIP",
+        "price": 202
+      }
+    ]
+  },
+  {
+    "name": "Genoa - Sampdoria",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Mersin Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Mersin Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-27T03:23:17.414Z",
+    "endDate": "2023-09-27T04:23:17.414Z",
+    "city": "Mersin",
+    "address": "Yenişehir, 33150 Mersin",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12007.19952214522!2d34.6280189!3d36.7749377!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cbe4d08bce1815%3A0x4bc0e3f33d8e35c2!2sMersin%20Stadyumu!5e0!3m2!1str!2str!4v1693140602926!5m2!1str!2str",
+    "location": "Mersin Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 131
+      },
+      {
+        "category": "VIP",
+        "price": 247
+      }
+    ]
+  },
+  {
+    "name": "Manchester United - Liverpool",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Eskişehir Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Eskişehir Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-19T14:50:18.793Z",
+    "endDate": "2023-09-19T15:50:18.793Z",
+    "city": "Eskişehir",
+    "address": "Tepebaşı, 26100 Eskişehir",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12009.346856938894!2d30.5439481!3d39.7844934!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cc1ab15331b821%3A0x3a6a58087463a3ea!2sEski%C5%9Fehir%20Stadyumu!5e0!3m2!1str!2str!4v1693140473187!5m2!1str!2str",
+    "location": "Eskişehir Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 165
+      },
+      {
+        "category": "VIP",
+        "price": 166
+      }
+    ]
+  },
+  {
+    "name": "Seattle Sounders - Portland Timbers",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Adana Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Adana Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-12T10:38:21.343Z",
+    "endDate": "2023-08-12T12:38:21.343Z",
+    "city": "Adana",
+    "address": "Seyhan, 01170 Adana",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11970.641595433174!2d35.313878!3d37.0012157!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d69e3ff4a021dd%3A0xe500d7dd498c40fc!2sAdana%20Stadyumu!5e0!3m2!1str!2str!4v1693140266971!5m2!1str!2str",
+    "location": "Adana Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 163
+      },
+      {
+        "category": "VIP",
+        "price": 456
+      }
+    ]
+  },
+  {
+    "name": "Barcelona - Sevilla",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Kayseri Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Kayseri Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-27T08:19:50.388Z",
+    "endDate": "2023-08-27T11:19:50.388Z",
+    "city": "Kayseri",
+    "address": "Melikgazi, 38100 Kayseri",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11997.43368168524!2d35.5044063!3d38.7701096!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cf5152357bf163%3A0x4e6f2ad8a16c9155!2sKayseri%20Stadyumu!5e0!3m2!1str!2str!4v1693140558634!5m2!1str!2str",
+    "location": "Kayseri Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 106
+      },
+      {
+        "category": "VIP",
+        "price": 266
+      }
+    ]
+  },
+  {
+    "name": "Anderlecht - Club Brugge",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Batman Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Batman Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-08T13:34:25.678Z",
+    "endDate": "2023-08-08T16:34:25.678Z",
+    "city": "Batman",
+    "address": "Merkez, 72100 Batman",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12023.415829943967!2d41.1343253!3d37.8957835!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40647a9cc55704e3%3A0x1b1dd472176719e5!2sBatman%20Stadyumu!5e0!3m2!1str!2str!4v1693140761100!5m2!1str!2str",
+    "location": "Batman Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 118
+      },
+      {
+        "category": "VIP",
+        "price": 176
+      }
+    ]
+  },
+  {
+    "name": "Rennes - Nantes",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Batman Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Batman Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-27T03:36:53.895Z",
+    "endDate": "2023-09-27T04:36:53.895Z",
+    "city": "Batman",
+    "address": "Merkez, 72100 Batman",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12023.415829943967!2d41.1343253!3d37.8957835!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40647a9cc55704e3%3A0x1b1dd472176719e5!2sBatman%20Stadyumu!5e0!3m2!1str!2str!4v1693140761100!5m2!1str!2str",
+    "location": "Batman Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 102
+      },
+      {
+        "category": "VIP",
+        "price": 342
+      }
+    ]
+  },
+  {
+    "name": "Borussia Dortmund - Schalke 04",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Bursa Büyükşehir Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Bursa Büyükşehir Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-04T15:15:17.930Z",
+    "endDate": "2023-08-04T17:15:17.930Z",
+    "city": "Bursa",
+    "address": "Nilüfer, 16010 Bursa",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11986.97946490378!2d29.0581655!3d40.2207375!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14caba4e066ba333%3A0xbba75a7b8945cd53!2zQnVyc2EgQsOxbsSxaGlyaCBTdGFkeXVt!5e0!3m2!1str!2str!4v1693140174501!5m2!1str!2str",
+    "location": "Bursa Büyükşehir Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 165
+      },
+      {
+        "category": "VIP",
+        "price": 321
+      }
+    ]
+  },
+  {
+    "name": "Genoa - Sampdoria",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Trabzon Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Trabzon Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-05T16:24:35.499Z",
+    "endDate": "2023-09-05T18:24:35.499Z",
+    "city": "Trabzon",
+    "address": "Ortahisar, 61000 Trabzon",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12004.74244124626!2d39.9847856!3d41.006829!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40763c101e0d30b9%3A0x6f797c6eb3f408b8!2sTrabzon%20Stadyumu!5e0!3m2!1str!2str!4v1693140430854!5m2!1str!2str",
+    "location": "Trabzon Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 149
+      },
+      {
+        "category": "VIP",
+        "price": 189
+      }
+    ]
+  },
+  {
+    "name": "Chelsea - Arsenal",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Adana Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Adana Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-17T14:37:33.531Z",
+    "endDate": "2023-09-17T17:37:33.531Z",
+    "city": "Adana",
+    "address": "Seyhan, 01170 Adana",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11970.641595433174!2d35.313878!3d37.0012157!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d69e3ff4a021dd%3A0xe500d7dd498c40fc!2sAdana%20Stadyumu!5e0!3m2!1str!2str!4v1693140266971!5m2!1str!2str",
+    "location": "Adana Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 160
+      },
+      {
+        "category": "VIP",
+        "price": 323
+      }
+    ]
+  },
+  {
+    "name": "Boca Juniors - River Plate",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Atatürk Olimpiyat Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Atatürk Olimpiyat Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-21T08:25:28.803Z",
+    "endDate": "2023-09-21T10:25:28.803Z",
+    "city": "İstanbul",
+    "address": "İkitelli, 34490 Başakşehir/İstanbul",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12058.331336431295!2d28.8166338!3d41.0607067!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x855b3e4acab60da4!2sAtat%C3%BCrk%20Olimpiyat%20Stadyumu!5e0!3m2!1str!2str!4v1693140032013!5m2!1str!2str",
+    "location": "Atatürk Olimpiyat Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 159
+      },
+      {
+        "category": "VIP",
+        "price": 373
+      }
+    ]
+  },
+  {
+    "name": "Flamengo - Vasco da Gama",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Ankara Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Ankara Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-07-30T11:55:50.360Z",
+    "endDate": "2023-07-30T12:55:50.360Z",
+    "city": "Ankara",
+    "address": "Kızılay, 06570 Çankaya/Ankara",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11972.300125149397!2d32.8541111!3d39.9207703!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ba89abec1f108f%3A0x570b4434ab68c29a!2sAnkara%20Stadyumu!5e0!3m2!1str!2str!4v1693140126921!5m2!1str!2str",
+    "location": "Ankara Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 63
+      },
+      {
+        "category": "VIP",
+        "price": 401
+      }
+    ]
+  },
+  {
+    "name": "Real Madrid - Barcelona",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Gaziantep Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Gaziantep Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-01T14:09:19.556Z",
+    "endDate": "2023-09-01T17:09:19.556Z",
+    "city": "Gaziantep",
+    "address": "Şahinbey, 27070 Gaziantep",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11970.755860243544!2d37.4175861!3d37.0468337!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14bfab8a49b8b3eb%3A0x4eaf1681b61ef0ee!2sGaziantep%20Stadyumu!5e0!3m2!1str!2str!4v1693140312940!5m2!1str!2str",
+    "location": "Gaziantep Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 99
+      },
+      {
+        "category": "VIP",
+        "price": 192
+      }
+    ]
+  },
+  {
+    "name": "Atlético Mineiro - Cruzeiro",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at İzmir Arena Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at İzmir Arena Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-07-30T10:59:59.689Z",
+    "endDate": "2023-07-30T12:59:59.689Z",
+    "city": "İzmir",
+    "address": "Balçova, 35330 İzmir",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12025.049657455003!2d27.1000703!3d38.3709856!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cb74be9d3c50a5%3A0x29b18468052c3f9e!2zSXTDvG1yIEFyZW5hIFN0YWR5dW0!5e0!3m2!1str!2str!4v1693140084987!5m2!1str!2str",
+    "location": "İzmir Arena Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 166
+      },
+      {
+        "category": "VIP",
+        "price": 454
+      }
+    ]
+  },
+  {
+    "name": "Barcelona - Real Madrid",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Van Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Van Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-07-30T18:46:04.289Z",
+    "endDate": "2023-07-30T20:46:04.289Z",
+    "city": "Van",
+    "address": "İpekyolu, 65000 Van",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12015.645443919315!2d43.3750052!3d38.5255886!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x409d3b5a7c46b5c9%3A0x3cb98883e8569dc3!2sVan%20Stadyumu!5e0!3m2!1str!2str!4v1693140892134!5m2!1str!2str",
+    "location": "Van Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 180
+      },
+      {
+        "category": "VIP",
+        "price": 399
+      }
+    ]
+  },
+  {
+    "name": "Flamengo - Vasco da Gama",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Van Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Van Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-16T00:01:08.118Z",
+    "endDate": "2023-09-16T01:01:08.118Z",
+    "city": "Van",
+    "address": "İpekyolu, 65000 Van",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12015.645443919315!2d43.3750052!3d38.5255886!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x409d3b5a7c46b5c9%3A0x3cb98883e8569dc3!2sVan%20Stadyumu!5e0!3m2!1str!2str!4v1693140892134!5m2!1str!2str",
+    "location": "Van Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 172
+      },
+      {
+        "category": "VIP",
+        "price": 194
+      }
+    ]
+  },
+  {
+    "name": "Chelsea - Manchester City",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Kahramanmaraş Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Kahramanmaraş Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-16T04:16:56.365Z",
+    "endDate": "2023-08-16T07:16:56.365Z",
+    "city": "Kahramanmaraş",
+    "address": "Onikişubat, 46050 Kahramanmaraş",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12049.98588159598!2d36.914656!3d37.572836!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14c890e799d08f85%3A0x593b167f6ecb9d0a!2sKahramanmara%C5%9F%20Stadyumu!5e0!3m2!1str!2str!4v1693140844936!5m2!1str!2str",
+    "location": "Kahramanmaraş Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 76
+      },
+      {
+        "category": "VIP",
+        "price": 447
+      }
+    ]
+  },
+  {
+    "name": "Internacional - Grêmio",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Kahramanmaraş Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Kahramanmaraş Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-17T17:58:06.046Z",
+    "endDate": "2023-09-17T19:58:06.046Z",
+    "city": "Kahramanmaraş",
+    "address": "Onikişubat, 46050 Kahramanmaraş",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12049.98588159598!2d36.914656!3d37.572836!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14c890e799d08f85%3A0x593b167f6ecb9d0a!2sKahramanmara%C5%9F%20Stadyumu!5e0!3m2!1str!2str!4v1693140844936!5m2!1str!2str",
+    "location": "Kahramanmaraş Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 63
+      },
+      {
+        "category": "VIP",
+        "price": 363
+      }
+    ]
+  },
+  {
+    "name": "New York Red Bulls - New York City FC",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Denizli Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Denizli Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-05T13:48:38.601Z",
+    "endDate": "2023-09-05T15:48:38.601Z",
+    "city": "Denizli",
+    "address": "Pamukkale, 20100 Denizli",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12041.188597674457!2d29.0314062!3d37.770993!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14b87da2b4a7036d%3A0x6d06e2e5d54eb58f!2sDenizli%20Stadyumu!5e0!3m2!1str!2str!4v1693140522586!5m2!1str!2str",
+    "location": "Denizli Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 52
+      },
+      {
+        "category": "VIP",
+        "price": 183
+      }
+    ]
+  },
+  {
+    "name": "Anderlecht - Club Brugge",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at İzmir Arena Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at İzmir Arena Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-01T15:16:16.772Z",
+    "endDate": "2023-09-01T17:16:16.772Z",
+    "city": "İzmir",
+    "address": "Balçova, 35330 İzmir",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12025.049657455003!2d27.1000703!3d38.3709856!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cb74be9d3c50a5%3A0x29b18468052c3f9e!2zSXTDvG1yIEFyZW5hIFN0YWR5dW0!5e0!3m2!1str!2str!4v1693140084987!5m2!1str!2str",
+    "location": "İzmir Arena Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 50
+      },
+      {
+        "category": "VIP",
+        "price": 443
+      }
+    ]
+  },
+  {
+    "name": "Atlético Mineiro - Cruzeiro",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Diyarbakır Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Diyarbakır Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-20T05:18:36.056Z",
+    "endDate": "2023-09-20T08:18:36.056Z",
+    "city": "Diyarbakır",
+    "address": "Bağlar, 21120 Diyarbakır",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12020.534664394016!2d40.1808673!3d37.9009632!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4030c3cd6be43ce9%3A0x5549a7ed81087bfc!2sDiyarbak%C4%B1r%20Stadyumu!5e0!3m2!1str!2str!4v1693140721284!5m2!1str!2str",
+    "location": "Diyarbakır Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 185
+      },
+      {
+        "category": "VIP",
+        "price": 198
+      }
+    ]
+  },
+  {
+    "name": "Celta Vigo - Deportivo La Coruña",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Antalya Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Antalya Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-05T02:25:44.179Z",
+    "endDate": "2023-09-05T05:25:44.179Z",
+    "city": "Antalya",
+    "address": "Muratpaşa, 07070 Antalya",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12015.343365852517!2d30.6997026!3d36.8620357!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ba829a001ce065%3A0x67096e7e978a7c38!2sAntalya%20Stadyumu!5e0!3m2!1str!2str!4v1693140221158!5m2!1str!2str",
+    "location": "Antalya Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 145
+      },
+      {
+        "category": "VIP",
+        "price": 242
+      }
+    ]
+  },
+  {
+    "name": "Celtic - Rangers",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Gaziantep Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Gaziantep Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-31T09:46:02.171Z",
+    "endDate": "2023-08-31T11:46:02.171Z",
+    "city": "Gaziantep",
+    "address": "Şahinbey, 27070 Gaziantep",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11970.755860243544!2d37.4175861!3d37.0468337!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14bfab8a49b8b3eb%3A0x4eaf1681b61ef0ee!2sGaziantep%20Stadyumu!5e0!3m2!1str!2str!4v1693140312940!5m2!1str!2str",
+    "location": "Gaziantep Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 165
+      },
+      {
+        "category": "VIP",
+        "price": 174
+      }
+    ]
+  },
+  {
+    "name": "Rangers - Celtic",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Antalya Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Antalya Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-06T15:19:43.372Z",
+    "endDate": "2023-08-06T17:19:43.372Z",
+    "city": "Antalya",
+    "address": "Muratpaşa, 07070 Antalya",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12015.343365852517!2d30.6997026!3d36.8620357!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ba829a001ce065%3A0x67096e7e978a7c38!2sAntalya%20Stadyumu!5e0!3m2!1str!2str!4v1693140221158!5m2!1str!2str",
+    "location": "Antalya Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 52
+      },
+      {
+        "category": "VIP",
+        "price": 445
+      }
+    ]
+  },
+  {
+    "name": "Milan - Inter Milan",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Antalya Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Antalya Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-30T06:50:56.960Z",
+    "endDate": "2023-08-30T07:50:56.960Z",
+    "city": "Antalya",
+    "address": "Muratpaşa, 07070 Antalya",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12015.343365852517!2d30.6997026!3d36.8620357!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ba829a001ce065%3A0x67096e7e978a7c38!2sAntalya%20Stadyumu!5e0!3m2!1str!2str!4v1693140221158!5m2!1str!2str",
+    "location": "Antalya Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 121
+      },
+      {
+        "category": "VIP",
+        "price": 277
+      }
+    ]
+  },
+  {
+    "name": "Genoa - Sampdoria",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Malatya Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Malatya Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-10T13:12:29.177Z",
+    "endDate": "2023-08-10T15:12:29.177Z",
+    "city": "Malatya",
+    "address": "Battalgazi, 44100 Malatya",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12022.715324793077!2d38.2530693!3d38.3617473!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ce694f9b16185d%3A0x2bce5a92f9db9b11!2sMalatya%20Stadyumu!5e0!3m2!1str!2str!4v1693140674331!5m2!1str!2str",
+    "location": "Malatya Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 114
+      },
+      {
+        "category": "VIP",
+        "price": 256
+      }
+    ]
+  },
+  {
+    "name": "Corinthians - Santos",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Antalya Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Antalya Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-03T20:16:30.660Z",
+    "endDate": "2023-09-03T22:16:30.660Z",
+    "city": "Antalya",
+    "address": "Muratpaşa, 07070 Antalya",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12015.343365852517!2d30.6997026!3d36.8620357!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ba829a001ce065%3A0x67096e7e978a7c38!2sAntalya%20Stadyumu!5e0!3m2!1str!2str!4v1693140221158!5m2!1str!2str",
+    "location": "Antalya Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 50
+      },
+      {
+        "category": "VIP",
+        "price": 218
+      }
+    ]
+  },
+  {
+    "name": "Club América - Chivas Guadalajara",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Şanlıurfa Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Şanlıurfa Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-30T23:18:21.346Z",
+    "endDate": "2023-08-31T00:18:21.346Z",
+    "city": "Şanlıurfa",
+    "address": "Haliliye, 63000 Şanlıurfa",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12032.38322872252!2d38.9328387!3d37.1113136!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4064b7ca66c85565%3A0x9a96b30d4b39b3c7!2s%C5%9Eanl%C4%B1urfa%20Stadyumu!5e0!3m2!1str!2str!4v1693140800457!5m2!1str!2str",
+    "location": "Şanlıurfa Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 168
+      },
+      {
+        "category": "VIP",
+        "price": 328
+      }
+    ]
+  },
+  {
+    "name": "Corinthians - Santos",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Samsun Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Samsun Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-26T00:03:22.832Z",
+    "endDate": "2023-08-26T03:03:22.832Z",
+    "city": "Samsun",
+    "address": "İlkadım, 55010 Samsun",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12019.858497245974!2d36.3405187!3d41.281678!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40545f87aeb0b241%3A0x1dfe7798a95e876d!2sSamsun%20Stadyumu!5e0!3m2!1str!2str!4v1693140638648!5m2!1str!2str",
+    "location": "Samsun Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 123
+      },
+      {
+        "category": "VIP",
+        "price": 328
+      }
+    ]
+  },
+  {
+    "name": "Milan - Juventus",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Malatya Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Malatya Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-22T22:47:15.959Z",
+    "endDate": "2023-08-23T00:47:15.959Z",
+    "city": "Malatya",
+    "address": "Battalgazi, 44100 Malatya",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12022.715324793077!2d38.2530693!3d38.3617473!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ce694f9b16185d%3A0x2bce5a92f9db9b11!2sMalatya%20Stadyumu!5e0!3m2!1str!2str!4v1693140674331!5m2!1str!2str",
+    "location": "Malatya Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 142
+      },
+      {
+        "category": "VIP",
+        "price": 330
+      }
+    ]
+  },
+  {
+    "name": "Inter Milan - AC Milan",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Gaziantep Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Gaziantep Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-17T21:47:57.622Z",
+    "endDate": "2023-09-17T22:47:57.622Z",
+    "city": "Gaziantep",
+    "address": "Şahinbey, 27070 Gaziantep",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11970.755860243544!2d37.4175861!3d37.0468337!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14bfab8a49b8b3eb%3A0x4eaf1681b61ef0ee!2sGaziantep%20Stadyumu!5e0!3m2!1str!2str!4v1693140312940!5m2!1str!2str",
+    "location": "Gaziantep Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 171
+      },
+      {
+        "category": "VIP",
+        "price": 422
+      }
+    ]
+  },
+  {
+    "name": "Milan - Inter Milan",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Denizli Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Denizli Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-13T14:41:17.678Z",
+    "endDate": "2023-08-13T16:41:17.678Z",
+    "city": "Denizli",
+    "address": "Pamukkale, 20100 Denizli",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12041.188597674457!2d29.0314062!3d37.770993!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14b87da2b4a7036d%3A0x6d06e2e5d54eb58f!2sDenizli%20Stadyumu!5e0!3m2!1str!2str!4v1693140522586!5m2!1str!2str",
+    "location": "Denizli Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 57
+      },
+      {
+        "category": "VIP",
+        "price": 391
+      }
+    ]
+  },
+  {
+    "name": "Juventus - Inter Milan",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Mersin Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Mersin Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-29T06:53:03.644Z",
+    "endDate": "2023-08-29T08:53:03.644Z",
+    "city": "Mersin",
+    "address": "Yenişehir, 33150 Mersin",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12007.19952214522!2d34.6280189!3d36.7749377!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cbe4d08bce1815%3A0x4bc0e3f33d8e35c2!2sMersin%20Stadyumu!5e0!3m2!1str!2str!4v1693140602926!5m2!1str!2str",
+    "location": "Mersin Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 116
+      },
+      {
+        "category": "VIP",
+        "price": 495
+      }
+    ]
+  },
+  {
+    "name": "Leeds United - Manchester United",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Adana Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Adana Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-16T17:39:59.206Z",
+    "endDate": "2023-09-16T18:39:59.206Z",
+    "city": "Adana",
+    "address": "Seyhan, 01170 Adana",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11970.641595433174!2d35.313878!3d37.0012157!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d69e3ff4a021dd%3A0xe500d7dd498c40fc!2sAdana%20Stadyumu!5e0!3m2!1str!2str!4v1693140266971!5m2!1str!2str",
+    "location": "Adana Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 85
+      },
+      {
+        "category": "VIP",
+        "price": 422
+      }
+    ]
+  },
+  {
+    "name": "Rennes - Nantes",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Adana Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Adana Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-05T16:02:24.756Z",
+    "endDate": "2023-09-05T18:02:24.756Z",
+    "city": "Adana",
+    "address": "Seyhan, 01170 Adana",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11970.641595433174!2d35.313878!3d37.0012157!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d69e3ff4a021dd%3A0xe500d7dd498c40fc!2sAdana%20Stadyumu!5e0!3m2!1str!2str!4v1693140266971!5m2!1str!2str",
+    "location": "Adana Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 165
+      },
+      {
+        "category": "VIP",
+        "price": 426
+      }
+    ]
+  },
+  {
+    "name": "São Paulo - Palmeiras",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Mersin Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Mersin Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-02T20:26:56.753Z",
+    "endDate": "2023-09-02T21:26:56.753Z",
+    "city": "Mersin",
+    "address": "Yenişehir, 33150 Mersin",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12007.19952214522!2d34.6280189!3d36.7749377!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cbe4d08bce1815%3A0x4bc0e3f33d8e35c2!2sMersin%20Stadyumu!5e0!3m2!1str!2str!4v1693140602926!5m2!1str!2str",
+    "location": "Mersin Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 72
+      },
+      {
+        "category": "VIP",
+        "price": 371
+      }
+    ]
+  },
+  {
+    "name": "Club América - Chivas Guadalajara",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Samsun Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Samsun Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-01T20:43:18.699Z",
+    "endDate": "2023-09-01T21:43:18.699Z",
+    "city": "Samsun",
+    "address": "İlkadım, 55010 Samsun",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12019.858497245974!2d36.3405187!3d41.281678!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40545f87aeb0b241%3A0x1dfe7798a95e876d!2sSamsun%20Stadyumu!5e0!3m2!1str!2str!4v1693140638648!5m2!1str!2str",
+    "location": "Samsun Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 112
+      },
+      {
+        "category": "VIP",
+        "price": 324
+      }
+    ]
+  },
+  {
+    "name": "Toronto FC - Montreal Impact",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Konya Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Konya Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-08T21:27:21.345Z",
+    "endDate": "2023-09-08T22:27:21.345Z",
+    "city": "Konya",
+    "address": "Selçuklu, 42030 Konya",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11976.646005680875!2d32.4668587!3d37.9117656!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14bb9ad6f07077d1%3A0x454b050ed595b9c6!2sKonya%20Stadyumu!5e0!3m2!1str!2str!4v1693140353059!5m2!1str!2str",
+    "location": "Konya Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 138
+      },
+      {
+        "category": "VIP",
+        "price": 217
+      }
+    ]
+  },
+  {
+    "name": "Monterrey - Tigres UANL",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Van Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Van Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-13T18:48:17.959Z",
+    "endDate": "2023-09-13T20:48:17.959Z",
+    "city": "Van",
+    "address": "İpekyolu, 65000 Van",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12015.645443919315!2d43.3750052!3d38.5255886!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x409d3b5a7c46b5c9%3A0x3cb98883e8569dc3!2sVan%20Stadyumu!5e0!3m2!1str!2str!4v1693140892134!5m2!1str!2str",
+    "location": "Van Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 177
+      },
+      {
+        "category": "VIP",
+        "price": 245
+      }
+    ]
+  },
+  {
+    "name": "Inter Milan - AC Milan",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Adana Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Adana Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-27T02:28:12.547Z",
+    "endDate": "2023-08-27T04:28:12.547Z",
+    "city": "Adana",
+    "address": "Seyhan, 01170 Adana",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11970.641595433174!2d35.313878!3d37.0012157!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d69e3ff4a021dd%3A0xe500d7dd498c40fc!2sAdana%20Stadyumu!5e0!3m2!1str!2str!4v1693140266971!5m2!1str!2str",
+    "location": "Adana Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 78
+      },
+      {
+        "category": "VIP",
+        "price": 462
+      }
+    ]
+  },
+  {
+    "name": "Ajax - PSV Eindhoven",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Bursa Büyükşehir Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Bursa Büyükşehir Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-23T14:45:47.709Z",
+    "endDate": "2023-09-23T17:45:47.709Z",
+    "city": "Bursa",
+    "address": "Nilüfer, 16010 Bursa",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11986.97946490378!2d29.0581655!3d40.2207375!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14caba4e066ba333%3A0xbba75a7b8945cd53!2zQnVyc2EgQsOxbsSxaGlyaCBTdGFkeXVt!5e0!3m2!1str!2str!4v1693140174501!5m2!1str!2str",
+    "location": "Bursa Büyükşehir Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 126
+      },
+      {
+        "category": "VIP",
+        "price": 209
+      }
+    ]
+  },
+  {
+    "name": "Barcelona - Real Madrid",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Şanlıurfa Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Şanlıurfa Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-06T19:41:20.396Z",
+    "endDate": "2023-09-06T22:41:20.396Z",
+    "city": "Şanlıurfa",
+    "address": "Haliliye, 63000 Şanlıurfa",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12032.38322872252!2d38.9328387!3d37.1113136!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4064b7ca66c85565%3A0x9a96b30d4b39b3c7!2s%C5%9Eanl%C4%B1urfa%20Stadyumu!5e0!3m2!1str!2str!4v1693140800457!5m2!1str!2str",
+    "location": "Şanlıurfa Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 98
+      },
+      {
+        "category": "VIP",
+        "price": 175
+      }
+    ]
+  },
+  {
+    "name": "Fiorentina - Juventus",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Kahramanmaraş Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Kahramanmaraş Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-24T05:21:50.620Z",
+    "endDate": "2023-08-24T06:21:50.620Z",
+    "city": "Kahramanmaraş",
+    "address": "Onikişubat, 46050 Kahramanmaraş",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12049.98588159598!2d36.914656!3d37.572836!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14c890e799d08f85%3A0x593b167f6ecb9d0a!2sKahramanmara%C5%9F%20Stadyumu!5e0!3m2!1str!2str!4v1693140844936!5m2!1str!2str",
+    "location": "Kahramanmaraş Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 161
+      },
+      {
+        "category": "VIP",
+        "price": 433
+      }
+    ]
+  },
+  {
+    "name": "Palmeiras - São Paulo",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Diyarbakır Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Diyarbakır Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-23T13:40:13.665Z",
+    "endDate": "2023-08-23T14:40:13.665Z",
+    "city": "Diyarbakır",
+    "address": "Bağlar, 21120 Diyarbakır",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12020.534664394016!2d40.1808673!3d37.9009632!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4030c3cd6be43ce9%3A0x5549a7ed81087bfc!2sDiyarbak%C4%B1r%20Stadyumu!5e0!3m2!1str!2str!4v1693140721284!5m2!1str!2str",
+    "location": "Diyarbakır Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 182
+      },
+      {
+        "category": "VIP",
+        "price": 305
+      }
+    ]
+  },
+  {
+    "name": "Milan - Juventus",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Trabzon Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Trabzon Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-04T00:03:34.872Z",
+    "endDate": "2023-09-04T01:03:34.872Z",
+    "city": "Trabzon",
+    "address": "Ortahisar, 61000 Trabzon",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12004.74244124626!2d39.9847856!3d41.006829!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40763c101e0d30b9%3A0x6f797c6eb3f408b8!2sTrabzon%20Stadyumu!5e0!3m2!1str!2str!4v1693140430854!5m2!1str!2str",
+    "location": "Trabzon Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 142
+      },
+      {
+        "category": "VIP",
+        "price": 179
+      }
+    ]
+  },
+  {
+    "name": "Marseille - Paris Saint-Germain",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Malatya Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Malatya Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-24T11:08:29.247Z",
+    "endDate": "2023-08-24T12:08:29.247Z",
+    "city": "Malatya",
+    "address": "Battalgazi, 44100 Malatya",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12022.715324793077!2d38.2530693!3d38.3617473!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ce694f9b16185d%3A0x2bce5a92f9db9b11!2sMalatya%20Stadyumu!5e0!3m2!1str!2str!4v1693140674331!5m2!1str!2str",
+    "location": "Malatya Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 104
+      },
+      {
+        "category": "VIP",
+        "price": 298
+      }
+    ]
+  },
+  {
+    "name": "Rennes - Nantes",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Gaziantep Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Gaziantep Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-09T19:29:48.813Z",
+    "endDate": "2023-09-09T22:29:48.813Z",
+    "city": "Gaziantep",
+    "address": "Şahinbey, 27070 Gaziantep",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11970.755860243544!2d37.4175861!3d37.0468337!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14bfab8a49b8b3eb%3A0x4eaf1681b61ef0ee!2sGaziantep%20Stadyumu!5e0!3m2!1str!2str!4v1693140312940!5m2!1str!2str",
+    "location": "Gaziantep Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 187
+      },
+      {
+        "category": "VIP",
+        "price": 410
+      }
+    ]
+  },
+  {
+    "name": "LA Galaxy - San Jose Earthquakes",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Kahramanmaraş Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Kahramanmaraş Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-25T20:45:56.429Z",
+    "endDate": "2023-09-25T23:45:56.429Z",
+    "city": "Kahramanmaraş",
+    "address": "Onikişubat, 46050 Kahramanmaraş",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12049.98588159598!2d36.914656!3d37.572836!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14c890e799d08f85%3A0x593b167f6ecb9d0a!2sKahramanmara%C5%9F%20Stadyumu!5e0!3m2!1str!2str!4v1693140844936!5m2!1str!2str",
+    "location": "Kahramanmaraş Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 85
+      },
+      {
+        "category": "VIP",
+        "price": 383
+      }
+    ]
+  },
+  {
+    "name": "Porto - Sporting CP",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Van Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Van Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-18T01:33:49.859Z",
+    "endDate": "2023-08-18T02:33:49.859Z",
+    "city": "Van",
+    "address": "İpekyolu, 65000 Van",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12015.645443919315!2d43.3750052!3d38.5255886!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x409d3b5a7c46b5c9%3A0x3cb98883e8569dc3!2sVan%20Stadyumu!5e0!3m2!1str!2str!4v1693140892134!5m2!1str!2str",
+    "location": "Van Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 72
+      },
+      {
+        "category": "VIP",
+        "price": 203
+      }
+    ]
+  },
+  {
+    "name": "Toronto FC - Montreal Impact",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Ankara Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Ankara Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-15T06:52:29.125Z",
+    "endDate": "2023-08-15T08:52:29.125Z",
+    "city": "Ankara",
+    "address": "Kızılay, 06570 Çankaya/Ankara",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11972.300125149397!2d32.8541111!3d39.9207703!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ba89abec1f108f%3A0x570b4434ab68c29a!2sAnkara%20Stadyumu!5e0!3m2!1str!2str!4v1693140126921!5m2!1str!2str",
+    "location": "Ankara Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 93
+      },
+      {
+        "category": "VIP",
+        "price": 273
+      }
+    ]
+  },
+  {
+    "name": "Borussia Dortmund - Schalke 04",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Kayseri Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Kayseri Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-18T19:14:31.635Z",
+    "endDate": "2023-08-18T22:14:31.635Z",
+    "city": "Kayseri",
+    "address": "Melikgazi, 38100 Kayseri",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11997.43368168524!2d35.5044063!3d38.7701096!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cf5152357bf163%3A0x4e6f2ad8a16c9155!2sKayseri%20Stadyumu!5e0!3m2!1str!2str!4v1693140558634!5m2!1str!2str",
+    "location": "Kayseri Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 159
+      },
+      {
+        "category": "VIP",
+        "price": 238
+      }
+    ]
+  },
+  {
+    "name": "Barcelona - Atletico Madrid",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Atatürk Olimpiyat Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Atatürk Olimpiyat Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-21T05:14:44.408Z",
+    "endDate": "2023-09-21T08:14:44.408Z",
+    "city": "İstanbul",
+    "address": "İkitelli, 34490 Başakşehir/İstanbul",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12058.331336431295!2d28.8166338!3d41.0607067!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x855b3e4acab60da4!2sAtat%C3%BCrk%20Olimpiyat%20Stadyumu!5e0!3m2!1str!2str!4v1693140032013!5m2!1str!2str",
+    "location": "Atatürk Olimpiyat Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 153
+      },
+      {
+        "category": "VIP",
+        "price": 193
+      }
+    ]
+  },
+  {
+    "name": "São Paulo - Palmeiras",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at İzmir Arena Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at İzmir Arena Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-22T09:51:38.660Z",
+    "endDate": "2023-09-22T10:51:38.660Z",
+    "city": "İzmir",
+    "address": "Balçova, 35330 İzmir",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12025.049657455003!2d27.1000703!3d38.3709856!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cb74be9d3c50a5%3A0x29b18468052c3f9e!2zSXTDvG1yIEFyZW5hIFN0YWR5dW0!5e0!3m2!1str!2str!4v1693140084987!5m2!1str!2str",
+    "location": "İzmir Arena Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 155
+      },
+      {
+        "category": "VIP",
+        "price": 369
+      }
+    ]
+  },
+  {
+    "name": "Real Madrid - Barcelona",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Batman Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Batman Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-07T09:11:56.113Z",
+    "endDate": "2023-08-07T12:11:56.113Z",
+    "city": "Batman",
+    "address": "Merkez, 72100 Batman",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12023.415829943967!2d41.1343253!3d37.8957835!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40647a9cc55704e3%3A0x1b1dd472176719e5!2sBatman%20Stadyumu!5e0!3m2!1str!2str!4v1693140761100!5m2!1str!2str",
+    "location": "Batman Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 175
+      },
+      {
+        "category": "VIP",
+        "price": 385
+      }
+    ]
+  },
+  {
+    "name": "Palmeiras - São Paulo",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Sivas Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Sivas Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-19T23:54:41.560Z",
+    "endDate": "2023-08-20T00:54:41.560Z",
+    "city": "Sivas",
+    "address": "Merkez, 58100 Sivas",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12007.235961775115!2d37.0052304!3d39.7471816!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4029177e5c1fba3b%3A0xfefa8e5716ea8d32!2sSivas%20Stadyumu!5e0!3m2!1str!2str!4v1693140389212!5m2!1str!2str",
+    "location": "Sivas Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 183
+      },
+      {
+        "category": "VIP",
+        "price": 381
+      }
+    ]
+  },
+  {
+    "name": "Milan - Inter Milan",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Mersin Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Mersin Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-11T08:40:00.325Z",
+    "endDate": "2023-09-11T11:40:00.325Z",
+    "city": "Mersin",
+    "address": "Yenişehir, 33150 Mersin",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12007.19952214522!2d34.6280189!3d36.7749377!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cbe4d08bce1815%3A0x4bc0e3f33d8e35c2!2sMersin%20Stadyumu!5e0!3m2!1str!2str!4v1693140602926!5m2!1str!2str",
+    "location": "Mersin Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 70
+      },
+      {
+        "category": "VIP",
+        "price": 172
+      }
+    ]
+  },
+  {
+    "name": "Manchester City - Manchester United",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Konya Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Konya Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-21T05:22:22.611Z",
+    "endDate": "2023-09-21T08:22:22.611Z",
+    "city": "Konya",
+    "address": "Selçuklu, 42030 Konya",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11976.646005680875!2d32.4668587!3d37.9117656!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14bb9ad6f07077d1%3A0x454b050ed595b9c6!2sKonya%20Stadyumu!5e0!3m2!1str!2str!4v1693140353059!5m2!1str!2str",
+    "location": "Konya Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 123
+      },
+      {
+        "category": "VIP",
+        "price": 262
+      }
+    ]
+  },
+  {
+    "name": "Borussia Dortmund - Schalke 04",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Antalya Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Antalya Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-29T20:50:21.636Z",
+    "endDate": "2023-08-29T22:50:21.636Z",
+    "city": "Antalya",
+    "address": "Muratpaşa, 07070 Antalya",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12015.343365852517!2d30.6997026!3d36.8620357!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ba829a001ce065%3A0x67096e7e978a7c38!2sAntalya%20Stadyumu!5e0!3m2!1str!2str!4v1693140221158!5m2!1str!2str",
+    "location": "Antalya Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 195
+      },
+      {
+        "category": "VIP",
+        "price": 228
+      }
+    ]
+  },
+  {
+    "name": "Rennes - Nantes",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Van Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Van Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-29T14:06:55.255Z",
+    "endDate": "2023-08-29T16:06:55.255Z",
+    "city": "Van",
+    "address": "İpekyolu, 65000 Van",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12015.645443919315!2d43.3750052!3d38.5255886!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x409d3b5a7c46b5c9%3A0x3cb98883e8569dc3!2sVan%20Stadyumu!5e0!3m2!1str!2str!4v1693140892134!5m2!1str!2str",
+    "location": "Van Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 135
+      },
+      {
+        "category": "VIP",
+        "price": 372
+      }
+    ]
+  },
+  {
+    "name": "Monterrey - Tigres UANL",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Kayseri Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Kayseri Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-24T00:51:36.100Z",
+    "endDate": "2023-09-24T01:51:36.100Z",
+    "city": "Kayseri",
+    "address": "Melikgazi, 38100 Kayseri",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11997.43368168524!2d35.5044063!3d38.7701096!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cf5152357bf163%3A0x4e6f2ad8a16c9155!2sKayseri%20Stadyumu!5e0!3m2!1str!2str!4v1693140558634!5m2!1str!2str",
+    "location": "Kayseri Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 114
+      },
+      {
+        "category": "VIP",
+        "price": 255
+      }
+    ]
+  },
+  {
+    "name": "River Plate - Boca Juniors",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Konya Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Konya Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-21T17:42:11.444Z",
+    "endDate": "2023-09-21T20:42:11.444Z",
+    "city": "Konya",
+    "address": "Selçuklu, 42030 Konya",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11976.646005680875!2d32.4668587!3d37.9117656!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14bb9ad6f07077d1%3A0x454b050ed595b9c6!2sKonya%20Stadyumu!5e0!3m2!1str!2str!4v1693140353059!5m2!1str!2str",
+    "location": "Konya Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 52
+      },
+      {
+        "category": "VIP",
+        "price": 460
+      }
+    ]
+  },
+  {
+    "name": "Universidad de Chile - Colo-Colo",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Van Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Van Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-16T14:19:25.554Z",
+    "endDate": "2023-08-16T15:19:25.554Z",
+    "city": "Van",
+    "address": "İpekyolu, 65000 Van",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12015.645443919315!2d43.3750052!3d38.5255886!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x409d3b5a7c46b5c9%3A0x3cb98883e8569dc3!2sVan%20Stadyumu!5e0!3m2!1str!2str!4v1693140892134!5m2!1str!2str",
+    "location": "Van Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 162
+      },
+      {
+        "category": "VIP",
+        "price": 238
+      }
+    ]
+  },
+  {
+    "name": "Roma - Napoli",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Van Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Van Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-14T03:10:56.988Z",
+    "endDate": "2023-08-14T06:10:56.988Z",
+    "city": "Van",
+    "address": "İpekyolu, 65000 Van",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12015.645443919315!2d43.3750052!3d38.5255886!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x409d3b5a7c46b5c9%3A0x3cb98883e8569dc3!2sVan%20Stadyumu!5e0!3m2!1str!2str!4v1693140892134!5m2!1str!2str",
+    "location": "Van Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 121
+      },
+      {
+        "category": "VIP",
+        "price": 322
+      }
+    ]
+  },
+  {
+    "name": "Santos - Corinthians",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Malatya Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Malatya Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-05T21:03:24.680Z",
+    "endDate": "2023-09-05T22:03:24.680Z",
+    "city": "Malatya",
+    "address": "Battalgazi, 44100 Malatya",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12022.715324793077!2d38.2530693!3d38.3617473!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ce694f9b16185d%3A0x2bce5a92f9db9b11!2sMalatya%20Stadyumu!5e0!3m2!1str!2str!4v1693140674331!5m2!1str!2str",
+    "location": "Malatya Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 153
+      },
+      {
+        "category": "VIP",
+        "price": 356
+      }
+    ]
+  },
+  {
+    "name": "Genoa - Sampdoria",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Gaziantep Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Gaziantep Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-27T05:37:20.137Z",
+    "endDate": "2023-09-27T08:37:20.137Z",
+    "city": "Gaziantep",
+    "address": "Şahinbey, 27070 Gaziantep",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11970.755860243544!2d37.4175861!3d37.0468337!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14bfab8a49b8b3eb%3A0x4eaf1681b61ef0ee!2sGaziantep%20Stadyumu!5e0!3m2!1str!2str!4v1693140312940!5m2!1str!2str",
+    "location": "Gaziantep Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 56
+      },
+      {
+        "category": "VIP",
+        "price": 447
+      }
+    ]
+  },
+  {
+    "name": "PSV Eindhoven - Ajax",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Gaziantep Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Gaziantep Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-04T22:00:29.020Z",
+    "endDate": "2023-08-05T00:00:29.020Z",
+    "city": "Gaziantep",
+    "address": "Şahinbey, 27070 Gaziantep",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11970.755860243544!2d37.4175861!3d37.0468337!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14bfab8a49b8b3eb%3A0x4eaf1681b61ef0ee!2sGaziantep%20Stadyumu!5e0!3m2!1str!2str!4v1693140312940!5m2!1str!2str",
+    "location": "Gaziantep Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 170
+      },
+      {
+        "category": "VIP",
+        "price": 393
+      }
+    ]
+  },
+  {
+    "name": "Club América - Chivas Guadalajara",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Kahramanmaraş Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Kahramanmaraş Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-27T11:48:47.466Z",
+    "endDate": "2023-09-27T13:48:47.466Z",
+    "city": "Kahramanmaraş",
+    "address": "Onikişubat, 46050 Kahramanmaraş",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12049.98588159598!2d36.914656!3d37.572836!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14c890e799d08f85%3A0x593b167f6ecb9d0a!2sKahramanmara%C5%9F%20Stadyumu!5e0!3m2!1str!2str!4v1693140844936!5m2!1str!2str",
+    "location": "Kahramanmaraş Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 148
+      },
+      {
+        "category": "VIP",
+        "price": 295
+      }
+    ]
+  },
+  {
+    "name": "San Lorenzo - Huracán",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Adana Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Adana Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-19T03:31:59.739Z",
+    "endDate": "2023-09-19T04:31:59.739Z",
+    "city": "Adana",
+    "address": "Seyhan, 01170 Adana",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11970.641595433174!2d35.313878!3d37.0012157!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d69e3ff4a021dd%3A0xe500d7dd498c40fc!2sAdana%20Stadyumu!5e0!3m2!1str!2str!4v1693140266971!5m2!1str!2str",
+    "location": "Adana Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 188
+      },
+      {
+        "category": "VIP",
+        "price": 393
+      }
+    ]
+  },
+  {
+    "name": "Vélez Sarsfield - Independiente",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Gaziantep Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Gaziantep Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-30T19:26:48.740Z",
+    "endDate": "2023-08-30T21:26:48.740Z",
+    "city": "Gaziantep",
+    "address": "Şahinbey, 27070 Gaziantep",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11970.755860243544!2d37.4175861!3d37.0468337!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14bfab8a49b8b3eb%3A0x4eaf1681b61ef0ee!2sGaziantep%20Stadyumu!5e0!3m2!1str!2str!4v1693140312940!5m2!1str!2str",
+    "location": "Gaziantep Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 131
+      },
+      {
+        "category": "VIP",
+        "price": 341
+      }
+    ]
+  },
+  {
+    "name": "Milan - Inter Milan",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Van Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Van Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-15T06:40:13.201Z",
+    "endDate": "2023-09-15T07:40:13.201Z",
+    "city": "Van",
+    "address": "İpekyolu, 65000 Van",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12015.645443919315!2d43.3750052!3d38.5255886!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x409d3b5a7c46b5c9%3A0x3cb98883e8569dc3!2sVan%20Stadyumu!5e0!3m2!1str!2str!4v1693140892134!5m2!1str!2str",
+    "location": "Van Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 168
+      },
+      {
+        "category": "VIP",
+        "price": 365
+      }
+    ]
+  },
+  {
+    "name": "Internacional - Grêmio",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Atatürk Olimpiyat Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Atatürk Olimpiyat Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-07T22:45:46.221Z",
+    "endDate": "2023-08-08T01:45:46.221Z",
+    "city": "İstanbul",
+    "address": "İkitelli, 34490 Başakşehir/İstanbul",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12058.331336431295!2d28.8166338!3d41.0607067!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x855b3e4acab60da4!2sAtat%C3%BCrk%20Olimpiyat%20Stadyumu!5e0!3m2!1str!2str!4v1693140032013!5m2!1str!2str",
+    "location": "Atatürk Olimpiyat Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 181
+      },
+      {
+        "category": "VIP",
+        "price": 220
+      }
+    ]
+  },
+  {
+    "name": "Roma - Lazio",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Konya Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Konya Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-05T10:11:54.098Z",
+    "endDate": "2023-09-05T13:11:54.098Z",
+    "city": "Konya",
+    "address": "Selçuklu, 42030 Konya",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11976.646005680875!2d32.4668587!3d37.9117656!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14bb9ad6f07077d1%3A0x454b050ed595b9c6!2sKonya%20Stadyumu!5e0!3m2!1str!2str!4v1693140353059!5m2!1str!2str",
+    "location": "Konya Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 92
+      },
+      {
+        "category": "VIP",
+        "price": 243
+      }
+    ]
+  },
+  {
+    "name": "Manchester City - Liverpool",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Sivas Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Sivas Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-10T00:19:52.570Z",
+    "endDate": "2023-08-10T01:19:52.570Z",
+    "city": "Sivas",
+    "address": "Merkez, 58100 Sivas",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12007.235961775115!2d37.0052304!3d39.7471816!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4029177e5c1fba3b%3A0xfefa8e5716ea8d32!2sSivas%20Stadyumu!5e0!3m2!1str!2str!4v1693140389212!5m2!1str!2str",
+    "location": "Sivas Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 197
+      },
+      {
+        "category": "VIP",
+        "price": 461
+      }
+    ]
+  },
+  {
+    "name": "Atletico Madrid - Real Madrid",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at İzmir Arena Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at İzmir Arena Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-16T10:36:57.883Z",
+    "endDate": "2023-09-16T11:36:57.883Z",
+    "city": "İzmir",
+    "address": "Balçova, 35330 İzmir",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12025.049657455003!2d27.1000703!3d38.3709856!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cb74be9d3c50a5%3A0x29b18468052c3f9e!2zSXTDvG1yIEFyZW5hIFN0YWR5dW0!5e0!3m2!1str!2str!4v1693140084987!5m2!1str!2str",
+    "location": "İzmir Arena Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 146
+      },
+      {
+        "category": "VIP",
+        "price": 397
+      }
+    ]
+  },
+  {
+    "name": "San Lorenzo - Huracán",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Antalya Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Antalya Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-08-21T07:38:07.782Z",
+    "endDate": "2023-08-21T10:38:07.782Z",
+    "city": "Antalya",
+    "address": "Muratpaşa, 07070 Antalya",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12015.343365852517!2d30.6997026!3d36.8620357!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ba829a001ce065%3A0x67096e7e978a7c38!2sAntalya%20Stadyumu!5e0!3m2!1str!2str!4v1693140221158!5m2!1str!2str",
+    "location": "Antalya Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 173
+      },
+      {
+        "category": "VIP",
+        "price": 305
+      }
+    ]
+  },
+  {
+    "name": "Torino - Juventus",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Bursa Büyükşehir Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Bursa Büyükşehir Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-24T07:52:54.428Z",
+    "endDate": "2023-09-24T08:52:54.428Z",
+    "city": "Bursa",
+    "address": "Nilüfer, 16010 Bursa",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11986.97946490378!2d29.0581655!3d40.2207375!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14caba4e066ba333%3A0xbba75a7b8945cd53!2zQnVyc2EgQsOxbsSxaGlyaCBTdGFkeXVt!5e0!3m2!1str!2str!4v1693140174501!5m2!1str!2str",
+    "location": "Bursa Büyükşehir Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 189
+      },
+      {
+        "category": "VIP",
+        "price": 408
+      }
+    ]
+  },
+  {
+    "name": "Manchester United - Liverpool",
+    "description": "Get ready for a wave of excitement and sportsmanship! We're thrilled to invite you to experience the thrill of live matches and sporting events at Denizli Stadyumu. Feel the adrenaline, join the cheering crowd, and be a part of sports history at Denizli Stadyumu. Get your tickets and get ready to support your favorite teams and athletes in a setting that's second to none!",
+    "startDate": "2023-09-25T09:00:17.749Z",
+    "endDate": "2023-09-25T12:00:17.749Z",
+    "city": "Denizli",
+    "address": "Pamukkale, 20100 Denizli",
+    "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12041.188597674457!2d29.0314062!3d37.770993!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14b87da2b4a7036d%3A0x6d06e2e5d54eb58f!2sDenizli%20Stadyumu!5e0!3m2!1str!2str!4v1693140522586!5m2!1str!2str",
+    "location": "Denizli Stadyumu",
+    "category": "sports",
+    "ticketPrices": [
+      {
+        "category": "Standard",
+        "price": 120
+      },
+      {
+        "category": "VIP",
+        "price": 305
+      }
+    ]
+  }
+]
