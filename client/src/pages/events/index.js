@@ -30,15 +30,24 @@ const AllEvents = () => {
   }, [events, selectedCategories]);
 
   useEffect(() => {
-    setSelectedCategories(router.query.category?.split(',') || []);
-    setSelectedType(router.query.type || '');
+    const queryCategory = router.query.category;
+    const queryType = router.query.type;
+    setSelectedCategories(
+      queryCategory
+        ? queryCategory.split(',')
+        : ['concerts', 'theaters', 'sports']
+    );
+    setSelectedType(queryType ? queryType : 'all');
     setSearchTerm(router.query.search || '');
   }, [router.query.category, router.query.type, router.query.search]);
 
   useEffect(() => {
+    const searchTerms = searchTerm.toLocaleLowerCase().split(' ');
     const results = filteredEvents.filter((event) =>
-      ['name', 'city', 'location'].some((prop) =>
-        event[prop].toLocaleLowerCase().includes(searchTerm.toLocaleLowerCase())
+      searchTerms.every((term) =>
+        ['name', 'city', 'location'].some((prop) =>
+          event[prop].toLocaleLowerCase().includes(term)
+        )
       )
     );
     setSearchResults(results);
@@ -63,7 +72,7 @@ const AllEvents = () => {
     setSelectedCategories(updatedCategories);
 
     router.push({
-      pathname: '/events/all',
+      pathname: '/events',
       query: {
         ...router.query,
         category: updatedCategories.join(','),
@@ -75,7 +84,7 @@ const AllEvents = () => {
   const handleTypeChange = (newType) => {
     setSelectedType(newType);
     router.push({
-      pathname: '/events/all',
+      pathname: '/events',
       query: {
         ...router.query,
         type: newType,
@@ -88,7 +97,7 @@ const AllEvents = () => {
     const newSearchTerm = e.target.value;
     setSearchTerm(newSearchTerm);
     router.push({
-      pathname: '/events/all',
+      pathname: '/events',
       query: { ...query, search: newSearchTerm },
     });
   };
@@ -113,83 +122,83 @@ const AllEvents = () => {
     <main>
       <div className="page-header">
         <h1 className="title">All Events</h1>
-        <p className="subtitle">Browse and filter upcoming events.</p>
+        <p className="sub-title">Browse and filter upcoming events.</p>
       </div>
       <div className="page-content py-8">
-        <div className="flex justify-between gap-3">
-          <div className="relative">
-            <Button
-              variant="outlined"
-              color="secondary"
-              className="px-3 py-1.5 text-xs"
-              onClick={toggleFilter(setFilterByCategories)}
-            >
-              Filter By Categories
-            </Button>
-            {filterByCategories && (
-              <div className="absolute z-10 bg-light-bg dark:bg-dark-bg border border-[#f4f4f4] dark:border-[#222222] p-auto w-full px-2 py-4 flex flex-col gap-y-3 shadow-2xl">
-                {categoryValues.map((categoryValue) => (
-                  <div key={categoryValue}>
-                    <label className="flex gap-x-3">
-                      <input
-                        type="checkbox"
-                        value={categoryValue}
-                        checked={selectedCategories.includes(categoryValue)}
-                        onChange={handleCategoryChange}
-                      />
-                      {categoryValue.charAt(0).toUpperCase() +
-                        categoryValue.slice(1)}
-                    </label>
-                  </div>
-                ))}
-              </div>
-            )}
+        <div className="grid grid-cols-1 lg:grid-cols-3 gap-5">
+          <div className="flex items-center justify-between lg:justify-start gap-5">
+            <div className="relative">
+              <Button
+                variant="outlined"
+                color="secondary"
+                className="px-3 py-1.5 text-xs"
+                onClick={toggleFilter(setFilterByCategories)}
+              >
+                Filter By Categories
+              </Button>
+              {filterByCategories && (
+                <div className="absolute z-10 bg-light-bg dark:bg-dark-bg border border-[#f4f4f4] dark:border-[#222222] p-auto w-full px-2 py-4 flex flex-col gap-y-3 shadow-2xl">
+                  {categoryValues.map((categoryValue) => (
+                    <div key={categoryValue}>
+                      <label className="flex gap-x-3">
+                        <input
+                          type="checkbox"
+                          value={categoryValue}
+                          checked={selectedCategories.includes(categoryValue)}
+                          onChange={handleCategoryChange}
+                        />
+                        {categoryValue.charAt(0).toUpperCase() +
+                          categoryValue.slice(1)}
+                      </label>
+                    </div>
+                  ))}
+                </div>
+              )}
+            </div>
+            <div className="relative">
+              <Button
+                variant="outlined"
+                color="secondary"
+                className="px-3 py-1.5 text-xs"
+                onClick={toggleFilter(setFilterByTypes)}
+              >
+                Filter By Event Type
+              </Button>
+              {filterByTypes && (
+                <div className="absolute z-10 bg-light-bg dark:bg-dark-bg border border-[#f4f4f4] dark:border-[#222222] p-auto w-full px-2 py-4 flex flex-col gap-y-3 shadow-2xl">
+                  {[
+                    { value: 'all', label: 'All Events' },
+                    { value: 'future', label: 'Future Events' },
+                    { value: 'past', label: 'Past Events' },
+                  ].map((type) => (
+                    <div key={type.value}>
+                      <label className="flex gap-x-3">
+                        <input
+                          type="checkbox"
+                          value={type.value}
+                          checked={selectedType === type.value}
+                          onChange={() => {
+                            toggleFilter(setFilterByTypes)();
+                            handleTypeChange(type.value);
+                          }}
+                        />
+                        {type.label}
+                      </label>
+                    </div>
+                  ))}
+                </div>
+              )}
+            </div>
           </div>
-          <div className="relative">
-            <Button
-              variant="outlined"
-              color="secondary"
-              className="px-3 py-1.5 text-xs"
-              onClick={toggleFilter(setFilterByTypes)}
-            >
-              Filter By Event Type
-            </Button>
-            {filterByTypes && (
-              <div className="absolute z-10 bg-light-bg dark:bg-dark-bg border border-[#f4f4f4] dark:border-[#222222] p-auto w-full px-2 py-4 flex flex-col gap-y-3 shadow-2xl">
-                {[
-                  { value: 'all', label: 'All Events' },
-                  { value: 'future', label: 'Future Events' },
-                  { value: 'past', label: 'Past Events' },
-                ].map((type) => (
-                  <div key={type.value}>
-                    <label className="flex gap-x-3">
-                      <input
-                        type="checkbox"
-                        value={type.value}
-                        checked={selectedType === type.value}
-                        onChange={() => {
-                          toggleFilter(setFilterByTypes)();
-                          handleTypeChange(type.value);
-                        }}
-                      />
-                      {type.label}
-                    </label>
-                  </div>
-                ))}
-              </div>
-            )}
-          </div>
-        </div>
-        <div className="flex flex-col md:flex-row justify-between items-center py-3 gap-y-3">
           <input
             type="text"
             placeholder="Search"
-            className="w-full md:w-1/3 px-4 py-2 border-none rounded-full border bg-[#f4f4f4] dark:bg-[#333] dark:text-white focus:outline-[#333] dark:focus:outline-[#f4f4f4]"
+            className="w-full px-4 py-2 border-none rounded-full border bg-[#f4f4f4] dark:bg-[#333] dark:text-white focus:outline-[#333] dark:focus:outline-[#f4f4f4]"
             value={searchTerm}
             onChange={handleSearch}
           />
-          <div className="flex items-center gap-5">
-            <div>
+          <div className="flex items-center justify-between lg:justify-end gap-5">
+            <div className="flex">
               <label>Sort By: </label>
               <select
                 value={sortBy}
@@ -200,7 +209,7 @@ const AllEvents = () => {
                 <option value="city">City</option>
               </select>
             </div>
-            <div>
+            <div className="flex">
               <label>Sort Order: </label>
               <select
                 value={sortOrder}
@@ -213,6 +222,7 @@ const AllEvents = () => {
             </div>
           </div>
         </div>
+        <div className="flex flex-col md:flex-row justify-between items-center py-3 gap-y-3"></div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
           {sortedResults.length === 0 ? (

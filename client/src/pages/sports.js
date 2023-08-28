@@ -2,7 +2,7 @@ import ImageSlider from '@/components/Slider';
 import { useEvent } from '@/context';
 import { useEffect } from 'react';
 
-const Concerts = () => {
+const Sports = () => {
   const { fetchAllEvents, events } = useEvent();
 
   useEffect(() => {
@@ -11,9 +11,9 @@ const Concerts = () => {
 
   const [futureEvents, pastEvents] = events.reduce(
     (acc, event) => {
-      if (event.type === 'future' && event.category === 'concerts') {
+      if (event.type === 'future' && event.category === 'sports') {
         acc[0].push(event);
-      } else if (event.type === 'past' && event.category === 'concerts') {
+      } else if (event.type === 'past' && event.category === 'sports') {
         acc[1].push(event);
       }
       return acc;
@@ -24,36 +24,34 @@ const Concerts = () => {
   return (
     <main>
       <div className="page-header">
-        <h1 className="title">Concerts</h1>
-        <p className="sub-title">
-          Get Ready for Unforgettable Concert Experiences
-        </p>
+        <h1 className="title">Sports</h1>
+        <p className="sub-title">Get Ready for Thrilling Sports Experiences</p>
       </div>
       <div className="page-content flex flex-col gap-y-10">
         <div>
           {futureEvents.length > 0 ? (
             <ImageSlider
               data={futureEvents}
-              title="Future Concerts"
-              category="concerts"
+              title="Future Sports"
+              category="sports"
             />
           ) : (
-            <p className="text-center text-2xl">No upcoming concerts</p>
+            <p className="text-center text-2xl">No upcoming sports</p>
           )}
         </div>
         <div>
           {pastEvents.length > 0 ? (
             <ImageSlider
               data={pastEvents}
-              title="Past Concerts"
-              category="concerts"
+              title="Past Sports"
+              category="sports"
             />
           ) : (
-            <p className="text-center text-2xl">No past concerts</p>
+            <p className="text-center text-2xl">No past sports</p>
           )}
         </div>
       </div>
     </main>
   );
 };
-export default Concerts;
+export default Sports;

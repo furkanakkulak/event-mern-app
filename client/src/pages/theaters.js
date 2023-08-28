@@ -2,7 +2,7 @@ import ImageSlider from '@/components/Slider';
 import { useEvent } from '@/context';
 import { useEffect } from 'react';
 
-const Concerts = () => {
+const Theaters = () => {
   const { fetchAllEvents, events } = useEvent();
 
   useEffect(() => {
@@ -11,9 +11,9 @@ const Concerts = () => {
 
   const [futureEvents, pastEvents] = events.reduce(
     (acc, event) => {
-      if (event.type === 'future' && event.category === 'concerts') {
+      if (event.type === 'future' && event.category === 'theaters') {
         acc[0].push(event);
-      } else if (event.type === 'past' && event.category === 'concerts') {
+      } else if (event.type === 'past' && event.category === 'theaters') {
         acc[1].push(event);
       }
       return acc;
@@ -24,9 +24,9 @@ const Concerts = () => {
   return (
     <main>
       <div className="page-header">
-        <h1 className="title">Concerts</h1>
+        <h1 className="title">Theaters</h1>
         <p className="sub-title">
-          Get Ready for Unforgettable Concert Experiences
+          Get Ready for Enchanting Theater Experiences
         </p>
       </div>
       <div className="page-content flex flex-col gap-y-10">
@@ -34,26 +34,26 @@ const Concerts = () => {
           {futureEvents.length > 0 ? (
             <ImageSlider
               data={futureEvents}
-              title="Future Concerts"
-              category="concerts"
+              title="Future Theaters"
+              category="theaters"
             />
           ) : (
-            <p className="text-center text-2xl">No upcoming concerts</p>
+            <p className="text-center text-2xl">No upcoming theaters</p>
           )}
         </div>
         <div>
           {pastEvents.length > 0 ? (
             <ImageSlider
               data={pastEvents}
-              title="Past Concerts"
-              category="concerts"
+              title="Past Theaters"
+              category="theaters"
             />
           ) : (
-            <p className="text-center text-2xl">No past concerts</p>
+            <p className="text-center text-2xl">No past theaters</p>
           )}
         </div>
       </div>
     </main>
   );
 };
-export default Concerts;
+export default Theaters;

@@ -6,14 +6,14 @@ import Link from 'next/link';
 import dayjs from 'dayjs';
 import Image from 'next/image';
 
-const ImageSlider = ({ title, data }) => {
+const ImageSlider = ({ title, data, category }) => {
   return (
     <>
       <div className="flex items-center justify-between">
         <div className="title">{title}</div>
         <Link
           className="italic text-sm text-primary hover:text-secondary"
-          href={`/events?category=concerts&type=${
+          href={`/events?category=${category}&type=${
             data[0].type === 'future' ? 'future' : 'past'
           }`}
         >
@@ -45,7 +45,7 @@ const ImageSlider = ({ title, data }) => {
               className="relative"
             >
               <Image
-                className="slider-img scale-[99%] transform hover:-translate-1 hover:scale-100"
+                className="slider-img scale-[99%] transform hover:-translate-1 hover:scale-100 h-[200px] object-cover"
                 src={`http://localhost:4000/images/${event.images[0]}`}
                 width={600}
                 height={400}

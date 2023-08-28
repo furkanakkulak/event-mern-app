@@ -1,8 +1,27 @@
 import { Search } from '@mui/icons-material';
+import { useRouter } from 'next/router';
 
 export default function Home() {
-  const bgImage = {
-    backgroundImage: `url('assets/bgImage.png')`,
+  const router = useRouter();
+
+  const handleSearch = (searchTerm) => {
+    const lowerCaseSearchTerm = searchTerm.toLocaleLowerCase();
+
+    const keywords = [
+      { keyword: /konser|concert|koncert|koncertas/i, page: '/concerts' },
+      { keyword: /tiyatro|theatre|theater|teatro/i, page: '/theaters' },
+      { keyword: /sports|spor|sport|esporte/i, page: '/sports' },
+    ];
+
+    const matchedKeyword = keywords.find((kw) =>
+      kw.keyword.test(lowerCaseSearchTerm)
+    );
+
+    if (matchedKeyword) {
+      router.push(matchedKeyword.page);
+    } else {
+      router.push(`/events?search=${lowerCaseSearchTerm}`);
+    }
   };
 
   return (
@@ -15,8 +34,17 @@ export default function Home() {
           </p>
         </div>
         <div className="search">
-          <input placeholder="Event, Artist or Location" />
-          <Search />
+          <input
+            placeholder="Event, Artist or Location"
+            onKeyUp={(e) => {
+              if (e.key === 'Enter') {
+                handleSearch(e.target.value);
+              }
+            }}
+          />
+          <Search
+            onClick={() => handleSearch(document.querySelector('input').value)}
+          />
         </div>
       </div>
     </main>
