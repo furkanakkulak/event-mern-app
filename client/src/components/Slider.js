@@ -5,6 +5,9 @@ import 'swiper/css/navigation';
 import Link from 'next/link';
 import dayjs from 'dayjs';
 import Image from 'next/image';
+import { MoneyOff } from '@mui/icons-material';
+import noImage from '../assets/no-image.svg';
+import { Autoplay } from 'swiper/modules';
 
 const ImageSlider = ({ title, data, category }) => {
   return (
@@ -37,16 +40,22 @@ const ImageSlider = ({ title, data, category }) => {
         loop={true}
         pagination={{ clickable: true }}
         className="slider"
+        autoplay={{ delay: 5000 }}
+        modules={[Autoplay]}
       >
-        {data.map((event) => (
-          <SwiperSlide>
+        {data.map((event, index) => (
+          <SwiperSlide key={index}>
             <Link
-              href={`/event/${event._id}`}
+              href={`/events/${event._id}`}
               className="relative"
             >
               <Image
                 className="slider-img scale-[99%] transform hover:-translate-1 hover:scale-100 h-[200px] object-cover"
-                src={`http://localhost:4000/images/${event.images[0]}`}
+                src={
+                  event.images[0]
+                    ? `http://localhost:4000/images/${event.images[0]}`
+                    : noImage
+                }
                 width={600}
                 height={400}
                 alt={event.description}
@@ -62,6 +71,11 @@ const ImageSlider = ({ title, data, category }) => {
                   event.type == 'future' ? event.startDate : event.endDate
                 ).format('DD/MM/YYYY HH:mm')}
               </p>
+              {event.free[0] == true && (
+                <span className="absolute bg-emerald-600 text-dark-txt dark:text-light-txt px-4 py-1 text-xs bottom-11 left-2 rounded-full">
+                  <MoneyOff className="w-4" />
+                </span>
+              )}
             </Link>
           </SwiperSlide>
         ))}

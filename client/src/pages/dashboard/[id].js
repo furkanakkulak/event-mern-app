@@ -1,6 +1,9 @@
 import SliderForDetail from '@/components/SliderForDetail';
+import EditEvent from '@/components/dashboard/EditEvent';
+import EventImage from '@/components/dashboard/EventImage';
 import { useEvent } from '@/context';
-import { KeyboardArrowRight } from '@mui/icons-material';
+import { Delete, KeyboardArrowRight } from '@mui/icons-material';
+import { Button } from '@mui/material';
 import dayjs from 'dayjs';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
@@ -8,7 +11,7 @@ import { useEffect, useState } from 'react';
 
 const EventDetail = () => {
   const router = useRouter();
-  const { getEventById } = useEvent();
+  const { getEventById, deleteEvent } = useEvent();
 
   const [event, setEvent] = useState(null);
   const [error, setError] = useState(null);
@@ -38,6 +41,25 @@ const EventDetail = () => {
     }
   }, [router.query.id]);
 
+  const handleUpdateEvent = (data) => {
+    setEvent(data);
+  };
+  const handleUpdateImage = (newImages) => {
+    setEvent((prevEvent) => ({
+      ...prevEvent,
+      images: newImages,
+    }));
+  };
+  const handleDelete = (id) => {
+    const confirmDelete = window.confirm(
+      'Are you sure you want to delete this event?'
+    );
+    if (confirmDelete) {
+      deleteEvent(id);
+      router.push('/dashboard');
+    }
+  };
+
   return (
     <main>
       {error ? (
@@ -52,13 +74,30 @@ const EventDetail = () => {
           <>
             <SliderForDetail images={event.images} />
             <div className="flex flex-col py-8">
-              <div className="page-header !items-start !py-0">
-                <Link
-                  href={`/events?search=${event.name}`}
-                  className="title"
+              <div className="w-full grid grid-cols-3 h-[75px] gap-x-5 pb-5">
+                <EventImage
+                  id={event._id}
+                  handleUpdate={handleUpdateImage}
+                />
+                <EditEvent
+                  id={event._id}
+                  handleUpdate={handleUpdateEvent}
+                />
+                <Button
+                  variant="outlined"
+                  className="w-full"
+                  color="error"
+                  onClick={() => handleDelete(event._id)}
                 >
-                  {event.name}
-                </Link>
+                  <Delete />
+                </Button>
+              </div>
+              <div className="page-header !items-start !py-0">
+                <div className="title flex items-center gap-3">
+                  <Link href={`/dashboard?search=${event.name}`}>
+                    {event.name}
+                  </Link>
+                </div>
                 <h1 className="sub-title text-left mt-5">
                   {event.description}
                 </h1>

@@ -74,7 +74,7 @@ const Navbar = () => {
             Concerts
           </Link>
           <Link
-            className={router.pathname === 'theaters' ? 'active' : ''}
+            className={router.pathname === '/theaters' ? 'active' : ''}
             href="/theaters"
           >
             Theaters
@@ -86,7 +86,9 @@ const Navbar = () => {
             Sports
           </Link>
           <Link
-            className={router.pathname === '/dashboard' ? 'active' : ''}
+            className={
+              router.pathname.includes('/dashboard') === true ? 'active' : ''
+            }
             href="/dashboard"
           >
             Dashboard
@@ -127,7 +129,7 @@ const Navbar = () => {
               Concerts
             </Link>
             <Link
-              className={router.pathname === 'theaters' ? 'active' : ''}
+              className={router.pathname === '/theaters' ? 'active' : ''}
               href="/theaters"
             >
               Theaters
@@ -139,7 +141,9 @@ const Navbar = () => {
               Sports
             </Link>
             <Link
-              className={router.pathname === '/dashboard' ? 'active' : ''}
+              className={
+                router.pathname.includes('/dashboard') === true ? 'active' : ''
+              }
               href="/dashboard"
             >
               Dashboard

@@ -17,6 +17,7 @@ const eventSchema = new mongoose.Schema({
       price: Number,
     },
   ],
+  free: [Boolean],
 });
 
 const Event = mongoose.model('Event', eventSchema);

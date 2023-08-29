@@ -254,7 +254,7 @@ const generateConcertData = () => {
     { category: 'VIP', price: Math.floor(Math.random() * 351) + 150 },
   ];
   const description = `Get ready for an evening of music and live performance! We're excited to invite you to an unforgettable concert night where talented artists will create the magical world of music at ${location}'s unique atmosphere. Secure your spot and be a part of this extraordinary musical journey!`;
-
+  const free = Math.random() < 0.15;
   const eventData = {
     name,
     description,
@@ -265,13 +265,14 @@ const generateConcertData = () => {
     maps,
     location,
     category,
+    free,
     ticketPrices,
   };
   return eventData;
 };
 
 const concertData = [];
-for (let i = 0; i < 100; i++) {
+for (let i = 0; i < 150; i++) {
   const eventData = generateConcertData();
   concertData.push(eventData);
 }

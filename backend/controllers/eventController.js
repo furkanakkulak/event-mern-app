@@ -74,12 +74,19 @@ exports.createEvent = async (req, res) => {
       maps: Joi.string().required(),
       location: Joi.string().required(),
       category: Joi.string().required(),
-      ticketPrices: Joi.array().items(
-        Joi.object({
-          category: Joi.string().required(),
-          price: Joi.number().required(),
-        })
-      ),
+      free: Joi.boolean().required(),
+      ticketPrices: Joi.when('free', {
+        is: false,
+        then: Joi.array()
+          .items(
+            Joi.object({
+              category: Joi.string().required(),
+              price: Joi.number().required(),
+            })
+          )
+          .required(),
+        otherwise: Joi.array(),
+      }),
     });
 
     const { error, value } = schema.validate(req.body, { abortEarly: false });
@@ -120,12 +127,19 @@ exports.updateEvent = async (req, res) => {
       maps: Joi.string().required(),
       location: Joi.string().required(),
       category: Joi.string().required(),
-      ticketPrices: Joi.array().items(
-        Joi.object({
-          category: Joi.string().required(),
-          price: Joi.number().required(),
-        })
-      ),
+      free: Joi.boolean().required(),
+      ticketPrices: Joi.when('free', {
+        is: false,
+        then: Joi.array()
+          .items(
+            Joi.object({
+              category: Joi.string().required(),
+              price: Joi.number().required(),
+            })
+          )
+          .required(),
+        otherwise: Joi.array(),
+      }),
     });
 
     const { error, value } = schema.validate(req.body, { abortEarly: false });

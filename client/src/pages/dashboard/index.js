@@ -7,8 +7,9 @@ import Link from 'next/link';
 import { useRouter } from 'next/router';
 import { useState, useEffect } from 'react';
 import noImage from '../../assets/no-image.svg';
+import AddEvent from '@/components/dashboard/AddEvent';
 
-const AllEvents = () => {
+const Dashboard = () => {
   const router = useRouter();
   const { query } = router;
   const [filteredEvents, setFilteredEvents] = useState([]);
@@ -47,7 +48,7 @@ const AllEvents = () => {
     const searchTerms = searchTerm.toLocaleLowerCase().split(' ');
     const results = filteredEvents.filter((event) =>
       searchTerms.every((term) =>
-        ['name', 'city', 'location'].some((prop) =>
+        ['name', 'city', 'location', '_id'].some((prop) =>
           event[prop].toLocaleLowerCase().includes(term)
         )
       )
@@ -74,7 +75,7 @@ const AllEvents = () => {
     setSelectedCategories(updatedCategories);
 
     router.push({
-      pathname: '/events',
+      pathname: '/dashboard',
       query: {
         ...router.query,
         category: updatedCategories.join(','),
@@ -86,7 +87,7 @@ const AllEvents = () => {
   const handleTypeChange = (newType) => {
     setSelectedType(newType);
     router.push({
-      pathname: '/events',
+      pathname: '/dashboard',
       query: {
         ...router.query,
         type: newType,
@@ -99,7 +100,7 @@ const AllEvents = () => {
     const newSearchTerm = e.target.value;
     setSearchTerm(newSearchTerm);
     router.push({
-      pathname: '/events',
+      pathname: '/dashboard',
       query: { ...query, search: newSearchTerm },
     });
   };
@@ -122,9 +123,10 @@ const AllEvents = () => {
 
   return (
     <main>
+      <AddEvent />
       <div className="page-header">
-        <h1 className="title">All Events</h1>
-        <p className="sub-title">Browse and filter upcoming events.</p>
+        <h1 className="title">Dashboard</h1>
+        <p className="sub-title">Here, you're in control.</p>
       </div>
       <div className="page-content py-8">
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-5">
@@ -240,7 +242,7 @@ const AllEvents = () => {
                 key={index}
               >
                 <Link
-                  href={`/events/${event._id}`}
+                  href={`/dashboard/${event._id}`}
                   passHref
                 >
                   <Image
@@ -282,4 +284,4 @@ const AllEvents = () => {
   );
 };
 
-export default AllEvents;
+export default Dashboard;

@@ -14,6 +14,7 @@ export function EventProvider({ children }) {
     try {
       const response = await axios.post('/api/events', event);
       setEvents((prevEvents) => [...prevEvents, response.data]);
+      return response.data;
     } catch (error) {
       console.log(error);
     } finally {
@@ -28,6 +29,7 @@ export function EventProvider({ children }) {
       setEvents((prevEvents) =>
         prevEvents.map((event) => (event._id === id ? response.data : event))
       );
+      return response.data;
     } catch (error) {
       console.log(error);
     } finally {
@@ -94,6 +96,18 @@ export function EventProvider({ children }) {
     }
   };
 
+  const getEventById = async (id) => {
+    setLoading(true);
+    try {
+      const response = await axios.get(`/api/events/${id}`);
+      return response.data;
+    } catch (error) {
+      console.log(error);
+      return error;
+    } finally {
+      setLoading(false);
+    }
+  };
   return (
     <EventContext.Provider
       value={{
@@ -105,6 +119,7 @@ export function EventProvider({ children }) {
         uploadImages,
         deleteImage,
         deleteEvent,
+        getEventById,
       }}
     >
       {children}

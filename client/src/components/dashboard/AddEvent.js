@@ -14,9 +14,11 @@ import {
 } from '@mui/x-date-pickers';
 import { FormControl, InputLabel, MenuItem, Select } from '@mui/material';
 import { useEvent } from '@/context';
+import { useRouter } from 'next/router';
 
 export default function AddEvent() {
   const { addEvent } = useEvent();
+  const router = useRouter();
 
   const [open, setOpen] = React.useState(false);
   const [eventData, setEventData] = React.useState({
@@ -28,7 +30,8 @@ export default function AddEvent() {
     address: '',
     location: '',
     maps: '',
-    category: 'concerts', // Default category
+    category: 'concerts',
+    free: true,
     ticketPrices: [
       {
         category: 'Standart',
@@ -40,6 +43,11 @@ export default function AddEvent() {
       },
     ],
   });
+
+  const handleFreeChange = () => {
+    const data = eventData;
+    setEventData((prevData) => ({ ...prevData, free: !prevData.free }));
+  };
 
   const handleClickOpen = () => {
     setOpen(true);
@@ -85,6 +93,7 @@ export default function AddEvent() {
       city,
       address,
       location,
+      free,
       ticketPrices,
     } = eventData;
 
@@ -100,9 +109,11 @@ export default function AddEvent() {
     );
   };
 
-  const handleSubscribe = () => {
-    addEvent(eventData);
-    handleClose();
+  const handleSubmit = () => {
+    addEvent(eventData).then((res) => {
+      router.push(`/dashboard?search=${res._id}`);
+      handleClose();
+    });
   };
 
   return (
@@ -233,6 +244,16 @@ export default function AddEvent() {
               value={eventData.maps}
               onChange={handleChange}
             />
+            <div>
+              <label>
+                Free:{' '}
+                <input
+                  type="checkbox"
+                  defaultChecked={eventData.free}
+                  onChange={handleFreeChange}
+                />
+              </label>
+            </div>
             {eventData.ticketPrices.map((ticketPrice, index) => (
               <div key={index}>
                 <TextField
@@ -255,7 +276,7 @@ export default function AddEvent() {
         <DialogActions>
           <Button onClick={handleClose}>Cancel</Button>
           <Button
-            onClick={handleSubscribe}
+            onClick={handleSubmit}
             disabled={!isFormValid()}
           >
             Add Event
