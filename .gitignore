@@ -11,3 +11,5 @@ backend/node_modules/
 backend/pnpm-lock.yaml
 
 backend/public/images/*
+
+backend/.env

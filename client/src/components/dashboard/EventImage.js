@@ -54,7 +54,7 @@ export default function EventImage({ id, handleUpdate }) {
       'Are you sure you want to delete this image?'
     );
     if (confirmDelete) {
-      deleteImage(id, img).then((res) => {
+      deleteImage(id, img['imageName']).then((res) => {
         setImages(images.filter((event) => event !== img));
         handleUpdate(images.filter((event) => event !== img));
       });
@@ -89,7 +89,7 @@ export default function EventImage({ id, handleUpdate }) {
                   <img
                     key={index}
                     className=" ratio-1/1 h-full object-cover rounded-2xl"
-                    src={`http://localhost:4000/images/${event}`}
+                    src={event.imageUrl}
                     onClick={() => {
                       handleDeleteImage(event);
                     }}

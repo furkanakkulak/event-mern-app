@@ -1,7 +1,31 @@
-const fs = require('fs');
+const admin = require('firebase-admin');
 const path = require('path');
+const fs = require('fs').promises;
 const Joi = require('joi');
 const Event = require('../models/Event');
+const dotenv = require('dotenv');
+dotenv.config();
+
+const serviceAccount = {
+  type: process.env.TYPE,
+  project_id: process.env.PROJECT_ID,
+  private_key_id: process.env.PRIVATE_KEY_ID,
+  private_key: process.env.PRIVATE_KEY.replace(/\\n/g, '\n'),
+  client_email: process.env.CLIENT_EMAIL,
+  client_id: process.env.CLIENT_ID,
+  auth_uri: process.env.AUTH_URI,
+  token_uri: process.env.TOKEN_URI,
+  auth_provider_x509_cert_url: process.env.AUTH_PROVIDER_X509_CERT_URL,
+  client_x509_cert_url: process.env.CLIENT_X509_CERT_URL,
+  universe_domain: process.env.UNIVERSE_DOMAIN,
+};
+
+admin.initializeApp({
+  credential: admin.credential.cert(serviceAccount),
+  storageBucket: process.env.STORAGE_BUCKET,
+});
+const storage = admin.storage();
+const bucket = storage.bucket();
 
 exports.getAllEvents = async (req, res) => {
   try {
@@ -20,17 +44,39 @@ exports.getAllEvents = async (req, res) => {
       return res.status(404).json({ error: 'No events found.' });
     }
 
-    const updatedEvents = events.map((event) => {
-      const now = new Date();
-      const eventStartDate = new Date(event.startDate);
+    const updatedEvents = await Promise.all(
+      events.map(async (event) => {
+        const now = new Date();
+        const eventStartDate = new Date(event.startDate);
+        const type = now < eventStartDate ? 'future' : 'past';
 
-      const type = now < eventStartDate ? 'future' : 'past';
+        const imagePromises = event.images.map(async (imageName) => {
+          const imagePath = `images/${imageName}`;
+          const file = bucket.file(imagePath);
 
-      return {
-        ...event.toObject(),
-        type,
-      };
-    });
+          const expirationDate = new Date();
+          expirationDate.setDate(expirationDate.getDate() + 1);
+
+          const [url] = await file.getSignedUrl({
+            action: 'read',
+            expires: expirationDate.toISOString(),
+          });
+
+          return {
+            imageName,
+            imageUrl: url,
+          };
+        });
+
+        const eventImages = await Promise.all(imagePromises);
+
+        return {
+          ...event.toObject(),
+          type,
+          images: eventImages,
+        };
+      })
+    );
 
     res.status(200).json(updatedEvents);
   } catch (error) {
@@ -53,8 +99,29 @@ exports.getEventById = async (req, res) => {
     } else if (event.startDate >= currentDate) {
       eventType = 'future';
     }
+    const imagePromises = event.images.map(async (imageName) => {
+      const imagePath = `images/${imageName}`;
+      const file = bucket.file(imagePath);
 
-    res.status(200).json({ ...event.toObject(), type: eventType });
+      const expirationDate = new Date();
+      expirationDate.setDate(expirationDate.getDate() + 1);
+
+      const [url] = await file.getSignedUrl({
+        action: 'read',
+        expires: expirationDate.toISOString(),
+      });
+
+      return {
+        imageName,
+        imageUrl: url,
+      };
+    });
+
+    const eventImages = await Promise.all(imagePromises);
+
+    res
+      .status(200)
+      .json({ ...event.toObject(), type: eventType, images: eventImages });
   } catch (error) {
     res
       .status(500)
@@ -151,7 +218,30 @@ exports.updateEvent = async (req, res) => {
       return res.status(400).json({ errors });
     }
 
-    res.status(200).json(event);
+    const imagePromises = event.images.map(async (imageName) => {
+      const imagePath = `images/${imageName}`;
+      const file = bucket.file(imagePath);
+
+      const expirationDate = new Date();
+      expirationDate.setDate(expirationDate.getDate() + 1);
+
+      const [url] = await file.getSignedUrl({
+        action: 'read',
+        expires: expirationDate.toISOString(),
+      });
+
+      return {
+        imageName,
+        imageUrl: url,
+      };
+    });
+
+    const eventImages = await Promise.all(imagePromises);
+
+    res.status(200).json({
+      ...event.toObject(),
+      images: eventImages,
+    });
   } catch (error) {
     res.status(400).json({ error: 'Failed to update the event.' });
   }
@@ -182,17 +272,54 @@ exports.uploadImages = async (req, res) => {
       return res.status(400).json({ error: 'No files uploaded' });
     }
 
-    const imageNames = req.files.map((file) => file.filename);
+    const imagePromises = req.files.map(async (file) => {
+      const uniqueSuffix = Date.now() + '-' + Math.round(Math.random() * 1e9);
+      const extension = path.extname(file.originalname);
+      const imageName = uniqueSuffix + extension;
+
+      const destinationPath = `images/${imageName}`;
+      await bucket.upload(file.path, {
+        destination: destinationPath,
+      });
+
+      return imageName;
+    });
+
+    const imageNames = await Promise.all(imagePromises);
 
     event.images.push(...imageNames);
     await event.save();
 
-    res.status(200).json(event);
+    const eventImages = await Promise.all(
+      event.images.map(async (imageName) => {
+        const imagePath = `images/${imageName}`;
+        const file = bucket.file(imagePath);
+
+        const expirationDate = new Date();
+        expirationDate.setDate(expirationDate.getDate() + 1);
+
+        const [url] = await file.getSignedUrl({
+          action: 'read',
+          expires: expirationDate.toISOString(),
+        });
+
+        return {
+          imageName,
+          imageUrl: url,
+        };
+      })
+    );
+
+    res.status(200).json({
+      ...event.toObject(),
+      images: eventImages,
+    });
   } catch (error) {
     console.log(error);
     res.status(400).json({ error: error.message });
   }
 };
+
 exports.deleteImage = async (req, res) => {
   try {
     const { eventId } = req.params;
@@ -204,13 +331,37 @@ exports.deleteImage = async (req, res) => {
       return res.status(404).json({ error: 'Event not found' });
     }
 
+    const imagePath = `images/${imageName}`;
+
+    await bucket.file(imagePath).delete();
+
     event.images = event.images.filter((image) => image !== imageName);
     await event.save();
 
-    const imagePath = path.join('public/images', imageName);
-    fs.unlinkSync(imagePath);
+    const eventImages = await Promise.all(
+      event.images.map(async (imageName) => {
+        const imagePath = `images/${imageName}`;
+        const file = bucket.file(imagePath);
 
-    res.status(200).json(event);
+        const expirationDate = new Date();
+        expirationDate.setDate(expirationDate.getDate() + 1);
+
+        const [url] = await file.getSignedUrl({
+          action: 'read',
+          expires: expirationDate.toISOString(),
+        });
+
+        return {
+          imageName,
+          imageUrl: url,
+        };
+      })
+    );
+
+    res.status(200).json({
+      ...event.toObject(),
+      images: eventImages,
+    });
   } catch (error) {
     res.status(400).json({ error: error.message });
   }

@@ -30,7 +30,7 @@ const SliderForDetail = ({ images }) => {
           <SwiperSlide key={index}>
             <Image
               className="slider-img scale-[99%] transform hover:-translate-1 hover:scale-100 !h-[150px] md:!h-[350px] object-cover !w-full rounded-2xl"
-              src={`http://localhost:4000/images/${image}`}
+              src={image.imageUrl}
               width={1000}
               height={400}
               alt={image}

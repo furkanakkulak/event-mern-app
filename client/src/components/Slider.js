@@ -51,11 +51,7 @@ const ImageSlider = ({ title, data, category }) => {
             >
               <Image
                 className="slider-img scale-[99%] transform hover:-translate-1 hover:scale-100 h-[200px] object-cover"
-                src={
-                  event.images[0]
-                    ? `http://localhost:4000/images/${event.images[0]}`
-                    : noImage
-                }
+                src={event.images[0] ? `${event.images[0].imageUrl}` : noImage}
                 width={600}
                 height={400}
                 alt={event.description}

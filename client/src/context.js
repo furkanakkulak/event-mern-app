@@ -7,7 +7,7 @@ export function EventProvider({ children }) {
   const [events, setEvents] = useState([]);
   const [loading, setLoading] = useState(false);
 
-  axios.defaults.baseURL = 'http://localhost:4000';
+  axios.defaults.baseURL = process.env.NEXT_PUBLIC_API_URL;
 
   const addEvent = async (event) => {
     setLoading(true);
