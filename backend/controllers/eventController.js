@@ -24,8 +24,7 @@ admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
   storageBucket: process.env.STORAGE_BUCKET,
 });
-const storage = admin.storage();
-const bucket = storage.bucket();
+const bucket = admin.storage().bucket();
 
 exports.getAllEvents = async (req, res) => {
   try {
@@ -277,9 +276,13 @@ exports.uploadImages = async (req, res) => {
       const extension = path.extname(file.originalname);
       const imageName = uniqueSuffix + extension;
 
-      const destinationPath = `images/${imageName}`;
-      await bucket.upload(file.path, {
-        destination: destinationPath,
+      // Firebase Storage'a yükle
+      const fileRef = bucket.file(`images/${imageName}`);
+      const metadata = {
+        contentType: file.mimetype,
+      };
+      await fileRef.save(file.buffer, {
+        metadata: metadata,
       });
 
       return imageName;

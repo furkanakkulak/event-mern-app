@@ -13,3 +13,4 @@ backend/pnpm-lock.yaml
 backend/public/images/*
 
 backend/.env
+backend/vars
