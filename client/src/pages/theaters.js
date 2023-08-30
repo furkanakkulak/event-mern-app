@@ -10,7 +10,7 @@ const Theaters = () => {
     if (events.length < 1) {
       fetchAllEvents();
     }
-  }, [fetchAllEvents, events.length]);
+  }, []);
 
   const [futureEvents, pastEvents] = events.reduce(
     (acc, event) => {

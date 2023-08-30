@@ -28,7 +28,7 @@ const EventDetail = () => {
   }
 
   useEffect(() => {
-    if (router.query.id) {
+    if (router.query.id && !event) {
       getEventById(router.query.id).then((res) => {
         if (!res.message) {
           setEvent(res);
@@ -37,7 +37,7 @@ const EventDetail = () => {
         }
       });
     }
-  }, [router.query.id, getEventById]);
+  }, [router.query.id]);
 
   return (
     <>
