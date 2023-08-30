@@ -5,7 +5,12 @@ import 'swiper/css/navigation';
 import Link from 'next/link';
 import dayjs from 'dayjs';
 import Image from 'next/image';
-import { MoneyOff } from '@mui/icons-material';
+import {
+  EventAvailable,
+  EventBusy,
+  LocationOn,
+  MoneyOff,
+} from '@mui/icons-material';
 import noImage from '../assets/no-image.svg';
 import { Autoplay } from 'swiper/modules';
 
@@ -57,12 +62,20 @@ const ImageSlider = ({ title, data, category }) => {
                 alt={event.description}
               />
               <h1 className="slider-title">{event.name}</h1>
-              <p className="slider-date !right-auto !left-2">{event.city}</p>
+              <p className="slider-date !right-auto !left-2 ">
+                <LocationOn className="h-[20px]" />
+                {event.city}
+              </p>
               <p
-                className={`slider-date text-dark-txt dark:text-light-txt ${
-                  event.type == 'future' ? '!bg-secondary' : '!bg-primary'
+                className={`slider-date text-dark-txt dark:text-light-txt  ${
+                  event.type === 'future' ? '!bg-secondary' : '!bg-primary'
                 }`}
               >
+                {event.type === 'future' ? (
+                  <EventAvailable className="h-[15px]" />
+                ) : (
+                  <EventBusy className="h-[15px]" />
+                )}
                 {dayjs(
                   event.type == 'future' ? event.startDate : event.endDate
                 ).format('DD/MM/YYYY HH:mm')}

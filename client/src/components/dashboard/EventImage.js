@@ -6,7 +6,8 @@ import DialogContent from '@mui/material/DialogContent';
 import DialogContentText from '@mui/material/DialogContentText';
 import DialogTitle from '@mui/material/DialogTitle';
 import { useEvent } from '@/context';
-import { Image } from '@mui/icons-material';
+import Image from 'next/image';
+import { InsertPhoto } from '@mui/icons-material';
 
 export default function EventImage({ id, handleUpdate }) {
   const { uploadImages, deleteImage, getEventById } = useEvent();
@@ -68,7 +69,7 @@ export default function EventImage({ id, handleUpdate }) {
         variant="outlined"
         onClick={handleClickOpen}
       >
-        <Image />
+        <InsertPhoto />
       </Button>
       {images && (
         <Dialog
@@ -80,16 +81,19 @@ export default function EventImage({ id, handleUpdate }) {
           </DialogTitle>
           <DialogContent className="bg-light-bg dark:bg-dark-bg text-light-txt dark:text-dark-txt">
             <DialogContentText className="mb-5 text-light-txt dark:text-dark-txt">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio
-              ipsa excepturi facere veritatis ad sit.
+              You can use this screen to upload photos for a specific event or
+              delete uploaded photos by clicking on them.
             </DialogContentText>
             {open && images && images.length > 0 && (
               <div className="grid grid-cols-3 gap-2 dark:bg-[#222222] rounded-2xl p-2">
                 {images.map((event, index) => (
-                  <img
+                  <Image
                     key={index}
                     className=" ratio-1/1 h-full object-cover rounded-2xl"
                     src={event.imageUrl}
+                    width={300}
+                    alt={event.imageName}
+                    height={200}
                     onClick={() => {
                       handleDeleteImage(event);
                     }}
@@ -110,6 +114,7 @@ export default function EventImage({ id, handleUpdate }) {
             <Button
               onClick={handleImageUpload}
               disabled={selectedImages.length === 0}
+              className="dark:disabled:transparent dark:disabled:text-light-txt"
             >
               Upload Images
             </Button>

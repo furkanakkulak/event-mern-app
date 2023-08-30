@@ -1,13 +1,16 @@
 import ImageSlider from '@/components/Slider';
 import { useEvent } from '@/context';
+import Head from 'next/head';
 import { useEffect } from 'react';
 
 const Theaters = () => {
   const { fetchAllEvents, events } = useEvent();
 
   useEffect(() => {
-    fetchAllEvents();
-  }, []);
+    if (events.length < 1) {
+      fetchAllEvents();
+    }
+  }, [fetchAllEvents, events.length]);
 
   const [futureEvents, pastEvents] = events.reduce(
     (acc, event) => {
@@ -22,38 +25,43 @@ const Theaters = () => {
   );
 
   return (
-    <main>
-      <div className="page-header">
-        <h1 className="title">Theaters</h1>
-        <p className="sub-title">
-          Get Ready for Enchanting Theater Experiences
-        </p>
-      </div>
-      <div className="page-content flex flex-col gap-y-10">
-        <div>
-          {futureEvents.length > 0 ? (
-            <ImageSlider
-              data={futureEvents}
-              title="Future Theaters"
-              category="theaters"
-            />
-          ) : (
-            <p className="text-center text-2xl">No upcoming theaters</p>
-          )}
+    <>
+      <Head>
+        <title>Theaters | EventPassify</title>
+      </Head>
+      <main>
+        <div className="page-header">
+          <h1 className="title">Theaters</h1>
+          <p className="sub-title">
+            Get Ready for Enchanting Theater Experiences
+          </p>
         </div>
-        <div>
-          {pastEvents.length > 0 ? (
-            <ImageSlider
-              data={pastEvents}
-              title="Past Theaters"
-              category="theaters"
-            />
-          ) : (
-            <p className="text-center text-2xl">No past theaters</p>
-          )}
+        <div className="page-content flex flex-col gap-y-10">
+          <div>
+            {futureEvents.length > 0 ? (
+              <ImageSlider
+                data={futureEvents}
+                title="Future Theaters"
+                category="theaters"
+              />
+            ) : (
+              <p className="text-center text-2xl">No upcoming theaters</p>
+            )}
+          </div>
+          <div>
+            {pastEvents.length > 0 ? (
+              <ImageSlider
+                data={pastEvents}
+                title="Past Theaters"
+                category="theaters"
+              />
+            ) : (
+              <p className="text-center text-2xl">No past theaters</p>
+            )}
+          </div>
         </div>
-      </div>
-    </main>
+      </main>
+    </>
   );
 };
 export default Theaters;

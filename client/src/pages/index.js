@@ -1,4 +1,5 @@
 import { Search } from '@mui/icons-material';
+import Head from 'next/head';
 import { useRouter } from 'next/router';
 
 export default function Home() {
@@ -25,28 +26,35 @@ export default function Home() {
   };
 
   return (
-    <main className="home">
-      <div className="content">
-        <div className="head">
-          <h1 className="title">Embark on a Journey of Exploration:</h1>
-          <p className="sub-title">
-            Uncover the Thrills of Concerts, Sports, Theatre, and Beyond!
-          </p>
-        </div>
-        <div className="search">
-          <input
-            placeholder="Event, Artist or Location"
-            onKeyUp={(e) => {
-              if (e.key === 'Enter') {
-                handleSearch(e.target.value);
+    <>
+      <Head>
+        <title>EventPassify</title>
+      </Head>
+      <main className="home">
+        <div className="content">
+          <div className="head">
+            <h1 className="title">Embark on a Journey of Exploration:</h1>
+            <p className="sub-title">
+              Uncover the Thrills of Concerts, Sports, Theatre, and Beyond!
+            </p>
+          </div>
+          <div className="search">
+            <input
+              placeholder="Event, Artist or Location"
+              onKeyUp={(e) => {
+                if (e.key === 'Enter') {
+                  handleSearch(e.target.value);
+                }
+              }}
+            />
+            <Search
+              onClick={() =>
+                handleSearch(document.querySelector('input').value)
               }
-            }}
-          />
-          <Search
-            onClick={() => handleSearch(document.querySelector('input').value)}
-          />
+            />
+          </div>
         </div>
-      </div>
-    </main>
+      </main>
+    </>
   );
 }

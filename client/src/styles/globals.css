@@ -153,13 +153,13 @@
             @apply text-light-txt dark:text-dark-txt;
           }
           .slider-img {
-            @apply rounded-2xl opacity-80 hover:opacity-100 transition duration-500 ease-in-out;
+            @apply rounded-2xl opacity-80 dark:opacity-80 dark:hover:opacity-100 hover:opacity-100 transition duration-500 ease-in-out;
           }
           .slider-title {
             @apply text-light-txt dark:text-dark-txt select-none italic text-lg px-2;
           }
           .slider-date {
-            @apply absolute top-1.5 right-1.5 bg-light-bg dark:bg-dark-bg rounded-full px-3 py-1.5 text-xs font-medium italic bg-opacity-50 dark:bg-opacity-50;
+            @apply absolute top-1.5 right-1.5 bg-light-bg dark:bg-dark-bg rounded-full px-3 py-1.5 text-xs font-medium italic bg-opacity-70 dark:bg-opacity-70 items-center flex justify-center;
           }
         }
       }
