@@ -6,6 +6,14 @@ import Head from 'next/head';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import { useEffect, useState } from 'react';
+import {
+  FacebookIcon,
+  FacebookShareButton,
+  TwitterIcon,
+  TwitterShareButton,
+  WhatsappIcon,
+  WhatsappShareButton,
+} from 'react-share';
 
 const EventDetail = () => {
   const router = useRouter();
@@ -57,6 +65,17 @@ const EventDetail = () => {
             <>
               <SliderForDetail images={event.images} />
               <div className="flex flex-col py-8">
+                <div className="w-full flex justify-center md:justify-end items-end pb-5 gap-5">
+                  <TwitterShareButton url={`${window.location.href}`}>
+                    <TwitterIcon className="rounded-full" />
+                  </TwitterShareButton>
+                  <WhatsappShareButton url={`${window.location.href}`}>
+                    <WhatsappIcon className="rounded-full" />
+                  </WhatsappShareButton>
+                  <FacebookShareButton url={`${window.location.href}`}>
+                    <FacebookIcon className="rounded-full" />
+                  </FacebookShareButton>
+                </div>
                 <div className="page-header !items-start !py-0">
                   <Link
                     href={`/events?search=${event.name}`}

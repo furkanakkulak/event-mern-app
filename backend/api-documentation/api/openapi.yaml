@@ -1,0 +1,261 @@
+openapi: 3.0.0
+info:
+  title: EventPassify Management API
+  description: "API for managing events. This API allows you to perform operations\
+    \ related to events, such as getting event details, creating events, updating\
+    \ events, uploading images for events, and deleting events."
+  version: 1.0.0
+servers:
+- url: http://localhost:4000
+paths:
+  /api/events:
+    get:
+      summary: Get all events
+      operationId: apiEventsGET
+      responses:
+        "200":
+          description: Successful response
+          content:
+            application/json:
+              example:
+              - _id: event_id
+                name: Event Name
+                description: Event Description
+                startDate: 2023-09-26T08:16:02.446Z
+                endDate: 2023-09-26T10:16:02.446Z
+                city: City
+                address: Address
+                maps: Google Maps URL
+                location: Location Name
+                category: Category
+                images:
+                - imageName: imageName.png
+                  imageUrl: imageUrl (firebase storage)
+                free:
+                - true
+                type: past
+      x-swagger-router-controller: Default
+    post:
+      summary: Create a new event
+      operationId: apiEventsPOST
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/EventInput'
+        required: true
+      responses:
+        "201":
+          description: Event created successfully
+          content:
+            application/json:
+              example:
+                _id: event_id
+                name: New Event
+      x-swagger-router-controller: Default
+  /api/events/{id}:
+    get:
+      summary: Get an event by ID
+      operationId: apiEventsIdGET
+      parameters:
+      - name: id
+        in: path
+        description: Event ID
+        required: true
+        style: simple
+        explode: false
+        schema:
+          type: string
+      responses:
+        "200":
+          description: Successful response
+          content:
+            application/json:
+              example:
+                _id: event_id
+                name: Event Name
+                description: Event Description
+                startDate: 2023-09-26T08:16:02.446Z
+                endDate: 2023-09-26T10:16:02.446Z
+                city: City
+                address: Address
+                maps: Google Maps URL
+                location: Location Name
+                category: Category
+                images:
+                - imageName: imageName.png
+                  imageUrl: imageUrl (firebase storage)
+                free:
+                - true
+                type: past
+      x-swagger-router-controller: Default
+    put:
+      summary: Update an event
+      operationId: apiEventsIdPUT
+      parameters:
+      - name: id
+        in: path
+        description: Event ID
+        required: true
+        style: simple
+        explode: false
+        schema:
+          $ref: '#/components/schemas/EventInput'
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/EventInput'
+        required: true
+      responses:
+        "200":
+          description: Event updated successfully
+          content:
+            application/json:
+              example:
+                _id: event_id
+                name: Updated Event
+      x-swagger-router-controller: Default
+    delete:
+      summary: Delete an event
+      operationId: apiEventsIdDELETE
+      parameters:
+      - name: id
+        in: path
+        description: Event ID
+        required: true
+        style: simple
+        explode: false
+        schema:
+          type: string
+      responses:
+        "204":
+          description: Event deleted successfully
+      x-swagger-router-controller: Default
+  /api/events/{id}/upload-images:
+    post:
+      summary: Upload images for an event
+      operationId: apiEventsIdUpload_imagesPOST
+      parameters:
+      - name: id
+        in: path
+        description: Event ID
+        required: true
+        style: simple
+        explode: false
+        schema:
+          type: string
+      requestBody:
+        content:
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/id_uploadimages_body'
+        required: true
+      responses:
+        "200":
+          description: Images uploaded successfully
+      x-swagger-router-controller: Default
+  /api/events/{id}/delete-image:
+    delete:
+      summary: Delete an image from an event
+      operationId: apiEventsIdDelete_imageDELETE
+      parameters:
+      - name: id
+        in: path
+        description: Event ID
+        required: true
+        style: simple
+        explode: false
+        schema:
+          type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/id_deleteimage_body'
+        required: true
+      responses:
+        "200":
+          description: Image deleted successfully
+          content:
+            application/json:
+              example:
+                _id: event_id
+                name: Event Name
+                description: Event Description
+                startDate: 2023-09-26T08:16:02.446Z
+                endDate: 2023-09-26T10:16:02.446Z
+                city: City
+                address: Address
+                maps: Google Maps URL
+                location: Location Name
+                category: Category
+                images:
+                - imageName: imageName.png
+                  imageUrl: imageUrl (firebase storage)
+                free:
+                - true
+                type: past
+      x-swagger-router-controller: Default
+components:
+  schemas:
+    EventInput:
+      type: object
+      properties:
+        name:
+          type: string
+        description:
+          type: string
+        startDate:
+          type: string
+          format: date-time
+        endDate:
+          type: string
+          format: date-time
+        city:
+          type: string
+        address:
+          type: string
+        maps:
+          type: string
+        location:
+          type: string
+        category:
+          type: string
+        free:
+          type: boolean
+        ticketPrices:
+          type: array
+          items:
+            $ref: '#/components/schemas/EventInput_ticketPrices'
+    Event:
+      allOf:
+      - $ref: '#/components/schemas/EventInput'
+      - type: object
+        properties:
+          _id:
+            type: string
+          images:
+            type: array
+            items:
+              type: string
+    id_uploadimages_body:
+      type: object
+      properties:
+        images:
+          type: array
+          items:
+            type: string
+            format: binary
+    id_deleteimage_body:
+      type: object
+      properties:
+        imageName:
+          type: string
+    EventInput_ticketPrices:
+      type: object
+      properties:
+        category:
+          type: string
+        price:
+          type: number
