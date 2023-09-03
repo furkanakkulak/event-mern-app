@@ -111,6 +111,7 @@ const Navbar = () => {
             <Link
               className={router.pathname === '/' ? 'active' : ''}
               href="/"
+              onClick={() => handleNavLinkClick()}
             >
               Home
             </Link>
@@ -119,24 +120,28 @@ const Navbar = () => {
                 router.pathname.includes('/events') === true ? 'active' : ''
               }
               href="/events"
+              onClick={() => handleNavLinkClick()}
             >
               All Events
             </Link>
             <Link
               className={router.pathname === '/concerts' ? 'active' : ''}
               href="/concerts"
+              onClick={() => handleNavLinkClick()}
             >
               Concerts
             </Link>
             <Link
               className={router.pathname === '/theaters' ? 'active' : ''}
               href="/theaters"
+              onClick={() => handleNavLinkClick()}
             >
               Theaters
             </Link>
             <Link
               className={router.pathname === '/sports' ? 'active' : ''}
               href="/sports"
+              onClick={() => handleNavLinkClick()}
             >
               Sports
             </Link>
@@ -145,6 +150,7 @@ const Navbar = () => {
                 router.pathname.includes('/dashboard') === true ? 'active' : ''
               }
               href="/dashboard"
+              onClick={() => handleNavLinkClick()}
             >
               Dashboard
             </Link>
